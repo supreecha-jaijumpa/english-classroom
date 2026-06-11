@@ -12,13 +12,17 @@ Open this folder in VS Code and talk to Claude:
 
 | What to say | What happens |
 |---|---|
-| `let's study` | Full lesson session (warm-up → lesson → practice → wrap-up) |
-| `/practice` | Quick conversation or exercise |
-| `/quiz` | Vocabulary or grammar quiz |
-| `/vocabulary` | Review your word bank |
-| `/progress` | See your learning history |
-| `/translate` | Translate a word or phrase |
-| `/teach [topic]` | Learn something specific |
+| `/study` | Full lesson session (warm-up → lesson → practice → wrap-up) |
+| `/practice` | Free conversation practice session |
+| `/quiz` | Test knowledge from recent lessons |
+| `/vocabulary` | Show saved vocabulary words |
+| `/progress` | Summary of your learning progress |
+| `/translate [word]` | Translate a word or phrase with an example sentence |
+| `/teach [topic]` | Jump directly to a specific topic lesson |
+| `/check` | Check your writing for grammar and spelling mistakes |
+| `/last-session` | Quick recap of the most recent study session |
+| `/wrap-up` | End the current lesson and save all progress |
+| `/commit` | Save today's session to git |
 
 ## Folder Structure
 
