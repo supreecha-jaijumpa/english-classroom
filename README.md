@@ -6,11 +6,29 @@ A personal English learning workspace powered by Claude AI — your patient ment
 
 Daily conversation practice leading to advanced fluency.
 
-## How to Start a Session
+## Quick Start
 
-Open this folder in VS Code and talk to Claude:
+New here? Follow these three steps once before your first lesson:
 
-| What to say | What happens |
+**Step 1 — Tell Claude who you are**
+
+Open [me.md](me.md) and fill in your English level, goal, native language, and study schedule. Claude uses this to tailor every lesson to you.
+
+**Step 2 — Start your first session**
+
+Type `/study` in the chat. Claude will warm you up with a couple of easy questions, then begin your first lesson.
+
+**Step 3 — End every session properly**
+
+When you are done, type `/wrap-up`. Claude will correct your mistakes, save new words to your vocabulary list, and log your progress.
+
+That is it — come back tomorrow and type `/study` again to keep your streak going.
+
+---
+
+## Commands
+
+| Command | Description |
 |---|---|
 | `/study` | Full lesson session (warm-up → lesson → practice → wrap-up) |
 | `/practice` | Free conversation practice session |
