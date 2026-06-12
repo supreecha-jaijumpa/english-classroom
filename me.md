@@ -18,16 +18,13 @@
 
 ## What I Find Difficult
 
-_(Claude will update this as we study together)_
-
-- [ ] _(e.g. "Using 'a' and 'the'")_
-- [ ] _(e.g. "Verb tenses")_
+- [ ] "there is" vs "there are" with plural nouns
+- [ ] Capitalizing proper nouns (titles like "Elden Ring")
 
 ## What I Am Good At
 
-_(Claude will update this as we study together)_
-
-- [ ] _(e.g. "Memorizing new words")_
+- [x] Forming clear, natural sentences
+- [x] Answering questions with correct sentence structure
 
 ## My Learning Preferences
 

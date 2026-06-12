@@ -8,7 +8,7 @@
 **Goal:** Survive basic daily situations in English
 
 ### Topics to Cover
-- [ ] Greetings and introductions ("Hi, my name is...")
+- [x] Greetings and introductions ("Hi, my name is...")
 - [ ] Numbers 1–100
 - [ ] Days of the week and months
 - [ ] Colors, shapes, sizes
@@ -94,4 +94,4 @@
 ---
 
 ## Current Stage
-**Stage 1: A1** — _(not started yet)_
+**Stage 1: A1** — In progress (Session 1 complete)

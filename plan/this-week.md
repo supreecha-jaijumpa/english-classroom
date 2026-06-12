@@ -1,30 +1,30 @@
 # This Week's Plan
 
-**Week of:** _(to be filled in)_
-**Current Stage:** _(to be filled in)_
-**This Week's Theme:** _(to be filled in)_
+**Week of:** 2026-06-09
+**Current Stage:** A1 — Absolute Beginner
+**This Week's Theme:** Greetings and Introductions
 
 ---
 
 ## Focus This Week
-*(Coming after your first session!)*
+Practice introducing yourself and asking basic questions about other people.
 
 ## Daily Tasks
 
 | Day | Task | Done? |
 |-----|------|-------|
-| Monday | | [ ] |
-| Tuesday | | [ ] |
-| Wednesday | | [ ] |
-| Thursday | | [ ] |
-| Friday | | [ ] |
-| Weekend | | [ ] |
+| Monday | Study session | [ ] |
+| Tuesday | Study session | [ ] |
+| Wednesday | Study session | [ ] |
+| Thursday | Study session | [ ] |
+| Friday | Study session — Greetings & Introductions | [x] |
+| Weekend | Review: "there is / there are" | [ ] |
 
 ## This Week's Vocabulary Target
-Learn **_** new words by end of week.
+Learn **5** new words by end of week. (5/5 done!)
 
 ## This Week's Phrase to Master
-*(Coming after your first session!)*
+**"Nice to meet you too!"**
 
 ---
 

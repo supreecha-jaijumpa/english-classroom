@@ -14,7 +14,15 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 
 ## Active Mistakes
 
-*(Claude adds your mistakes here during sessions — nothing here yet!)*
+> ❌ Wrong: *"there is many tools"*
+> ✅ Right: *"there are many tools"*
+> 💡 Why: Use **"there are"** when the noun is plural (more than one). "There is" = one thing. "There are" = many things.
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"Elden ring"* (game/movie/book title)
+> ✅ Right: *"Elden Ring"*
+> 💡 Why: Titles are proper nouns — capitalize every important word.
+> 📊 Correct uses: 0/3
 
 ---
 

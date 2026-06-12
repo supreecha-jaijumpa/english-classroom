@@ -3,23 +3,29 @@
 *This file is the only home for session counts and streaks — other files link here instead of copying the numbers.*
 
 ## Total Sessions
-**0**
+**1**
 
 ## Current Streak
-**0 days** (start studying to build your streak!)
+**1 day**
 
 ## Best Streak Ever
-**0 days**
+**1 day**
 
 ## Monthly Calendar
-*(Starts when you begin studying!)*
 
-Mark each day you studied with ✓
+### June 2026
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|-----|-----|-----|-----|-----|-----|-----|
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| 8 | 9 | 10 | 11 | ✓ 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
+| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
+| 29 | 30 | | | | | |
 
 ---
 
 ## Milestones Reached
-- [ ] First session
+- [x] First session
 - [ ] 5 sessions completed
 - [ ] 7-day streak
 - [ ] 25 words learned

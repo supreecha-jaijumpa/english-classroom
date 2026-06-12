@@ -12,7 +12,11 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
-### Session 1 — *(First session coming soon!)*
+### Session 1 — 2026-06-12
+**Topic:** Greetings and Introductions
+**Practiced:** Self-introduction dialogue, answering "What's your name / where are you from / what do you do?"
+**Learned:** "Nice to meet you (too)", proper noun capitalization (game titles), "there is" vs "there are" with plural nouns
+**Notes:** Strong natural sentence formation for A1. Main error: using "there is" with plural nouns.
 
 ---
 
