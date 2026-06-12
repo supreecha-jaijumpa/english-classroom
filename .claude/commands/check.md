@@ -20,4 +20,4 @@ Check writing for grammar and spelling mistakes.
 2. Say what was done well (at least one positive thing)
 3. Show a corrected version with changes clearly marked using **bold** for fixes
 4. Explain the top 2–3 mistakes only — keep explanations simple
-5. Add any wrong words or patterns to `corrections.md`
+5. Add any wrong words or patterns to the "Active Mistakes" section of `corrections.md` (with a 📊 Correct uses: 0/3 counter)

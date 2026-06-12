@@ -1,6 +1,6 @@
 # Git Commit Skill
 
-Create well-formatted git commits following conventional commit standards.
+Save today's study session to git with a clear, journal-style commit message.
 
 ## Usage
 
@@ -10,36 +10,29 @@ Create well-formatted git commits following conventional commit standards.
 
 ## Behavior
 
-1. Analyze staged changes with `git diff --staged`
-2. Generate a conventional commit message
-3. Create the commit with proper formatting
+1. Run `git status` and `git diff` to see which study files changed
+2. Stage the changed files
+3. Create a commit with a short message describing the session
 
 ## Commit Format
 
 ```
-<type>(<scope>): <description>
-
-[optional body]
-
-[optional footer]
+<type>: <date> — <short description>
 ```
 
 ## Types
 
-- feat: New feature
-- fix: Bug fix
-- docs: Documentation changes
-- style: Code style changes
-- refactor: Code refactoring
-- test: Adding or modifying tests
-- chore: Maintenance tasks
+- **study**: a completed study session (most common)
+- **vocab**: vocabulary-only updates
+- **writing**: journal entries or writing practice
+- **setup**: changes to profile, plan, or workspace structure
+- **docs**: changes to README or instructions
 
-## Example Output
+## Examples
 
 ```
-feat(auth): add password reset functionality
-
-- Add forgot password form
-- Implement email verification flow
-- Add password reset endpoint
+study: 2026-06-12 — past simple tense lesson
+vocab: 2026-06-13 — added 8 food words
+writing: 2026-06-14 — journal entry about my weekend
+setup: updated weekly plan for week of June 15
 ```

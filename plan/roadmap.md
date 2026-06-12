@@ -57,8 +57,6 @@
 
 ---
 
----
-
 ## Stage 4: B2 — Upper Intermediate (Months 7–10)
 **Goal:** Speak and write clearly on a wide range of topics
 

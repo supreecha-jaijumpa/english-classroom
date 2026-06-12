@@ -1,5 +1,10 @@
 # Study Streaks
 
+*This file is the only home for session counts and streaks — other files link here instead of copying the numbers.*
+
+## Total Sessions
+**0**
+
 ## Current Streak
 **0 days** (start studying to build your streak!)
 

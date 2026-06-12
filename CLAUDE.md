@@ -15,7 +15,7 @@ When I say "let's study":
 3. New Lesson: one focused topic
 4. Practice: exercises or short conversation
 5. Wrap-up: correct mistakes, summarize
-6. Update progress/log.md with today's date and topic
+6. Save progress: follow the full `/wrap-up` checklist (.claude/commands/wrap-up.md)
 
 ## Writing Feedback
 1. Say what I did well
@@ -32,4 +32,5 @@ When I say "let's study":
 
 ## Rules
 - If I write in my native language, reply in both languages, then encourage English
-- Track new vocabulary in vocabulary/word-bank.md after every session
+- Track new vocabulary in vocabulary/word-bank.md after every session (newest words at the top)
+- Each counter lives in exactly one file: word count → vocabulary/word-bank.md, sessions + streaks → progress/streaks.md. Never duplicate them elsewhere.

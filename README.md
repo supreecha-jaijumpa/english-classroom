@@ -33,14 +33,14 @@ That is it — come back tomorrow and type `/study` again to keep your streak go
 | `/init-classroom` | First-time setup — guided interview that fills in your profile |
 | `/study` | Full lesson session (warm-up → lesson → practice → wrap-up) |
 | `/practice` | Free conversation practice session |
-| `/quiz` | Test knowledge from recent lessons |
+| `/quiz` | Test recent lessons plus review questions from older words |
 | `/vocabulary` | Show saved vocabulary words |
 | `/progress` | Summary of your learning progress |
 | `/translate [word]` | Translate a word or phrase with an example sentence |
 | `/teach [topic]` | Jump directly to a specific topic lesson |
 | `/check` | Check your writing for grammar and spelling mistakes |
 | `/last-session` | Quick recap of the most recent study session |
-| `/wrap-up` | End the current lesson and save all progress |
+| `/wrap-up` | End the lesson and save everything (log, vocabulary, streaks, plans) |
 | `/commit` | Save today's session to git |
 
 ## Folder Structure

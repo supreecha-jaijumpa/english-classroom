@@ -29,5 +29,5 @@ _(Claude will update this as we study together)_
 ## Study History
 
 - **Started:** _(date you began)_
-- **Total sessions:** 0
-- **Total words learned:** 0
+- Session count and streaks: see `progress/streaks.md`
+- Total words learned: see `vocabulary/word-bank.md`
