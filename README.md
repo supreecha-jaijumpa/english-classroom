@@ -10,9 +10,9 @@ Daily conversation practice leading to advanced fluency.
 
 New here? Follow these three steps once before your first lesson:
 
-**Step 1 — Tell Claude who you are**
+**Step 1 — Set up your profile**
 
-Open [me.md](me.md) and fill in your English level, goal, native language, and study schedule. Claude uses this to tailor every lesson to you.
+Type `/init-classroom` in the chat. Claude will ask you a few questions and fill in your profile automatically.
 
 **Step 2 — Start your first session**
 
@@ -30,6 +30,7 @@ That is it — come back tomorrow and type `/study` again to keep your streak go
 
 | Command | Description |
 |---|---|
+| `/init-classroom` | First-time setup — guided interview that fills in your profile |
 | `/study` | Full lesson session (warm-up → lesson → practice → wrap-up) |
 | `/practice` | Free conversation practice session |
 | `/quiz` | Test knowledge from recent lessons |
