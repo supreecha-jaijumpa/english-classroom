@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 2 — 2026-06-14
+**Topic:** Daily Routines
+**Practiced:** Describing a typical weekday — wake up time, work hours, meals, bedtime, weekend habits
+**Learned:** Daily routine vocabulary (wake up, go to bed, flexible hours, skip a meal); meals (breakfast, lunch, dinner) don't use "the"
+**Notes:** Strong sentence-building with conjunctions (but/so/and). New error: "skip the breakfast" — meals need no article.
+
+---
+
 ### Session 1 — 2026-06-12
 **Topic:** Greetings and Introductions
 **Practiced:** Self-introduction dialogue, answering "What's your name / where are you from / what do you do?"

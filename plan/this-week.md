@@ -18,7 +18,7 @@ Practice introducing yourself and asking basic questions about other people.
 | Wednesday | Study session | [ ] |
 | Thursday | Study session | [ ] |
 | Friday | Study session — Greetings & Introductions | [x] |
-| Weekend | Review: "there is / there are" | [ ] |
+| Weekend | Review: "there is / there are" | [x] |
 
 ## This Week's Vocabulary Target
 Learn **5** new words by end of week. (5/5 done!)
@@ -29,4 +29,4 @@ Learn **5** new words by end of week. (5/5 done!)
 ---
 
 ## Notes for This Week
-*(Claude adds notes here during sessions)*
+- Session 2 (06-14, Sun): Covered daily routines — great sentence building with conjunctions. New error: articles with meal names.

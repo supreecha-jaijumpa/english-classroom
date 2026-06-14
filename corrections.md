@@ -14,6 +14,11 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 
 ## Active Mistakes
 
+> ❌ Wrong: *"I skip the breakfast"*
+> ✅ Right: *"I skip breakfast"*
+> 💡 Why: Meal names (breakfast, lunch, dinner) are used without "the" when speaking generally. In Thai you always use a classifier, but in English meals are uncountable nouns.
+> 📊 Correct uses: 0/3
+
 > ❌ Wrong: *"there is many tools"*
 > ✅ Right: *"there are many tools"*
 > 💡 Why: Use **"there are"** when the noun is plural (more than one). "There is" = one thing. "There are" = many things.

@@ -19,7 +19,21 @@ Tip: If the noun ends in **-s** (plural), use **"there are"**.
 
 ---
 
-## Lesson 2: Simple Questions
+## Lesson 2: No Article with Meal Names
+
+Meal names — **breakfast, lunch, dinner** — do NOT use "the" or "a" when you mean the meal in general.
+
+| Wrong | Right |
+|-------|-------|
+| I eat **the** lunch | I eat **lunch** |
+| I skip **the** breakfast | I skip **breakfast** |
+| We had **the** dinner | We had **dinner** |
+
+This is different from Thai, where you always use a classifier before a noun. In English, uncountable nouns and general references don't need an article.
+
+---
+
+## Lesson 3: Simple Questions
 *(Coming soon!)*
 
 ---

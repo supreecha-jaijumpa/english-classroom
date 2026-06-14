@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 5
+## Total Words Learned: 10
 
 *(This is the only place the word count lives.)*
 
@@ -18,6 +18,11 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 *(Newest at the top)*
 
+**daily routine** — the things you do every day — "My daily routine starts at 6 AM."
+**skip (a meal)** — to not eat a meal — "I skip breakfast on busy days."
+**flexible hours** — a work schedule where you choose your start/end time — "My office has flexible hours."
+**go to bed** — to start sleeping for the night — "I go to bed at 10 PM."
+**wake up** — to get out of bed in the morning — "I wake up at 6 AM."
 **What do you do?** — a question to ask about someone's job or hobby — "What do you do?" / "I play video games."
 **Where are you from?** — a question to ask someone's country — "Where are you from?" / "I'm from Thailand."
 **What's your name?** — a question to ask someone's name — "Hi! What's your name?"

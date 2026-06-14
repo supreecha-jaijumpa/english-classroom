@@ -94,4 +94,4 @@
 ---
 
 ## Current Stage
-**Stage 1: A1** — In progress (Session 1 complete)
+**Stage 1: A1** — In progress (Session 2 complete)

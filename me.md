@@ -20,11 +20,13 @@
 
 - [ ] "there is" vs "there are" with plural nouns
 - [ ] Capitalizing proper nouns (titles like "Elden Ring")
+- [ ] Articles with meal names — "skip breakfast" not "skip the breakfast"
 
 ## What I Am Good At
 
 - [x] Forming clear, natural sentences
 - [x] Answering questions with correct sentence structure
+- [x] Connecting ideas with conjunctions (but, so, and)
 
 ## My Learning Preferences
 
