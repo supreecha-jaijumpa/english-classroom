@@ -14,6 +14,16 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 
 ## Active Mistakes
 
+> ❌ Wrong: *"On saturdays"* / *"on december 11th"*
+> ✅ Right: *"On **S**aturdays"* / *"on **D**ecember 11th"*
+> 💡 Why: Days of the week (Monday, Saturday…) and months (January, December…) are proper nouns in English — always capitalize them.
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"lunch at 12 AM"*
+> ✅ Right: *"lunch at 12 **PM**"* (or "at **noon**")
+> 💡 Why: AM = after midnight, before noon. PM = after noon, before midnight. Noon (midday) is **12 PM**. Midnight is **12 AM**.
+> 📊 Correct uses: 0/3
+
 > ❌ Wrong: *"I skip the breakfast"*
 > ✅ Right: *"I skip breakfast"*
 > 💡 Why: Meal names (breakfast, lunch, dinner) are used without "the" when speaking generally. In Thai you always use a classifier, but in English meals are uncountable nouns.

@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 3 — 2026-06-15
+**Topic:** Numbers, Time & Dates
+**Practiced:** Telling the time (AM/PM, o'clock, quarter past/to), prepositions at/on/in for time expressions, warm-up conversation review
+**Learned:** AM = before noon, PM = after noon; noon = 12 PM, midnight = 12 AM; "on" for days/dates, "in" for months/years, "at" for clock times; days of the week and months are always capitalized
+**Notes:** Preposition use was strong in practice. New errors: days/months not capitalized (saturdays → Saturdays, december → December); confused 12 AM with noon (correct: 12 PM).
+
+---
+
 ### Session 2 — 2026-06-14
 **Topic:** Daily Routines
 **Practiced:** Describing a typical weekday — wake up time, work hours, meals, bedtime, weekend habits

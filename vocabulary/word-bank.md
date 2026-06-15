@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 10
+## Total Words Learned: 16
 
 *(This is the only place the word count lives.)*
 
@@ -18,6 +18,12 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 *(Newest at the top)*
 
+**on weekdays** — Monday to Friday — "On weekdays I work from home."
+**o'clock** — exactly on the hour — "The class starts at 3 o'clock."
+**PM** — after noon (12:00–23:59) — "Lunch is at 12 PM."
+**AM** — before noon (00:00–11:59) — "I wake up at 6 AM."
+**midnight** — 12 AM, the middle of the night — "I go to bed before midnight."
+**noon** — 12 PM, the middle of the day — "I have lunch at noon."
 **daily routine** — the things you do every day — "My daily routine starts at 6 AM."
 **skip (a meal)** — to not eat a meal — "I skip breakfast on busy days."
 **flexible hours** — a work schedule where you choose your start/end time — "My office has flexible hours."

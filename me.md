@@ -19,14 +19,16 @@
 ## What I Find Difficult
 
 - [ ] "there is" vs "there are" with plural nouns
-- [ ] Capitalizing proper nouns (titles like "Elden Ring")
+- [ ] Capitalizing proper nouns, days, and months (Elden Ring / Saturday / December)
 - [ ] Articles with meal names — "skip breakfast" not "skip the breakfast"
+- [ ] AM vs PM — noon is 12 PM, midnight is 12 AM
 
 ## What I Am Good At
 
 - [x] Forming clear, natural sentences
 - [x] Answering questions with correct sentence structure
 - [x] Connecting ideas with conjunctions (but, so, and)
+- [x] Using prepositions correctly (on for days, at for times, in for months)
 
 ## My Learning Preferences
 

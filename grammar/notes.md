@@ -33,12 +33,29 @@ This is different from Thai, where you always use a classifier before a noun. In
 
 ---
 
-## Lesson 3: Simple Questions
-*(Coming soon!)*
+## Lesson 3: Prepositions of Time — AT / ON / IN
+
+Use **"at"** for clock times, **"on"** for days and dates, **"in"** for months and years.
+
+| Preposition | Use | Examples |
+|-------------|-----|---------|
+| **at** | clock times | "at 6 AM", "at noon", "at midnight" |
+| **on** | days / dates | "on Monday", "on weekdays", "on June 15th" |
+| **in** | months / years | "in December", "in 2026", "in the morning" |
+
+### AM vs PM
+- **AM** = morning (midnight → 11:59 AM)
+- **PM** = afternoon/evening (noon → 11:59 PM)
+- **12 PM** = noon (lunchtime)
+- **12 AM** = midnight (sleeping time)
+
+### Days and Months Are Always Capitalized
+Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+January, February, March, April, May, June, July, August, September, October, November, December
 
 ---
 
-## Lesson 3: Present Simple Tense
+## Lesson 4: Present Simple Tense
 *(Coming soon!)*
 
 ---

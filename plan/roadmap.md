@@ -10,7 +10,7 @@
 ### Topics to Cover
 - [x] Greetings and introductions ("Hi, my name is...")
 - [ ] Numbers 1–100
-- [ ] Days of the week and months
+- [x] Days of the week and months
 - [ ] Colors, shapes, sizes
 - [ ] Family members (mother, father, sister...)
 - [ ] Common verbs: be, have, like, want, go
@@ -94,4 +94,4 @@
 ---
 
 ## Current Stage
-**Stage 1: A1** — In progress (Session 2 complete)
+**Stage 1: A1** — In progress (Session 3 complete)
