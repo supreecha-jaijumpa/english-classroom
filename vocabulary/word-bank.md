@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 16
+## Total Words Learned: 22
 
 *(This is the only place the word count lives.)*
 
@@ -18,6 +18,12 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 *(Newest at the top)*
 
+**Keep the change** — tell a cashier to keep extra money — "Here's 100 baht. Keep the change."
+**Here you go** — a phrase when handing something to someone — "Here you go, your order is ready."
+**I'll take this one** — phrase to say you want to buy something — "I'll take this one, please."
+**Do you have...?** — ask if a shop sells something — "Do you have mango sticky rice?"
+**How much is this?** — ask the price of something — "How much is this shirt?"
+**Can I have...?** — politely order or request something — "Can I have an Americano, please?"
 **on weekdays** — Monday to Friday — "On weekdays I work from home."
 **o'clock** — exactly on the hour — "The class starts at 3 o'clock."
 **PM** — after noon (12:00–23:59) — "Lunch is at 12 PM."

@@ -55,8 +55,44 @@ January, February, March, April, May, June, July, August, September, October, No
 
 ---
 
-## Lesson 4: Present Simple Tense
-*(Coming soon!)*
+## Lesson 4: "A" vs "An" — Articles Before Nouns
+
+Use **"a"** or **"an"** before singular nouns. The choice depends on the **sound** of the next word.
+
+| Article | When to use | Examples |
+|---------|-------------|---------|
+| **a** | before a **consonant** sound | a coffee, a shirt, a banana, a book |
+| **an** | before a **vowel** sound (a, e, i, o, u) | an Americano, an apple, an orange, an egg |
+
+Tip: Listen to the first **sound**, not the first letter. "An hour" — "h" is silent, so the sound is "our" (vowel).
+
+---
+
+## Lesson 5: Always Capitalize "I"
+
+The pronoun **"I"** is always a capital letter in English — no exceptions, no matter where in the sentence.
+
+| Wrong | Right |
+|-------|-------|
+| can i help? | Can **I** help? |
+| i think so | **I** think so |
+| yes, i know | Yes, **I** know |
+
+This is one rule that is 100% consistent — no exceptions.
+
+---
+
+## Lesson 6: "To Be" Verb Is Always Required
+
+In English, you cannot skip the verb "to be" (am / is / are). This is different from Thai.
+
+| Wrong | Right |
+|-------|-------|
+| "now we in June" | "now we **are** in June" |
+| "she happy" | "she **is** happy" |
+| "I tired" | "I **am** tired" |
+
+Quick guide: I → am, He/She/It → is, You/We/They → are
 
 ---
 

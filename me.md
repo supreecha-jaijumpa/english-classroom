@@ -20,8 +20,11 @@
 
 - [ ] "there is" vs "there are" with plural nouns
 - [ ] Capitalizing proper nouns, days, and months (Elden Ring / Saturday / December)
+- [ ] Always capitalizing the pronoun "I" (not "i")
 - [ ] Articles with meal names — "skip breakfast" not "skip the breakfast"
 - [ ] AM vs PM — noon is 12 PM, midnight is 12 AM
+- [ ] "To be" verb required — "we are in June" not "we in June"
+- [ ] Using "an" before vowel sounds — "an Americano", not "a Americano"
 
 ## What I Am Good At
 
@@ -29,6 +32,7 @@
 - [x] Answering questions with correct sentence structure
 - [x] Connecting ideas with conjunctions (but, so, and)
 - [x] Using prepositions correctly (on for days, at for times, in for months)
+- [x] Picking up new grammar rules quickly (got "a" vs "an" 4/4 on first try)
 
 ## My Learning Preferences
 

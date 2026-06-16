@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 4 — 2026-06-16
+**Topic:** Shopping & Food
+**Practiced:** Shopping phrases (ordering, asking price, asking availability), "a" vs "an" article rule, warm-up on lunch and dates
+**Learned:** Key shopping phrases — "Can I have...?", "How much is this?", "Do you have...?"; use "an" before vowel sounds (an Americano, an apple); always capitalize the pronoun "I"; "to be" verb cannot be omitted in English
+**Notes:** Picked up "a" vs "an" perfectly (4/4 on first try). Active mistake improvements: 12 PM correct (1/3), days/months capitalized (1/3). New errors: lowercase "i" instead of "I"; missing "to be" verb ("now we in June" → "now we are in June").
+
+---
+
 ### Session 3 — 2026-06-15
 **Topic:** Numbers, Time & Dates
 **Practiced:** Telling the time (AM/PM, o'clock, quarter past/to), prepositions at/on/in for time expressions, warm-up conversation review
