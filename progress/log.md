@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 5 — 2026-06-17
+**Topic:** Directions
+**Practiced:** Asking for and giving directions using a simple map, describing locations with "next to / near / opposite", indirect question word order
+**Learned:** Key direction phrases — "Go straight", "Turn left/right", "It's next to..."; asking "Excuse me, where is the...?" and "How do I get to...?"; indirect question rule — "Do you know where **it is**?" (not "where is it?")
+**Notes:** Directions given correctly on the map. Good use of landmarks. Active mistake progress: capital "I" used correctly twice (2/3). New corrections: "near by" → "near"; run-on sentence (missing period between two ideas); indirect question word order ("where is it" → "where it is").
+
+---
+
 ### Session 4 — 2026-06-16
 **Topic:** Shopping & Food
 **Practiced:** Shopping phrases (ordering, asking price, asking availability), "a" vs "an" article rule, warm-up on lunch and dates

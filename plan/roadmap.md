@@ -32,7 +32,7 @@
 - [ ] Past simple tense (I went, I ate, I saw...)
 - [ ] Shopping and prices
 - [ ] Food and ordering at a restaurant
-- [ ] Directions (turn left, go straight, next to...)
+- [x] Directions (turn left, go straight, next to...) ← covered in Session 5
 - [ ] Feelings and emotions
 
 ### Milestone Test
@@ -94,4 +94,4 @@
 ---
 
 ## Current Stage
-**Stage 1: A1** — In progress (Session 4 complete)
+**Stage 1: A1** — In progress (Session 5 complete)

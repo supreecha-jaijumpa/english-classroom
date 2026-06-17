@@ -15,7 +15,7 @@ Practice telling the time, using dates and days, and start shopping/food vocabul
 |-----|------|-------|
 | Monday | Study session — Numbers, Time & Dates | [x] |
 | Tuesday | Study session | [x] |
-| Wednesday | Study session | [ ] |
+| Wednesday | Study session | [x] |
 | Thursday | Study session | [ ] |
 | Friday | Study session | [ ] |
 | Weekend | Review: AM/PM and capitalization rules | [ ] |
@@ -31,3 +31,4 @@ Learn **6** new words by end of week. (6/6 done — Session 3!)
 ## Notes for This Week
 - Session 3 (06-15, Mon): Covered time (AM/PM, o'clock), prepositions at/on/in, days and months capitalization. New errors: days/months lowercase, 12 AM vs 12 PM.
 - Session 4 (06-16, Tue): Shopping & food phrases, "a" vs "an" rule (4/4 perfect). New errors: lowercase "i" (must always be "I"), missing "to be" verb ("we in June" → "we are in June"), missing "an" before vowel sounds.
+- Session 5 (06-17, Wed): Directions — asking and giving directions, "next to / near / opposite", indirect question word order. Capital "I" used correctly twice (2/3). New error: indirect question word order ("where is it" → "where it is").

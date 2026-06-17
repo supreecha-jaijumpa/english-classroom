@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 22
+## Total Words Learned: 29
 
 *(This is the only place the word count lives.)*
 
@@ -18,6 +18,13 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 *(Newest at the top)*
 
+**opposite** — directly across from something — "The school is opposite the park."
+**near** — close to something — "The pharmacy is near the hotel."
+**next to** — beside / adjacent to — "The bank is next to the hotel."
+**turn right** — change direction to the right — "Turn right at the traffic light."
+**turn left** — change direction to the left — "Turn left at the corner."
+**go straight** — move forward without turning — "Go straight to the end of the street."
+**Excuse me** — polite phrase to get a stranger's attention — "Excuse me, where is the bank?"
 **Keep the change** — tell a cashier to keep extra money — "Here's 100 baht. Keep the change."
 **Here you go** — a phrase when handing something to someone — "Here you go, your order is ready."
 **I'll take this one** — phrase to say you want to buy something — "I'll take this one, please."

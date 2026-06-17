@@ -47,11 +47,16 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > ❌ Wrong: *"can i have..."*
 > ✅ Right: *"Can **I** have..."*
 > 💡 Why: The pronoun **"I"** is always capitalized in English — no matter where it appears in a sentence. It is the only pronoun with this rule.
-> 📊 Correct uses: 0/3
+> 📊 Correct uses: 2/3
 
 > ❌ Wrong: *"Can I have Americano"*
 > ✅ Right: *"Can I have **an** Americano"*
 > 💡 Why: Use **"an"** (not "a") before words that start with a vowel sound (a, e, i, o, u). "Americano" starts with the "A" sound → "an Americano". Use "a" before consonant sounds: "a coffee", "a shirt".
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"Do you know where **is** it?"*
+> ✅ Right: *"Do you know where **it is**?"*
+> 💡 Why: When "where/when/what" appears inside another sentence (indirect question), the word order flips back to normal: subject + verb. Direct: "Where **is** it?" → Inside a sentence: "Do you know where **it is**?"
 > 📊 Correct uses: 0/3
 
 ---

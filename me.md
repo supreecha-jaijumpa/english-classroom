@@ -25,6 +25,7 @@
 - [ ] AM vs PM — noon is 12 PM, midnight is 12 AM
 - [ ] "To be" verb required — "we are in June" not "we in June"
 - [ ] Using "an" before vowel sounds — "an Americano", not "a Americano"
+- [ ] Indirect question word order — "Do you know where **it is**?" not "where **is** it?"
 
 ## What I Am Good At
 
@@ -33,6 +34,7 @@
 - [x] Connecting ideas with conjunctions (but, so, and)
 - [x] Using prepositions correctly (on for days, at for times, in for months)
 - [x] Picking up new grammar rules quickly (got "a" vs "an" 4/4 on first try)
+- [x] Using spatial landmarks to give directions ("next to the bank")
 
 ## My Learning Preferences
 

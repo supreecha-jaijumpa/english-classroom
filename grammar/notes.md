@@ -96,4 +96,24 @@ Quick guide: I → am, He/She/It → is, You/We/They → are
 
 ---
 
+## Lesson 7: Indirect Questions — Word Order
+
+When a question ("where is it?") is placed *inside* another sentence, the word order changes.
+
+| Type | Example |
+|------|---------|
+| Direct question | "Where **is** it?" |
+| Indirect question | "Do you know where **it is**?" |
+| Direct question | "What **is** his name?" |
+| Indirect question | "Can you tell me what **his name is**?" |
+
+The rule: after "where / what / when / why / how" inside a sentence → use **subject + verb** (normal order), not **verb + subject** (question order).
+
+Common indirect question starters:
+- "Do you know **where** ..."
+- "Can you tell me **how** ..."
+- "I don't know **when** ..."
+
+---
+
 *Claude adds a new grammar lesson here after each session.*
