@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 29
+## Total Words Learned: 40
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,18 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**at the same time** — two things happening together — "I feel stressed and excited at the same time."
+**stressed** — feeling pressure or worry — "I feel stressed before an exam."
+**surprised** — feeling shock at something unexpected — "I was surprised by the gift."
+**scared** — feeling fear — "I feel scared in the dark."
+**bored** — feeling uninterested / nothing to do — "I feel bored on weekends with nothing to do."
+**angry** — feeling strong annoyance or rage — "I feel angry when someone is rude."
+**nervous** — feeling worried or unsure before something — "I feel nervous before speaking English."
+**excited** — feeling happy and eager about something — "I feel excited about the new game."
+**tired** — feeling low energy, needing rest — "I feel tired after work."
+**sad** — feeling unhappy or down — "I feel sad when I lose a game."
+**happy** — feeling good, content, joyful — "I feel happy when I learn something new."
 
 **opposite** — directly across from something — "The school is opposite the park."
 **near** — close to something — "The pharmacy is near the hotel."

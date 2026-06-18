@@ -44,11 +44,6 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > 💡 Why: English always requires the verb "to be" (am / is / are). You cannot skip it. In Thai you can say a sentence without a verb, but in English the verb must be there.
 > 📊 Correct uses: 0/3
 
-> ❌ Wrong: *"can i have..."*
-> ✅ Right: *"Can **I** have..."*
-> 💡 Why: The pronoun **"I"** is always capitalized in English — no matter where it appears in a sentence. It is the only pronoun with this rule.
-> 📊 Correct uses: 2/3
-
 > ❌ Wrong: *"Can I have Americano"*
 > ✅ Right: *"Can I have **an** Americano"*
 > 💡 Why: Use **"an"** (not "a") before words that start with a vowel sound (a, e, i, o, u). "Americano" starts with the "A" sound → "an Americano". Use "a" before consonant sounds: "a coffee", "a shirt".
@@ -59,8 +54,30 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > 💡 Why: When "where/when/what" appears inside another sentence (indirect question), the word order flips back to normal: subject + verb. Direct: "Where **is** it?" → Inside a sentence: "Do you know where **it is**?"
 > 📊 Correct uses: 0/3
 
+> ❌ Wrong: *"in the same time"*
+> ✅ Right: *"**at** the same time"*
+> 💡 Why: "At the same time" is a fixed English phrase — it always uses "at". Thai uses "ในเวลาเดียวกัน" which maps to "in", but English locks this to "at".
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"the game is **to** hard"*
+> ✅ Right: *"the game is **too** hard"*
+> 💡 Why: **"too"** = มากเกินไป (more than enough, a problem). **"to"** = เพื่อ or direction (go to school). They sound the same but mean very different things.
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"many attempt"*
+> ✅ Right: *"many **attempts**"*
+> 💡 Why: After "many", the noun must be plural (add -s). "Many" always goes with plural nouns: many attempts, many games, many people.
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"I don't know my pronunciation is good or not"*
+> ✅ Right: *"I don't know **if** my pronunciation is good or not"*
+> 💡 Why: After "know / wonder / ask", you need "if" to introduce a yes/no question turned into a statement. "I don't know if X is Y."
+> 📊 Correct uses: 0/3
+
 ---
 
 ## ✅ Mastered
 
-*(Mistakes I've beaten 3 times in a row land here. Nothing yet — let's get started!)*
+> ✅ **Always capitalize "I"**
+> Was: *"can i have..."* → Now: *"Can **I** have..."*
+> 💡 The pronoun "I" is always a capital letter — no exceptions. Mastered in Session 6.

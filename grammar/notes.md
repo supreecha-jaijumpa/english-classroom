@@ -116,4 +116,45 @@ Common indirect question starters:
 
 ---
 
+## Lesson 8: "Too" vs "To" — Different Words, Different Meanings
+
+These two words sound the same but mean very different things.
+
+| Word | Meaning | Example |
+|------|---------|---------|
+| **too** | มากเกินไป (more than enough, a problem) | "This coffee is **too** hot." / "The game is **too** hard." |
+| **to** | เพื่อ / direction | "I go **to** work." / "I want **to** sleep." |
+
+Tip: If you can replace the word with "มากเกินไป", use **"too"**. If it means direction or purpose, use **"to"**.
+
+---
+
+## Lesson 9: Fixed Phrases with "At"
+
+Some English phrases always use "at" — you cannot change the preposition.
+
+| Phrase | Wrong | Right |
+|--------|-------|-------|
+| at the same time | "in the same time" | "**at** the same time" |
+| at first | "in first" | "**at** first" |
+| at the end | "in the end" | "**at** the end" |
+
+Tip: Memorize these as complete phrases, not word-by-word translations.
+
+---
+
+## Lesson 10: "Many" + Plural Noun
+
+After "many", the noun must be plural (add **-s**).
+
+| Wrong | Right |
+|-------|-------|
+| many attempt | many **attempt**s |
+| many game | many **game**s |
+| many word | many **word**s |
+
+Rule: **many** always goes with plural nouns. Count nouns get -s after many.
+
+---
+
 *Claude adds a new grammar lesson here after each session.*

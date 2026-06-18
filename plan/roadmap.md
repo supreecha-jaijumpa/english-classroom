@@ -33,7 +33,7 @@
 - [ ] Shopping and prices
 - [ ] Food and ordering at a restaurant
 - [x] Directions (turn left, go straight, next to...) ← covered in Session 5
-- [ ] Feelings and emotions
+- [x] Feelings and emotions ← covered in Session 6
 
 ### Milestone Test
 > Can I describe my typical day and have a short conversation about food or shopping?
@@ -94,4 +94,4 @@
 ---
 
 ## Current Stage
-**Stage 1: A1** — In progress (Session 5 complete)
+**Stage 1: A1** — In progress (Session 6 complete)

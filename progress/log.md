@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 6 — 2026-06-18
+**Topic:** Feelings & Emotions
+**Practiced:** Describing feelings with "I feel + adjective", warm-up on directions and current mood, fill-in-the-blank with "too" and "at the same time"
+**Learned:** 10 core feeling words — happy, sad, tired, excited, nervous, angry, bored, scared, surprised, stressed; "I feel + adjective" works for emotions and states like "ready"; "too" = มากเกินไป vs "to" = เพื่อ/ไปยัง; fixed phrase "at the same time" (always "at", never "in")
+**Notes:** Capital "I" — MASTERED (3/3), moved to Mastered section! Got "too / at the same time" exercise 3/3 immediately after correction. Recurring errors: missing "to be" ("I just ready"), "monday" not capitalized. New corrections: "in the same time" → "at the same time"; "to hard" → "too hard"; "many attempt" → "many attempts"; missing "if" after "know" ("I don't know if...").
+
+---
+
 ### Session 5 — 2026-06-17
 **Topic:** Directions
 **Practiced:** Asking for and giving directions using a simple map, describing locations with "next to / near / opposite", indirect question word order
