@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 7 — 2026-06-19
+**Topic:** Simple Past Tense (first A2 lesson!)
+**Practiced:** Describing yesterday's activities (Toy Story 5, bedtime, food), past tense negatives with "didn't", bored vs. boring distinction
+**Learned:** Regular past tense (verb + -ed); irregular past: ate, went, slept, woke up, saw, had; past negative = "didn't + base verb" (didn't eat, NOT "didn't ate"); -ing adjectives describe things (boring), -ed adjectives describe feelings (bored)
+**Notes:** First A2 session. Irregular past used correctly from the start (went, ate, woke up — instinctive!). Key error: "didn't + past verb" instead of base verb — affected all 4 sentences but fixed immediately after one explanation. Other errors: "I not like" (missing auxiliary), "story too bored" (missing "to be" + wrong adjective), "That why" (missing "to be" again). Positive: "too" used correctly twice (0→2/3), "didn't eat breakfast" — no article (0→1/3).
+
+---
+
 ### Session 6 — 2026-06-18
 **Topic:** Feelings & Emotions
 **Practiced:** Describing feelings with "I feel + adjective", warm-up on directions and current mood, fill-in-the-blank with "too" and "at the same time"

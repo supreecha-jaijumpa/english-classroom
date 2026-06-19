@@ -27,7 +27,7 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > ❌ Wrong: *"I skip the breakfast"*
 > ✅ Right: *"I skip breakfast"*
 > 💡 Why: Meal names (breakfast, lunch, dinner) are used without "the" when speaking generally. In Thai you always use a classifier, but in English meals are uncountable nouns.
-> 📊 Correct uses: 0/3
+> 📊 Correct uses: 1/3
 
 > ❌ Wrong: *"there is many tools"*
 > ✅ Right: *"there are many tools"*
@@ -62,7 +62,7 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > ❌ Wrong: *"the game is **to** hard"*
 > ✅ Right: *"the game is **too** hard"*
 > 💡 Why: **"too"** = มากเกินไป (more than enough, a problem). **"to"** = เพื่อ or direction (go to school). They sound the same but mean very different things.
-> 📊 Correct uses: 0/3
+> 📊 Correct uses: 2/3
 
 > ❌ Wrong: *"many attempt"*
 > ✅ Right: *"many **attempts**"*
@@ -72,6 +72,16 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > ❌ Wrong: *"I don't know my pronunciation is good or not"*
 > ✅ Right: *"I don't know **if** my pronunciation is good or not"*
 > 💡 Why: After "know / wonder / ask", you need "if" to introduce a yes/no question turned into a statement. "I don't know if X is Y."
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"I didn't **ate**"* / *"She didn't **went**"* / *"I didn't **slept**"*
+> ✅ Right: *"I didn't **eat**"* / *"She didn't **go**"* / *"I didn't **sleep**"*
+> 💡 Why: After "didn't", the verb resets to its **base form** (dictionary form). "Didn't" already carries the past meaning — only one word in the sentence shows past tense. So: didn't eat, didn't go, didn't watch, didn't sleep.
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"the story is **boring**"* (about a thing — ✅) but *"she looked **boring**"* (about a person's feeling — ❌)
+> ✅ Right: *"she looked **bored**"*
+> 💡 Why: **-ing adjectives** describe the thing causing the feeling (boring movie, exciting game). **-ed adjectives** describe how the person feels (I am bored, she looked bored, he was excited). If you are describing a PERSON'S feeling → use **-ed**.
 > 📊 Correct uses: 0/3
 
 ---

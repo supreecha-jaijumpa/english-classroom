@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 40
+## Total Words Learned: 47
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,14 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**didn't** — past tense negative helper (didn't + base verb) — "I didn't eat breakfast." / "She didn't go."
+**boring** — describes a thing that causes boredom — "The movie was boring." / "This homework is boring."
+**bored** — how a person feels when something is uninteresting — "I feel bored." / "She looked bored."
+**woke (up)** — past tense of wake up — "I woke up at 6 AM."
+**ate** — past tense of eat — "I ate healthy food for dinner."
+**went** — past tense of go — "I went to watch Toy Story 5."
+**slept** — past tense of sleep — "I slept only 4 hours last night."
 
 **at the same time** — two things happening together — "I feel stressed and excited at the same time."
 **stressed** — feeling pressure or worry — "I feel stressed before an exam."

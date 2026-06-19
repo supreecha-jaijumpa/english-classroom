@@ -29,6 +29,8 @@
 - [ ] "too" vs "to" — "too hard" (มากเกินไป) vs "to work" (purpose/direction)
 - [ ] Plural after "many" — "many attempts" not "many attempt"
 - [ ] Missing "if" — "I don't know **if**..." not "I don't know + clause"
+- [ ] Past negative base verb — "I didn't **eat**" not "I didn't **ate**" (after "didn't", verb resets to base)
+- [ ] -ing vs -ed adjectives — "the movie is **boring**" (thing) vs "I feel **bored**" (person's feeling)
 
 ## What I Am Good At
 
@@ -40,6 +42,8 @@
 - [x] Using spatial landmarks to give directions ("next to the bank")
 - [x] Expressing feelings in detail with reasons ("because the game is too hard")
 - [x] Always capitalizing "I" — MASTERED in Session 6
+- [x] Using irregular past tense naturally from the start (went, ate, woke up — correct on first try)
+- [x] Fixing grammar rules quickly after one explanation (past negative: 0/4 → 4/4 immediately)
 
 ## My Learning Preferences
 

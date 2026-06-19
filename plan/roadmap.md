@@ -29,7 +29,7 @@
 - [ ] Daily routines (I wake up, I eat, I go to work...)
 - [ ] Time expressions (in the morning, at 3pm, every day)
 - [ ] Present simple tense
-- [ ] Past simple tense (I went, I ate, I saw...)
+- [x] Past simple tense (I went, I ate, I saw...) ← covered in Session 7
 - [ ] Shopping and prices
 - [ ] Food and ordering at a restaurant
 - [x] Directions (turn left, go straight, next to...) ← covered in Session 5
@@ -94,4 +94,4 @@
 ---
 
 ## Current Stage
-**Stage 1: A1** — In progress (Session 6 complete)
+**Stage 2: A2** — Started Session 7 (2026-06-19). All A1 priority topics from CLAUDE.md completed.

@@ -157,4 +157,56 @@ Rule: **many** always goes with plural nouns. Count nouns get -s after many.
 
 ---
 
+## Lesson 11: Simple Past Tense
+
+Use past tense to talk about **finished actions** — things that already happened.
+
+### Regular verbs — add -ed
+| Present | Past |
+|---------|------|
+| watch | watched |
+| finish | finished |
+| walk | walked |
+
+### Irregular verbs — must memorize
+| Present | Past |
+|---------|------|
+| go | went |
+| sleep | slept |
+| wake up | woke up |
+| eat | ate |
+| see | saw |
+| have | had |
+
+### Past negative — didn't + BASE verb
+"Didn't" already carries the past meaning, so the main verb resets to its base form.
+
+| Wrong | Right |
+|-------|-------|
+| I didn't **ate** | I didn't **eat** |
+| She didn't **went** | She didn't **go** |
+| I didn't **slept** | I didn't **sleep** |
+
+Rule: only **one** word carries the past: either "slept" OR "didn't sleep" — never both.
+
+---
+
+## Lesson 12: -ing vs -ed Adjectives (Bored vs Boring)
+
+Two types of feeling adjectives in English:
+
+| Type | Describes | Examples |
+|------|-----------|---------|
+| **-ing** | The thing causing the feeling | boring, exciting, interesting, tiring |
+| **-ed** | How the person feels | bored, excited, interested, tired |
+
+| Wrong | Right |
+|-------|-------|
+| "She looked **boring**" (she's a boring person?) | "She looked **bored**" (she felt bored) |
+| "I am **interesting**" (I cause interest?) | "I am **interested**" (I feel interest) |
+
+Quick test: Am I describing the THING? → **-ing**. Am I describing the PERSON's feeling? → **-ed**.
+
+---
+
 *Claude adds a new grammar lesson here after each session.*
