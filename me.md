@@ -44,6 +44,7 @@
 - [x] Always capitalizing "I" — MASTERED in Session 6
 - [x] Using irregular past tense naturally from the start (went, ate, woke up — correct on first try)
 - [x] Fixing grammar rules quickly after one explanation (past negative: 0/4 → 4/4 immediately)
+- [x] Grasping new tense structures immediately (past continuous: all 3 practice sentences correct on first try)
 
 ## My Learning Preferences
 

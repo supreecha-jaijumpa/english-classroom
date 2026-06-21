@@ -30,6 +30,7 @@
 - [ ] Time expressions (in the morning, at 3pm, every day)
 - [ ] Present simple tense
 - [x] Past simple tense (I went, I ate, I saw...) ← covered in Session 7
+- [x] Past continuous tense (I was watching, she was sleeping...) ← covered in Session 8
 - [ ] Shopping and prices
 - [ ] Food and ordering at a restaurant
 - [x] Directions (turn left, go straight, next to...) ← covered in Session 5

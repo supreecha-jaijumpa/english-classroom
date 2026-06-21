@@ -209,4 +209,33 @@ Quick test: Am I describing the THING? → **-ing**. Am I describing the PERSON'
 
 ---
 
+## Lesson 13: Past Continuous Tense (was/were + verb-ing)
+
+Use past continuous to describe an action **in progress** at a specific moment in the past.
+
+**Formula:** subject + was/were + verb-ing
+
+| Subject | "to be" | Example |
+|---------|---------|---------|
+| I / He / She / It | **was** | "I **was watching** TV." |
+| You / We / They | **were** | "They **were sleeping**." |
+
+### Two main uses
+
+**1. In progress at a specific past time:**
+> "At 9 PM yesterday, I **was watching** Evil Lawyer."
+
+**2. Background action interrupted by another event (use "when"):**
+> "I **was watching** TV **when** my girlfriend **fell asleep**."
+> *(was watching = ongoing → fell asleep = the interruption)*
+
+| Wrong | Right |
+|-------|-------|
+| "I watching TV" | "I **was watching** TV" |
+| "She sleep when I called" | "She **was sleeping** when I called" |
+
+Tip: For change-of-state, say **"fell asleep"** (the moment it happened), not just "slept".
+
+---
+
 *Claude adds a new grammar lesson here after each session.*

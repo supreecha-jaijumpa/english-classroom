@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 8 — 2026-06-21
+**Topic:** Past Continuous Tense
+**Practiced:** Describing actions in progress at a past time, interrupted actions with "when" (used real examples: watching a series, office anniversary party, waking up sweating)
+**Learned:** Formula: was/were + verb-ing; "in progress" use ("I was watching TV at 9 PM"); "interrupted" use ("I was watching when she fell asleep"); "fell asleep" vs "slept" for change-of-state
+**Notes:** All 3 practice sentences used correct structure immediately — strong grasp of the formula. Errors: "i" → "I" (mastered slip), "work up" → "woke up" (irregular past spelling), missing "an" before "office" (vowel sound). Days/months: "Monday" correctly capitalized (now 2/3). New correction added: "work up" → "woke up".
+
+---
+
 ### Session 7 — 2026-06-19
 **Topic:** Simple Past Tense (first A2 lesson!)
 **Practiced:** Describing yesterday's activities (Toy Story 5, bedtime, food), past tense negatives with "didn't", bored vs. boring distinction

@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 47
+## Total Words Learned: 51
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,11 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**fell asleep** — the moment you go from awake to sleeping — "She fell asleep on the sofa."
+**anniversary** — a date remembered each year for a special event — "We had an office anniversary party."
+**snore** — the sound some people make when they sleep — "My girlfriend started snoring."
+**sweat** — to produce water through your skin when hot or nervous — "I was sweating when I woke up."
 
 **didn't** — past tense negative helper (didn't + base verb) — "I didn't eat breakfast." / "She didn't go."
 **boring** — describes a thing that causes boredom — "The movie was boring." / "This homework is boring."

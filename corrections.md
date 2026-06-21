@@ -17,7 +17,7 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > ❌ Wrong: *"On saturdays"* / *"on december 11th"*
 > ✅ Right: *"On **S**aturdays"* / *"on **D**ecember 11th"*
 > 💡 Why: Days of the week (Monday, Saturday…) and months (January, December…) are proper nouns in English — always capitalize them.
-> 📊 Correct uses: 1/3
+> 📊 Correct uses: 2/3
 
 > ❌ Wrong: *"lunch at 12 AM"*
 > ✅ Right: *"lunch at 12 **PM**"* (or "at **noon**")
@@ -77,6 +77,11 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > ❌ Wrong: *"I didn't **ate**"* / *"She didn't **went**"* / *"I didn't **slept**"*
 > ✅ Right: *"I didn't **eat**"* / *"She didn't **go**"* / *"I didn't **sleep**"*
 > 💡 Why: After "didn't", the verb resets to its **base form** (dictionary form). "Didn't" already carries the past meaning — only one word in the sentence shows past tense. So: didn't eat, didn't go, didn't watch, didn't sleep.
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"I **work** up this morning"*
+> ✅ Right: *"I **woke** up this morning"*
+> 💡 Why: "Wake up" is an irregular verb — wake → **woke** (past tense). "Work" is a completely different word. The sounds are similar, so easy to mix up when writing quickly.
 > 📊 Correct uses: 0/3
 
 > ❌ Wrong: *"the story is **boring**"* (about a thing — ✅) but *"she looked **boring**"* (about a person's feeling — ❌)
