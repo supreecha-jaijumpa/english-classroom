@@ -45,7 +45,7 @@
 **Goal:** Hold a real conversation on familiar topics
 
 ### Topics to Cover
-- [ ] Future plans (I will..., I'm going to...)
+- [x] Future plans (I will..., I'm going to...) ← covered early in Session 9 (A2)
 - [ ] Talking about experiences (present perfect: I have been...)
 - [ ] Opinions and preferences ("I think...", "I prefer...")
 - [ ] Making phone calls and sending messages

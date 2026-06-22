@@ -37,12 +37,12 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > ❌ Wrong: *"Elden ring"* (game/movie/book title)
 > ✅ Right: *"Elden Ring"*
 > 💡 Why: Titles are proper nouns — capitalize every important word.
-> 📊 Correct uses: 0/3
+> 📊 Correct uses: 1/3
 
 > ❌ Wrong: *"now we in June"*
 > ✅ Right: *"now we **are** in June"*
 > 💡 Why: English always requires the verb "to be" (am / is / are). You cannot skip it. In Thai you can say a sentence without a verb, but in English the verb must be there.
-> 📊 Correct uses: 0/3
+> 📊 Correct uses: 1/3
 
 > ❌ Wrong: *"Can I have Americano"*
 > ✅ Right: *"Can I have **an** Americano"*

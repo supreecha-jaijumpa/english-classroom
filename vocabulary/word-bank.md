@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 51
+## Total Words Learned: 56
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,12 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**will** — for decisions made right now or general future — "I will help you." / "It will be fun."
+**going to** — for plans already decided before speaking — "I am going to study English every day."
+**software architect** — a person who designs the structure of software systems — "She is a Software Architect at Google."
+**prediction** — something you say will happen in the future — "It is going to rain — that's my prediction."
+**in the future** — at some later time, not now — "I am going to be a Software Architect in the future."
 
 **fell asleep** — the moment you go from awake to sleeping — "She fell asleep on the sofa."
 **anniversary** — a date remembered each year for a special event — "We had an office anniversary party."

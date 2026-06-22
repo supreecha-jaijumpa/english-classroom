@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 9 — 2026-06-22
+**Topic:** Future Tense — "will" vs "going to"
+**Practiced:** Fill-in-the-blank (4/4 correct concept on first try), bonus sentences using real plans
+**Learned:** will = decided right now / general future / promises; going to = already have a plan / evidence-based predictions; full structure: subject + am/is/are + going to + base verb
+**Notes:** Got all 4 concepts correct immediately — strong grasp of the distinction. Main error: missing am/is/are before "going to" (sentences 1, 3, 4 in exercise). Bonus sentence "I am going to be a Software Architect" — correct structure! Error: "Software Architecture" → "a Software Architect" (the field vs the person + missing article). "Elden Ring" correctly capitalized in warm-up (title rule 0→1/3).
+
+---
+
 ### Session 8 — 2026-06-21
 **Topic:** Past Continuous Tense
 **Practiced:** Describing actions in progress at a past time, interrupted actions with "when" (used real examples: watching a series, office anniversary party, waking up sweating)

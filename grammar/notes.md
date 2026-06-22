@@ -238,4 +238,32 @@ Tip: For change-of-state, say **"fell asleep"** (the moment it happened), not ju
 
 ---
 
+## Lesson 14: Future Tense — "will" vs "going to"
+
+Use "will" or "going to" to talk about things that haven't happened yet.
+
+| | When to use | Example |
+|---|---|---|
+| **will** | Decided right now / general future / promises | "I'll help you!" / "It will be fun." |
+| **going to** | Already planned / evidence-based prediction | "I'm going to visit my friend Saturday." |
+
+### Structure: "going to" needs am / is / are
+
+"Going to" cannot stand alone — it always needs **am / is / are** in front of it.
+
+| Subject | Full form | Example |
+|---------|-----------|---------|
+| I | **am going to** | "I am going to study tonight." |
+| He / She / It | **is going to** | "It is going to rain." |
+| You / We / They | **are going to** | "They are going to finish soon." |
+
+| Wrong | Right |
+|-------|-------|
+| "I going to study" | "I **am** going to study" |
+| "She going to help" | "She **is** going to help" |
+
+Quick tip: If you already had the plan before you spoke → **going to**. If you just decided while speaking → **will**.
+
+---
+
 *Claude adds a new grammar lesson here after each session.*
