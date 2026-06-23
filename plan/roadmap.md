@@ -46,7 +46,7 @@
 
 ### Topics to Cover
 - [x] Future plans (I will..., I'm going to...) ← covered early in Session 9 (A2)
-- [ ] Talking about experiences (present perfect: I have been...)
+- [x] Talking about experiences (present perfect: I have been...) ← covered in Session 10
 - [ ] Opinions and preferences ("I think...", "I prefer...")
 - [ ] Making phone calls and sending messages
 - [ ] Travel and transportation

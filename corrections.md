@@ -14,6 +14,16 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 
 ## Active Mistakes
 
+> ❌ Wrong: *"I have never **gone to** another country"* (for travel)
+> ✅ Right: *"I have never **been to** another country"*
+> 💡 Why: "Gone to" = you went and haven't come back (still there). "Been to" = you visited and returned. For travel experience, always use "been to".
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"I have just **drank** a coffee"*
+> ✅ Right: *"I have just **drunk** a coffee"*
+> 💡 Why: After have/has, you need the **past participle**, not simple past. Drink has 3 forms: drink (base) → drank (simple past) → **drunk** (past participle). Always use the past participle in present perfect.
+> 📊 Correct uses: 0/3
+
 > ❌ Wrong: *"On saturdays"* / *"on december 11th"*
 > ✅ Right: *"On **S**aturdays"* / *"on **D**ecember 11th"*
 > 💡 Why: Days of the week (Monday, Saturday…) and months (January, December…) are proper nouns in English — always capitalize them.

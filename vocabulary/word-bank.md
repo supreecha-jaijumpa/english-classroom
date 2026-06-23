@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 56
+## Total Words Learned: 62
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,14 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**decision** — a choice you make after thinking — "I made a decision about my career."
+**drunk** — past participle of "drink" (drink → drank → drunk) — "I have just drunk my morning coffee."
+**have been to** — visited a place and came back; used for travel experience — "I have been to Chiang Mai twice."
+**have never ___** — no experience of something in your life — "I have never eaten octopus."
+**have just ___** — finished something very recently — "I have just finished my work."
+**experience** — something you have done or lived through — "I have no experience traveling abroad."
+**abroad** — in or to another country — "I have never studied abroad."
 
 **will** — for decisions made right now or general future — "I will help you." / "It will be fun."
 **going to** — for plans already decided before speaking — "I am going to study English every day."

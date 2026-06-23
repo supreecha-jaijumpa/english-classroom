@@ -266,4 +266,60 @@ Quick tip: If you already had the plan before you spoke → **going to**. If you
 
 ---
 
+## Lesson 15: Present Perfect Tense (have/has + past participle)
+
+Use present perfect to connect a past action to **right now**.
+
+**Formula:** subject + have/has + past participle
+
+| Subject | Helper verb |
+|---------|------------|
+| I / You / We / They | **have** |
+| He / She / It | **has** |
+
+### Three main uses
+
+**1. Life experience** — have you ever done something?
+> "I **have been** to Japan." / "I **have never eaten** sushi."
+
+**2. Very recent action with a present result**
+> "I **have just finished** work." *(= I'm free right now)*
+
+**3. Duration — from the past until now**
+> "I **have studied** English for 6 months."
+
+### Present Perfect vs Simple Past
+
+| Simple Past | Present Perfect |
+|-------------|----------------|
+| Finished, disconnected | Connected to NOW |
+| "I **ate** lunch **yesterday**." | "I **have eaten** lunch." (not hungry now) |
+| "She **worked** there in 2020." | "She **has worked** there for 5 years." (still does!) |
+
+### Key phrases
+- **"have/has never ___"** — zero experience: "I have never been to Paris."
+- **"have/has just ___"** — very recent: "She has just left."
+- **"have/has already ___"** — done before expected: "He has already finished."
+- **"Have you ever ___?"** — asking about experience: "Have you ever tried durian?"
+
+### "Been to" vs "Gone to" for travel
+| | Meaning | Example |
+|---|---|---|
+| **have been to** | visited and came back | "I have been to Phuket twice." |
+| **have gone to** | went and haven't returned | "She has gone to Bangkok." (she's still there) |
+
+For travel **experience**, always use **"have been to"**.
+
+### Irregular past participles to remember
+| Base | Simple past | Past participle |
+|------|-------------|----------------|
+| go | went | **gone** |
+| eat | ate | **eaten** |
+| drink | drank | **drunk** |
+| see | saw | **seen** |
+| be | was/were | **been** |
+| have | had | **had** |
+
+---
+
 *Claude adds a new grammar lesson here after each session.*

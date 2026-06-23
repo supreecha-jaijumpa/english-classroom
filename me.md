@@ -18,6 +18,8 @@
 
 ## What I Find Difficult
 
+- [ ] Irregular past participles — "drank" (simple past) vs "drunk" (past participle after have/has)
+- [ ] "been to" vs "gone to" for travel experience — use "been to" when you visited and came back
 - [ ] "there is" vs "there are" with plural nouns
 - [ ] Capitalizing proper nouns, days, and months (Elden Ring / Saturday / December)
 - [ ] Articles with meal names — "skip breakfast" not "skip the breakfast"
@@ -46,6 +48,7 @@
 - [x] Fixing grammar rules quickly after one explanation (past negative: 0/4 → 4/4 immediately)
 - [x] Grasping new tense structures immediately (past continuous: all 3 practice sentences correct on first try)
 - [x] Distinguishing "will" vs "going to" on first attempt (all 4 concepts correct in Session 9)
+- [x] Grasping present perfect structure on first try (3/4 exercise, bonus sentence structure always correct)
 
 ## My Learning Preferences
 

@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 10 — 2026-06-23
+**Topic:** Present Perfect Tense
+**Practiced:** Fill-in-the-blank exercise (3/4 correct on first try), personal sentences about real life experience
+**Learned:** Formula: have/has + past participle; 3 uses — experience ("I have never been to Japan"), recent result ("I have just finished"), duration ("I have studied for 6 months"); "been to" vs "gone to" for travel; irregular past participle: drink → drank → **drunk**
+**Notes:** Warm-up: correct "going to" structure and correct past continuous ("I was wondering") on first try. Spelling error: "desition" → "decision". Exercise: 3/4 correct — error on sentence 4 (used simple past "ate" instead of present perfect "has just eaten"). Personal sentences: structure always correct; two errors — "gone to" → "been to" for travel experience; "drank" → "drunk" (past participle). New corrections added for both. Streak: 9 days — new best!
+
+---
+
 ### Session 9 — 2026-06-22
 **Topic:** Future Tense — "will" vs "going to"
 **Practiced:** Fill-in-the-blank (4/4 correct concept on first try), bonus sentences using real plans
