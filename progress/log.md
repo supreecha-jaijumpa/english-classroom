@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 11 — 2026-06-24
+**Topic:** Expressing Opinions (First B1 lesson!)
+**Practiced:** 3 opinion exercises — responding to statements using agreement/disagreement phrases with reasons
+**Learned:** Opinion phrases (I think, I believe, In my opinion, I feel that); agreement (I agree, Exactly!, I think so too, That's right); polite disagreement (I don't think so, Actually I think..., That's a good point but...); "every day" (two words = each day) vs "everyday" (one word = ordinary); "help me become" more natural than "improve me to be"
+**Notes:** Warm-up: correct use of "been to" (0→1/3). Errors: simple past used instead of present perfect in warm-up; "Yes I had" → "Yes, I have" (wrong auxiliary for present perfect answer); "myanmar" not capitalized; "few times" → "a few times"; "when I was children" → "when I was a child". All 3 opinion exercises answered correctly — natural use of phrases from the start. New corrections added: "every day" vs "everyday", short answers with present perfect, "a few", "a child". 10-day streak — new best!
+
+---
+
 ### Session 10 — 2026-06-23
 **Topic:** Present Perfect Tense
 **Practiced:** Fill-in-the-blank exercise (3/4 correct on first try), personal sentences about real life experience

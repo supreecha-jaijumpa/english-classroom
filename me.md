@@ -2,7 +2,7 @@
 
 ## About Me
 
-- **English Level:** Beginner (just starting, A1)
+- **English Level:** A2/B1 — Elementary to Pre-Intermediate
 - **My Goal:** Use English for life opportunities — entertainment, learning, and career growth. No deadline; build it as a daily routine.
 - **Study Schedule:** 30 minutes every day
 - **Native Language:** Thai
@@ -33,6 +33,10 @@
 - [ ] Missing "if" — "I don't know **if**..." not "I don't know + clause"
 - [ ] Past negative base verb — "I didn't **eat**" not "I didn't **ate**" (after "didn't", verb resets to base)
 - [ ] -ing vs -ed adjectives — "the movie is **boring**" (thing) vs "I feel **bored**" (person's feeling)
+- [ ] "every day" (two words = each day) vs "everyday" (one word = ordinary)
+- [ ] Short answers with present perfect — "Yes, I **have**" not "Yes, I **had**"
+- [ ] "a few" — always needs "a": "a few times", not "few times"
+- [ ] Singular self-reference — "when I was **a child**" not "when I was children"
 
 ## What I Am Good At
 
@@ -49,6 +53,7 @@
 - [x] Grasping new tense structures immediately (past continuous: all 3 practice sentences correct on first try)
 - [x] Distinguishing "will" vs "going to" on first attempt (all 4 concepts correct in Session 9)
 - [x] Grasping present perfect structure on first try (3/4 exercise, bonus sentence structure always correct)
+- [x] Using opinion phrases naturally on first attempt (all 3 exercises correct in Session 11)
 
 ## My Learning Preferences
 

@@ -15,7 +15,7 @@ Practice "will" and "going to" in real sentences. Move into daily life conversat
 |-----|------|-------|
 | Monday | Study session — Future Tense (will / going to) | [x] |
 | Tuesday | Study session | [x] |
-| Wednesday | Study session | [ ] |
+| Wednesday | Study session | [x] |
 | Thursday | Study session | [ ] |
 | Friday | Study session | [ ] |
 | Weekend | Review: "going to" structure (am/is/are + going to) | [ ] |
@@ -31,3 +31,4 @@ Learn **5** new words by end of week. (5/5 done — Session 9!)
 ## Notes for This Week
 - Session 9 (06-22, Mon): Future Tense — "will" vs "going to". Got all 4 concepts correct on first try. Main gap: missing am/is/are before "going to". Bonus sentences show natural use. "Elden Ring" capitalized correctly (title 0→1/3). "to be" used correctly in "I am going to be" (0→1/3). **8-day streak — new best!** **50 words milestone reached!**
 - Session 10 (06-23, Tue): Present Perfect Tense. 3/4 fill-in-blank correct on first try. Warm-up sentences both correct. New errors: "gone to" → "been to" for travel; "drank" → "drunk" past participle. **9-day streak — new best! 10 sessions milestone!**
+- Session 11 (06-24, Wed): Expressing Opinions — first B1 lesson! All 3 opinion exercises correct on first try. Natural use of disagreement phrases. Warm-up: "been to" used correctly (0→1/3). New corrections: "every day" vs "everyday", present perfect short answers, "a few", "a child". **10-day streak — new best!**

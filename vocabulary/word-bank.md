@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 62
+## Total Words Learned: 70
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,15 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**someday** — at some time in the future (unspecified) — "Someday I will be fluent in English."
+**every day** — each day (two words = frequency) — "I study English every day." *(NOT "everyday")*
+**relaxing** — something that makes you feel calm and rested — "Playing video games is relaxing after work."
+**fluent** — able to speak a language well and naturally — "I hope to become fluent in English."
+**actually** — used to add information or politely correct something — "Actually, I think it is easier than you think."
+**exactly** — used to show strong agreement — "Exactly! That is what I think too."
+**I believe** — another way to give your opinion — "I believe practice makes perfect."
+**in my opinion** — a phrase to introduce your opinion — "In my opinion, morning is the best time to study."
 
 **decision** — a choice you make after thinking — "I made a decision about my career."
 **drunk** — past participle of "drink" (drink → drank → drunk) — "I have just drunk my morning coffee."

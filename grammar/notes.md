@@ -322,4 +322,43 @@ For travel **experience**, always use **"have been to"**.
 
 ---
 
+## Lesson 16: Expressing Opinions (B1)
+
+Use these phrases to share what you think in a natural, polite way.
+
+### Giving your opinion
+| Phrase | Example |
+|--------|---------|
+| **I think...** | "I think English is fun." |
+| **I believe...** | "I believe practice is the key." |
+| **In my opinion,...** | "In my opinion, games help you learn." |
+| **I feel that...** | "I feel that mornings are the best time to study." |
+
+### Agreeing
+| Phrase | Strength |
+|--------|---------|
+| **I agree.** | standard agreement |
+| **I think so too.** | friendly agreement |
+| **That's right.** | confirming something correct |
+| **Exactly!** | strong, enthusiastic agreement |
+
+### Disagreeing politely
+| Phrase | Tone |
+|--------|------|
+| **I don't think so.** | soft disagreement |
+| **Actually, I think...** | correcting or adding a different view |
+| **That's a good point, but...** | respectful disagreement |
+| **I'm not sure about that.** | gentle, uncertain disagreement |
+
+Tip: Always give a reason after agreeing or disagreeing — it makes your English sound much more natural.
+> ✅ "I don't think so. Playing video games is **relaxing**, and relaxing **doesn't mean** wasting time."
+
+### "every day" vs "everyday"
+| | Meaning | Example |
+|---|---|---|
+| **every day** (two words) | each day / daily frequency | "I study English **every day**." |
+| **everyday** (one word) | ordinary, normal | "This is my **everyday** routine." |
+
+---
+
 *Claude adds a new grammar lesson here after each session.*

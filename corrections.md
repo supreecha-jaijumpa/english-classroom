@@ -17,7 +17,7 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > ❌ Wrong: *"I have never **gone to** another country"* (for travel)
 > ✅ Right: *"I have never **been to** another country"*
 > 💡 Why: "Gone to" = you went and haven't come back (still there). "Been to" = you visited and returned. For travel experience, always use "been to".
-> 📊 Correct uses: 0/3
+> 📊 Correct uses: 1/3
 
 > ❌ Wrong: *"I have just **drank** a coffee"*
 > ✅ Right: *"I have just **drunk** a coffee"*
@@ -82,6 +82,26 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > ❌ Wrong: *"I don't know my pronunciation is good or not"*
 > ✅ Right: *"I don't know **if** my pronunciation is good or not"*
 > 💡 Why: After "know / wonder / ask", you need "if" to introduce a yes/no question turned into a statement. "I don't know if X is Y."
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"I practice **everyday**"*
+> ✅ Right: *"I practice **every day**"*
+> 💡 Why: **"Every day"** (two words) = each day, a frequency. **"Everyday"** (one word) = ordinary, normal ("everyday life"). When you mean "each day" → always two words.
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"Yes, I **had**"* (answering a present perfect question)
+> ✅ Right: *"Yes, I **have**"*
+> 💡 Why: Short answers mirror the auxiliary in the question. "Have you ever been...?" → "Yes, I **have**." "Did you go?" → "Yes, I **did**." The auxiliary must match.
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"I went there **few times**"*
+> ✅ Right: *"I went there **a few times**"*
+> 💡 Why: "A few" is a fixed phrase — it always needs "a". "A few" = some (positive). "Few" without "a" = almost none (negative meaning). Always say "a few times", "a few friends", "a few days".
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"when I was **children**"*
+> ✅ Right: *"when I was **a child**"*
+> 💡 Why: You are one person, so use the singular noun "child" (not plural "children"). Also needs the article "a" — "a child". Remember: one person → "a child"; more than one → "children".
 > 📊 Correct uses: 0/3
 
 > ❌ Wrong: *"I didn't **ate**"* / *"She didn't **went**"* / *"I didn't **slept**"*
