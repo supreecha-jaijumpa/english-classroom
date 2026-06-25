@@ -37,6 +37,8 @@
 - [ ] Short answers with present perfect — "Yes, I **have**" not "Yes, I **had**"
 - [ ] "a few" — always needs "a": "a few times", not "few times"
 - [ ] Singular self-reference — "when I was **a child**" not "when I was children"
+- [ ] Adverb placement — "speak English **fluently**" not "fluently speak English" (adverb goes after the verb phrase)
+- [ ] Article "a" before job titles — "a Software Architect", "a doctor", "a teacher" (job titles are singular nouns)
 
 ## What I Am Good At
 

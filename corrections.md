@@ -42,7 +42,7 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > ❌ Wrong: *"there is many tools"*
 > ✅ Right: *"there are many tools"*
 > 💡 Why: Use **"there are"** when the noun is plural (more than one). "There is" = one thing. "There are" = many things.
-> 📊 Correct uses: 0/3
+> 📊 Correct uses: 1/3
 
 > ❌ Wrong: *"Elden ring"* (game/movie/book title)
 > ✅ Right: *"Elden Ring"*
@@ -87,12 +87,12 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > ❌ Wrong: *"I practice **everyday**"*
 > ✅ Right: *"I practice **every day**"*
 > 💡 Why: **"Every day"** (two words) = each day, a frequency. **"Everyday"** (one word) = ordinary, normal ("everyday life"). When you mean "each day" → always two words.
-> 📊 Correct uses: 0/3
+> 📊 Correct uses: 1/3
 
 > ❌ Wrong: *"Yes, I **had**"* (answering a present perfect question)
 > ✅ Right: *"Yes, I **have**"*
 > 💡 Why: Short answers mirror the auxiliary in the question. "Have you ever been...?" → "Yes, I **have**." "Did you go?" → "Yes, I **did**." The auxiliary must match.
-> 📊 Correct uses: 0/3
+> 📊 Correct uses: 1/3
 
 > ❌ Wrong: *"I went there **few times**"*
 > ✅ Right: *"I went there **a few times**"*

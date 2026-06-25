@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 70
+## Total Words Learned: 78
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,15 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**I'm thinking about** — still deciding, considering a future option — "I'm thinking about changing jobs."
+**My goal is to** — long-term ambition or aim — "My goal is to become a Software Architect."
+**I'd like to** — polite wish or desire — "I'd like to visit Japan someday."
+**I hope to** — a wish you're not certain will happen — "I hope to speak English fluently."
+**I'm planning to** — a definite future plan — "I'm planning to travel to Japan next year."
+**suitable** — right for a purpose, appropriate — "This job is suitable for me."
+**fluently** — in a smooth, natural, confident way — "I want to speak English fluently."
+**trip** — a journey to a place and back — "I'm saving money for the trip."
 
 **someday** — at some time in the future (unspecified) — "Someday I will be fluent in English."
 **every day** — each day (two words = frequency) — "I study English every day." *(NOT "everyday")*

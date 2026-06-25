@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 12 — 2026-06-25
+**Topic:** Future Plans — Goal & Dream Expressions (B1)
+**Practiced:** 3 sentences using goal/plan expressions (career goal, English hope, travel plan)
+**Learned:** 5 expressions — "My goal is to...", "I hope to...", "I'd like to...", "I'm planning to...", "I'm thinking about..."; after "to" → base verb; after "about" → verb-ing; adverb placement ("speak fluently" not "fluently speak"); article "a" before job titles; "suitable" ≠ "suite"; "save money" not "save the wallet"; "trip" more natural than "the travel" as a noun
+**Notes:** Warm-up: "Yes, I have" correct (0→1/3); "every day" two words correct (0→1/3); "there are" correct (0→1/3). Errors: "japaness/korea" → "Japanese/Korean" (proper adjectives); "suite" → "suitable"; "resolve it" → "resolve" (redundant pronoun); missing "to be" in "I thinking"; "travel" → "travelling" after "about"; "how can I" → "how I can" (indirect question — repeated). 11-day streak — new best!
+
+---
+
 ### Session 11 — 2026-06-24
 **Topic:** Expressing Opinions (First B1 lesson!)
 **Practiced:** 3 opinion exercises — responding to statements using agreement/disagreement phrases with reasons

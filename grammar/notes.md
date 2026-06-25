@@ -361,4 +361,30 @@ Tip: Always give a reason after agreeing or disagreeing — it makes your Englis
 
 ---
 
+## Lesson 17: Future Plans — Expressions for Goals and Wishes (B1)
+
+Use these 5 expressions to talk about your dreams, goals, and future plans naturally.
+
+| Expression | After it → | When to use | Example |
+|---|---|---|---|
+| **My goal is to** | base verb | long-term ambition | "My goal is to become a Software Architect." |
+| **I hope to** | base verb | a wish, not certain | "I hope to speak English fluently." |
+| **I'd like to** | base verb | polite wish or desire | "I'd like to visit Japan." |
+| **I'm planning to** | base verb | definite plan | "I'm planning to travel to Korea." |
+| **I'm thinking about** | verb-**ing** | still deciding | "I'm thinking about changing jobs." |
+
+### Key pattern
+- After **"to"** → use **base verb**: "I hope to *speak*", "My goal is to *become*"
+- After **"about"** → use **verb-ing**: "I'm thinking about *travelling*"
+
+### Don't forget: job titles need "a"
+> ✅ "I want to become **a** Software Architect." / "She is **a** doctor."
+
+### Adverb placement
+Put adverbs **after** the verb phrase, not between "to" and the verb.
+> ❌ "I hope to **fluently speak** English."
+> ✅ "I hope to speak English **fluently**."
+
+---
+
 *Claude adds a new grammar lesson here after each session.*
