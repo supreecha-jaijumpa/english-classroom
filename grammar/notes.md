@@ -387,4 +387,51 @@ Put adverbs **after** the verb phrase, not between "to" and the verb.
 
 ---
 
+## Lesson 18: Storytelling — Structure & Connectors (B1)
+
+A good story in English has three parts.
+
+### Story Structure
+
+| Part | What to say | Example |
+|------|-------------|---------|
+| **Set the scene** | When, where, what you were doing | "Last Monday, I went to the mall..." |
+| **The event** | What happened (use connectors) | "Suddenly the dessert was sold out..." |
+| **The ending** | How it finished + your feeling | "Finally, I learned a lesson..." |
+
+### Connector Words
+
+| Word | When to use | Example |
+|------|-------------|---------|
+| **First** | to begin | "First, I looked at the menu." |
+| **Then / After that** | next event | "Then I walked to the store." |
+| **Suddenly** | unexpected event | "Suddenly, it was sold out." |
+| **At that moment** | exact point in time | "At that moment, I felt so sad." |
+| **Luckily** | good thing happened | "Luckily, there was another store." |
+| **Unfortunately** | bad thing happened | "Unfortunately, it was sold out." |
+| **Finally / In the end** | how it finished | "Finally, I learned my lesson." |
+
+### Tense Combination in Stories
+
+Use **past simple** for events + **past continuous** for background:
+
+| Tense | Use | Example |
+|-------|-----|---------|
+| Past continuous | background / in progress | "I **was thinking** about the dessert..." |
+| Past simple | the event that happened | "...when I **saw** a poster." |
+
+> "I **was walking** to the store **when** I **remembered** I was on a diet."
+
+### Stay Consistent — Stories Are in the Past
+
+Once you start a story in the past, keep ALL verbs in the past:
+
+| Wrong (mixed) | Right (all past) |
+|---|---|
+| "It **looks** sweet" | "It **looked** sweet" |
+| "I **am** on diet" | "I **was** on a diet" |
+| "The store **is** closed" | "The store **was** closed" |
+
+---
+
 *Claude adds a new grammar lesson here after each session.*

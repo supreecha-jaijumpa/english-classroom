@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 13 — 2026-06-26
+**Topic:** Storytelling — Story Structure & Connectors (B1)
+**Practiced:** Warm-up (weekend picnic plans, childhood dream), told a full 3-paragraph story (mall dessert adventure), continued with follow-up ending and a life lesson
+**Learned:** Story structure (set scene → event → ending); connector words (First, Then, After that, Suddenly, Finally, Luckily, Unfortunately); past simple + past continuous combined; "go on a picnic" fixed phrase; "lie down" vs "laydown"; "feel + adjective" not adverb ("feel sad" not "feel sadly"); "arrive at" + place; "limited edition" fixed phrase
+**Notes:** Warm-up: "an artist" correct — article before vowel (0→1/3); "a child" correct (0→1/3); "Monday" capitalized (2→3/3 → **MASTERED!**). Story had natural scene → conflict → return → sad ending → moral structure — impressive for first storytelling session! Strong: used past continuous naturally in writing ("I was thinking about the dessert"). Errors: "I'm not find" → "I didn't find" (past negative still 0/3); "It's look" → "It looked" (present/past switch); "I has learn" → "I learned" (wrong auxiliary); "sweetie" → "sweet"; "decised" → "decided"; "arrive the store" → "arrive at the store"; "feed sad" → "feel sad"; "feel sadly" → "feel sad" (adjective after feel). 12-day streak — new best!
+
+---
+
 ### Session 12 — 2026-06-25
 **Topic:** Future Plans — Goal & Dream Expressions (B1)
 **Practiced:** 3 sentences using goal/plan expressions (career goal, English hope, travel plan)

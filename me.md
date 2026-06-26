@@ -39,6 +39,8 @@
 - [ ] Singular self-reference — "when I was **a child**" not "when I was children"
 - [ ] Adverb placement — "speak English **fluently**" not "fluently speak English" (adverb goes after the verb phrase)
 - [ ] Article "a" before job titles — "a Software Architect", "a doctor", "a teacher" (job titles are singular nouns)
+- [ ] Tense consistency in stories — if the story is past, keep ALL verbs past ("It looked" not "It looks")
+- [ ] Adjectives after feel/look/seem — "feel **sad**" not "feel **sadly**" (adjective, not adverb)
 
 ## What I Am Good At
 
@@ -56,6 +58,8 @@
 - [x] Distinguishing "will" vs "going to" on first attempt (all 4 concepts correct in Session 9)
 - [x] Grasping present perfect structure on first try (3/4 exercise, bonus sentence structure always correct)
 - [x] Using opinion phrases naturally on first attempt (all 3 exercises correct in Session 11)
+- [x] Natural storytelling structure — used scene → conflict → return → moral correctly without being told (Session 13)
+- [x] Using past continuous naturally in written storytelling ("I was thinking about the dessert" — Session 13)
 
 ## My Learning Preferences
 

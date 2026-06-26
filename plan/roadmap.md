@@ -51,7 +51,7 @@
 - [ ] Making phone calls and sending messages
 - [ ] Travel and transportation
 - [ ] Work and daily responsibilities
-- [ ] Telling stories (past tenses: simple + continuous)
+- [x] Telling stories (past tenses: simple + continuous) ← covered in Session 13
 
 ### Milestone Test
 > Can I have a 5-minute conversation with a native speaker about my life?

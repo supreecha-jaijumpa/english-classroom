@@ -24,11 +24,6 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > 💡 Why: After have/has, you need the **past participle**, not simple past. Drink has 3 forms: drink (base) → drank (simple past) → **drunk** (past participle). Always use the past participle in present perfect.
 > 📊 Correct uses: 0/3
 
-> ❌ Wrong: *"On saturdays"* / *"on december 11th"*
-> ✅ Right: *"On **S**aturdays"* / *"on **D**ecember 11th"*
-> 💡 Why: Days of the week (Monday, Saturday…) and months (January, December…) are proper nouns in English — always capitalize them.
-> 📊 Correct uses: 2/3
-
 > ❌ Wrong: *"lunch at 12 AM"*
 > ✅ Right: *"lunch at 12 **PM**"* (or "at **noon**")
 > 💡 Why: AM = after midnight, before noon. PM = after noon, before midnight. Noon (midday) is **12 PM**. Midnight is **12 AM**.
@@ -57,7 +52,7 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > ❌ Wrong: *"Can I have Americano"*
 > ✅ Right: *"Can I have **an** Americano"*
 > 💡 Why: Use **"an"** (not "a") before words that start with a vowel sound (a, e, i, o, u). "Americano" starts with the "A" sound → "an Americano". Use "a" before consonant sounds: "a coffee", "a shirt".
-> 📊 Correct uses: 0/3
+> 📊 Correct uses: 1/3
 
 > ❌ Wrong: *"Do you know where **is** it?"*
 > ✅ Right: *"Do you know where **it is**?"*
@@ -102,7 +97,7 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > ❌ Wrong: *"when I was **children**"*
 > ✅ Right: *"when I was **a child**"*
 > 💡 Why: You are one person, so use the singular noun "child" (not plural "children"). Also needs the article "a" — "a child". Remember: one person → "a child"; more than one → "children".
-> 📊 Correct uses: 0/3
+> 📊 Correct uses: 1/3
 
 > ❌ Wrong: *"I didn't **ate**"* / *"She didn't **went**"* / *"I didn't **slept**"*
 > ✅ Right: *"I didn't **eat**"* / *"She didn't **go**"* / *"I didn't **sleep**"*
@@ -119,6 +114,11 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > 💡 Why: **-ing adjectives** describe the thing causing the feeling (boring movie, exciting game). **-ed adjectives** describe how the person feels (I am bored, she looked bored, he was excited). If you are describing a PERSON'S feeling → use **-ed**.
 > 📊 Correct uses: 0/3
 
+> ❌ Wrong: *"it made me feel **sadly**"*
+> ✅ Right: *"it made me feel **sad**"*
+> 💡 Why: After verbs like **feel, look, seem, sound, taste**, use an **adjective** (not an adverb). "Feel sad" (adjective) describes your state. "Sadly" is an adverb — it describes how an action is done ("she spoke sadly"). Rule: feel/look/seem + adjective.
+> 📊 Correct uses: 0/3
+
 ---
 
 ## ✅ Mastered
@@ -126,3 +126,7 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > ✅ **Always capitalize "I"**
 > Was: *"can i have..."* → Now: *"Can **I** have..."*
 > 💡 The pronoun "I" is always a capital letter — no exceptions. Mastered in Session 6.
+
+> ✅ **Always capitalize days and months**
+> Was: *"on saturdays"* / *"in december"* → Now: *"on **S**aturdays"* / *"in **D**ecember"*
+> 💡 Days of the week and months are proper nouns — always capitalize them. Mastered in Session 13.

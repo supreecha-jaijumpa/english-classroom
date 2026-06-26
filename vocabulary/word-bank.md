@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 78
+## Total Words Learned: 86
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,15 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**suddenly** — something unexpected happening — "Suddenly, it started to rain."
+**luckily** — used when something good happens unexpectedly — "Luckily, I had an umbrella."
+**unfortunately** — used when something bad or sad happens — "Unfortunately, the dessert was sold out."
+**at that moment** — at that exact point in time — "At that moment, I knew I had to go back."
+**go on a picnic** — to eat outdoors in a park or nature — "We are going to go on a picnic this weekend."
+**lie down** — to put your body flat to rest — "I want to lie down and relax for an hour."
+**stop yourself** — to control yourself from doing something you want — "I had to stop myself from ordering dessert."
+**limited edition** — a special product made in small quantities for a short time — "This dessert was a special limited edition."
 
 **I'm thinking about** — still deciding, considering a future option — "I'm thinking about changing jobs."
 **My goal is to** — long-term ambition or aim — "My goal is to become a Software Architect."
