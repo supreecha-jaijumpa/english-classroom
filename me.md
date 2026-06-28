@@ -41,6 +41,8 @@
 - [ ] Article "a" before job titles — "a Software Architect", "a doctor", "a teacher" (job titles are singular nouns)
 - [ ] Tense consistency in stories — if the story is past, keep ALL verbs past ("It looked" not "It looks")
 - [ ] Adjectives after feel/look/seem — "feel **sad**" not "feel **sadly**" (adjective, not adverb)
+- [ ] "Its" (possessive, no apostrophe) vs "It's" (= it is) — "Its name is..." not "It's name"
+- [ ] Yes/no question word order — "**Is that**...?" not "That is...?"
 
 ## What I Am Good At
 
@@ -60,6 +62,7 @@
 - [x] Using opinion phrases naturally on first attempt (all 3 exercises correct in Session 11)
 - [x] Natural storytelling structure — used scene → conflict → return → moral correctly without being told (Session 13)
 - [x] Using past continuous naturally in written storytelling ("I was thinking about the dessert" — Session 13)
+- [x] Using phone phrases naturally — said "This is Supreecha" correctly on first try (Session 14)
 
 ## My Learning Preferences
 

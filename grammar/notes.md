@@ -434,4 +434,34 @@ Once you start a story in the past, keep ALL verbs in the past:
 
 ---
 
+## Lesson 19: Phone Calls & "Its" vs "It's" (B1)
+
+### Useful phone phrases
+| Situation | What to say |
+|-----------|-------------|
+| Say who you are | "Hello, **this is** Supreecha." (NOT "I am" on the phone) |
+| Check who you reached | "**Is that** Jeju Restaurant?" |
+| Ask for someone | "**Could I speak to** Anna, please?" |
+| Ask the caller to wait | "**Hold on** a moment, please." |
+| Ask them to talk louder | "**Could you speak up?** The line is bad." |
+| Offer to record info | "Can I **take a message**?" |
+| Promise to return the call | "I'll **call you back** later." |
+
+### Booking a table
+- "I'd like to **make a reservation**." (use *make*, not *have*)
+- "A **table for two**, please." (just the number — not "two adult people")
+
+### "Its" vs "It's" — the apostrophe trap
+| Word | Meaning | Example |
+|------|---------|---------|
+| **It's** | it **is** / it has | "It's raining." / "It's been fun." |
+| **Its** | belongs to it (possessive) | "The game won an award. **Its** name is..." |
+
+Quick test: if you can replace it with "it is", use **it's**. If not → **its** (no apostrophe).
+
+### "win" is irregular
+win → **won** → won. "The game **won** the award." (Not "had win".)
+
+---
+
 *Claude adds a new grammar lesson here after each session.*

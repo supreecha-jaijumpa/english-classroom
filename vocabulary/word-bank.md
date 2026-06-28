@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 86
+## Total Words Learned: 94
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,15 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**this is... (on the phone)** — how you say who you are on a call — "Hello, this is Supreecha speaking."
+**make a reservation** — to book a table or room in advance — "I'd like to make a reservation for two."
+**a table for two** — a restaurant table for two people — "Can I have a table for two at 7 PM?"
+**hold on** — please wait a moment — "Hold on a moment, please."
+**call (someone) back** — to return a phone call later — "I'll call you back this evening."
+**take a message** — to write down information for an absent person — "He's not here. Can I take a message?"
+**speak up** — to talk louder — "Could you speak up? The line is bad."
+**brb / ttyl / np** — text slang: be right back / talk to you later / no problem — "Gotta go, brb!"
 
 **suddenly** — something unexpected happening — "Suddenly, it started to rain."
 **luckily** — used when something good happens unexpectedly — "Luckily, I had an umbrella."

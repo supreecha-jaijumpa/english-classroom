@@ -48,7 +48,7 @@
 - [x] Future plans (I will..., I'm going to...) ← covered in Session 9 (A2); B1 expressions (I hope to, My goal is to, I'm thinking about...) covered in Session 12
 - [x] Talking about experiences (present perfect: I have been...) ← covered in Session 10
 - [x] Opinions and preferences ("I think...", "I prefer...") ← covered in Session 11
-- [ ] Making phone calls and sending messages
+- [x] Making phone calls and sending messages ← covered in Session 14
 - [ ] Travel and transportation
 - [ ] Work and daily responsibilities
 - [x] Telling stories (past tenses: simple + continuous) ← covered in Session 13

@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 14 — 2026-06-28
+**Topic:** Phone Calls & Text Messages (B1)
+**Practiced:** Warm-up (yesterday's lunch, weekend plans), wrote a full restaurant booking phone call, completed a role-play (gave name on the phone with "This is...")
+**Learned:** Phone phrases ("This is..." to say who you are, "Is that...?", "Could I speak to...?", "Hold on", "call you back", "take a message", "speak up"); booking — "make a reservation", "a table for two"; texting — brb, ttyl, np; "Its" (possessive) vs "It's" (= it is); "won" (past of win); "in 2025" not "at 2025"
+**Notes:** Warm-up: correct past tense ("went", "had a nice lunch"); good use of "I'm planning to" from Session 12. Errors: "It's name" → "Its name is" (its/it's + missing "to be"); "had win" → "won" (irregular past); "at 2025" → "in 2025" (in for years); "That is...?" → "Is that...?" (question word order); "have some reservation" → "make a reservation" (collocation); "two adult people" → "two". Big win: used "This is Supreecha" correctly on the phone on the first try. Spelling slips: lunch, planning, Expedition. 13-day streak — new best!
+
+---
+
 ### Session 13 — 2026-06-26
 **Topic:** Storytelling — Story Structure & Connectors (B1)
 **Practiced:** Warm-up (weekend picnic plans, childhood dream), told a full 3-paragraph story (mall dessert adventure), continued with follow-up ending and a life lesson

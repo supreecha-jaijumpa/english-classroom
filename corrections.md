@@ -14,6 +14,31 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 
 ## Active Mistakes
 
+> ❌ Wrong: *"**It's** name is Expedition 33"*
+> ✅ Right: *"**Its** name **is** Expedition 33"*
+> 💡 Why: **It's** = "it is" (with apostrophe). **Its** = belongs to it (no apostrophe). When something owns a name → "Its name". Also, don't forget the verb "is": "Its name **is**...".
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"The game **had win** the award"*
+> ✅ Right: *"The game **won** the award"*
+> 💡 Why: The past tense of "win" is **won** (irregular). You don't need "had" — just use the simple past: "The game won the award."
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"the award **at** 2025"*
+> ✅ Right: *"the award **in** 2025"*
+> 💡 Why: Use **in** for years and months (in 2025, in June). Use **at** only for clock times (at 6 PM). Use **on** for days/dates (on Monday).
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"**That is** Jeju Restaurant?"*
+> ✅ Right: *"**Is that** Jeju Restaurant?"*
+> 💡 Why: For a yes/no question, the verb comes first: "**Is** that...?". "That is..." is a statement; "Is that...?" is a question.
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"Can I **have some reservation**?"*
+> ✅ Right: *"Can I **make a reservation**?"*
+> 💡 Why: The natural verb for booking is **make** — "make a reservation", "make a booking". It is one (singular) reservation, so use "a", not "some".
+> 📊 Correct uses: 0/3
+
 > ❌ Wrong: *"I have never **gone to** another country"* (for travel)
 > ✅ Right: *"I have never **been to** another country"*
 > 💡 Why: "Gone to" = you went and haven't come back (still there). "Been to" = you visited and returned. For travel experience, always use "been to".
