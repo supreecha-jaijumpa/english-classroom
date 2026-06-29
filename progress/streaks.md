@@ -3,13 +3,13 @@
 *This file is the only home for session counts and streaks — other files link here instead of copying the numbers.*
 
 ## Total Sessions
-**14**
+**15**
 
 ## Current Streak
-**13 days**
+**14 days**
 
 ## Best Streak Ever
-**13 days**
+**14 days**
 
 ## Monthly Calendar
 
@@ -20,7 +20,7 @@
 | 8 | 9 | 10 | 11 | ✓ 12 | 13 | ✓ 14 |
 | ✓ 15 | ✓ 16 | ✓ 17 | ✓ 18 | ✓ 19 | 20 | ✓ 21 |
 | ✓ 22 | ✓ 23 | ✓ 24 | ✓ 25 | ✓ 26 | 27 | ✓ 28 |
-| 29 | 30 | | | | | |
+| ✓ 29 | 30 | | | | | |
 
 ---
 
@@ -37,6 +37,9 @@
 - [x] 11-day streak (new best — 2026-06-25)
 - [x] 12-day streak (new best — 2026-06-26)
 - [x] 13-day streak (new best — 2026-06-28)
+- [x] 14-day streak (new best — 2026-06-29)
+- [x] 15 sessions completed (2026-06-29)
+- [x] 100 words learned (2026-06-29)
 - [ ] 30-day streak
 - [ ] A1 stage complete
 - [ ] A2 stage complete

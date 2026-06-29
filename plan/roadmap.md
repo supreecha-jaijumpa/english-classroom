@@ -50,7 +50,7 @@
 - [x] Opinions and preferences ("I think...", "I prefer...") ← covered in Session 11
 - [x] Making phone calls and sending messages ← covered in Session 14
 - [ ] Travel and transportation
-- [ ] Work and daily responsibilities
+- [x] Work and daily responsibilities ← covered in Session 15
 - [x] Telling stories (past tenses: simple + continuous) ← covered in Session 13
 
 ### Milestone Test
@@ -95,4 +95,4 @@
 ---
 
 ## Current Stage
-**Stage 2: A2** — Started Session 7 (2026-06-19). All A1 priority topics from CLAUDE.md completed.
+**Stage 3: B1** — Pre-Intermediate. As of Session 15 (2026-06-29), only **Travel & transportation** remains to complete the B1 stage. All other B1 topics covered.

@@ -464,4 +464,36 @@ win → **won** → won. "The game **won** the award." (Not "had win".)
 
 ---
 
+## Lesson 20: Work Life — Talking About Your Job (B1)
+
+Useful phrases for describing your job and daily work.
+
+### Describing your role
+| Phrase | Meaning | Example |
+|--------|---------|---------|
+| **work as a [job]** | have this job | "I work as a Front-End developer." |
+| **responsible for** | the tasks you must do | "I'm responsible for building the UI." |
+| **in charge of** | you control / lead it | "She's in charge of the team." |
+
+### Daily tasks
+| Phrase | Meaning | Example |
+|--------|---------|---------|
+| **deal with** | handle / manage | "I deal with customer problems." |
+| **attend meetings** | go to meetings | "I attend meetings every morning." |
+| **deadline** | when work must be finished | "I have a deadline on Friday." |
+
+### Work setup & people
+| Word | Meaning |
+|------|---------|
+| **work from home / in the office** | where you work |
+| **hybrid** | a mix of home and office |
+| **colleagues / coworkers** | the people you work with |
+| **boss / manager** | the person above you |
+
+### Two reminders from this session
+- **based on** (not "follow up") to match a design: "I build the UI **based on** the Figma design."
+- **on** for days of the week: "I work in the office **on** Monday." (NOT "at Monday")
+
+---
+
 *Claude adds a new grammar lesson here after each session.*

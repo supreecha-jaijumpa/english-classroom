@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 94
+## Total Words Learned: 100
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,13 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**work as** — to have a job as something — "I work as a Front-End developer."
+**responsible for** — in charge of a task or duty — "I'm responsible for building the UI."
+**in charge of** — having control or responsibility for something — "She's in charge of the team."
+**deal with** — to handle or manage something — "I deal with customer problems every day."
+**colleagues / coworkers** — the people you work with — "My colleagues are very friendly."
+**hybrid (work)** — a mix of office and home working — "I have a hybrid schedule."
 
 **this is... (on the phone)** — how you say who you are on a call — "Hello, this is Supreecha speaking."
 **make a reservation** — to book a table or room in advance — "I'd like to make a reservation for two."

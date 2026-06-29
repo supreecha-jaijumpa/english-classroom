@@ -27,7 +27,7 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > ❌ Wrong: *"the award **at** 2025"*
 > ✅ Right: *"the award **in** 2025"*
 > 💡 Why: Use **in** for years and months (in 2025, in June). Use **at** only for clock times (at 6 PM). Use **on** for days/dates (on Monday).
-> 📊 Correct uses: 0/3
+> 📊 Correct uses: 1/3 *(Session 15: "in 2023", plus "at 3 PM" and "on Friday" all correct in exercise)*
 
 > ❌ Wrong: *"**That is** Jeju Restaurant?"*
 > ✅ Right: *"**Is that** Jeju Restaurant?"*
@@ -107,7 +107,7 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > ❌ Wrong: *"I practice **everyday**"*
 > ✅ Right: *"I practice **every day**"*
 > 💡 Why: **"Every day"** (two words) = each day, a frequency. **"Everyday"** (one word) = ordinary, normal ("everyday life"). When you mean "each day" → always two words.
-> 📊 Correct uses: 1/3
+> 📊 Correct uses: 2/3
 
 > ❌ Wrong: *"Yes, I **had**"* (answering a present perfect question)
 > ✅ Right: *"Yes, I **have**"*

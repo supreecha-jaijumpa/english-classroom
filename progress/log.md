@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 15 — 2026-06-29
+**Topic:** Work Life (B1 — final B1 topic)
+**Practiced:** Warm-up (morning routine, what he enjoys about his job), described his job as a Front-End developer using 3 work phrases, completed a 3/3 preposition exercise (at/on/in)
+**Learned:** Work vocabulary — "work as", "responsible for", "in charge of", "deal with", "attend meetings", "deadline", "colleagues/coworkers", "boss/manager", "hybrid", "work from home / in the office"; "based on" (not "follow up") to match a design; "on" for days of the week
+**Notes:** Warm-up: wrote "every day" as two words correctly again (1→2/3 — almost mastered!). Strong: used "I work as", "I'm responsible for", and described hybrid schedule naturally on first try. Errors: "miss take" → "mistakes" (one word + plural); "new thing" → "new things" (plural); "in every day" → "every day" (no "in"); "follow up the figma" → "based on the Figma" (wrong phrase + capitalize brand); "integrating API" → "APIs" (plural); "at Monday" → "on Monday" (preposition for days). Big win: PERFECT 3/3 on the at/on/in preposition exercise (at 3 PM, on Friday, in 2023). 14-day streak — new best!
+
+---
+
 ### Session 14 — 2026-06-28
 **Topic:** Phone Calls & Text Messages (B1)
 **Practiced:** Warm-up (yesterday's lunch, weekend plans), wrote a full restaurant booking phone call, completed a role-play (gave name on the phone with "This is...")

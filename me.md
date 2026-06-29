@@ -63,6 +63,8 @@
 - [x] Natural storytelling structure — used scene → conflict → return → moral correctly without being told (Session 13)
 - [x] Using past continuous naturally in written storytelling ("I was thinking about the dessert" — Session 13)
 - [x] Using phone phrases naturally — said "This is Supreecha" correctly on first try (Session 14)
+- [x] Describing his job naturally using work phrases (work as / responsible for / hybrid) on first try (Session 15)
+- [x] Time prepositions solid — perfect 3/3 on at/on/in exercise (at 3 PM, on Friday, in 2023) in Session 15
 
 ## My Learning Preferences
 
