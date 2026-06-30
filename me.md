@@ -43,6 +43,9 @@
 - [ ] Adjectives after feel/look/seem — "feel **sad**" not "feel **sadly**" (adjective, not adverb)
 - [ ] "Its" (possessive, no apostrophe) vs "It's" (= it is) — "Its name is..." not "It's name"
 - [ ] Yes/no question word order — "**Is that**...?" not "That is...?"
+- [ ] Negative present simple needs **don't/doesn't** — "if you **don't** label" not "if you not label"
+- [ ] "decide/know **what to** + base verb" — "decide what to keep" not "what should I keep"
+- [ ] "move (into a house)" not "migrate" — migrate is for birds/countries/data
 
 ## What I Am Good At
 
@@ -65,6 +68,7 @@
 - [x] Using phone phrases naturally — said "This is Supreecha" correctly on first try (Session 14)
 - [x] Describing his job naturally using work phrases (work as / responsible for / hybrid) on first try (Session 15)
 - [x] Time prepositions solid — perfect 3/3 on at/on/in exercise (at 3 PM, on Friday, in 2023) in Session 15
+- [x] Grasped conditionals immediately — first & second conditional flawless on first try (Session 16, first B2 lesson)
 
 ## My Learning Preferences
 

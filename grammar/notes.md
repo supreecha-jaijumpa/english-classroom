@@ -496,4 +496,26 @@ Useful phrases for describing your job and daily work.
 
 ---
 
+## Lesson 21: Conditionals — Zero, First & Second (B2)
+
+A conditional sentence has two parts: a **condition** (the *if* part) and a **result**.
+> **If** [condition], [result].
+
+| Type | When to use | Formula | Example |
+|------|-------------|---------|---------|
+| **Zero** | facts always true | If + present, ... present | "If I'm tired, I **drink** coffee." |
+| **First** | real, likely future | If + present, ... **will** + base | "If I finish early, I **will** relax." |
+| **Second** | imaginary / unlikely now | If + past, ... **would** + base | "If I **had** a car, I **would** move faster." |
+
+### Key rules
+- ⚠️ In the *if* part, use **present simple** even for the future — **not** "if it will rain". Say "If it **rains**, moving will be harder."
+- In the **second conditional**, we say "if I **were**" (not "if I was"): "If I **were** rich, I would hire movers."
+- Negative present simple needs **don't / doesn't**: "If you **don't** label the boxes, you forget."
+
+### Quick test: is it real or imaginary?
+- Real / possible future → **first** (will): "If I save money, I **will** travel."
+- Imaginary / dream → **second** (would): "If I won the lottery, I **would** travel."
+
+---
+
 *Claude adds a new grammar lesson here after each session.*

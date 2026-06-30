@@ -62,7 +62,7 @@
 **Goal:** Speak and write clearly on a wide range of topics
 
 ### Topics to Cover
-- [ ] Complex tenses (past perfect, conditionals: if I had...)
+- [~] Complex tenses (past perfect, conditionals: if I had...) ← conditionals (zero/first/second) covered in Session 16; past perfect still to do
 - [ ] Passive voice (It was built, It is used...)
 - [ ] Formal and informal writing (emails, messages)
 - [ ] Expressing opinions with reasons ("I believe... because...")
@@ -95,4 +95,4 @@
 ---
 
 ## Current Stage
-**Stage 3: B1** — Pre-Intermediate. As of Session 15 (2026-06-29), only **Travel & transportation** remains to complete the B1 stage. All other B1 topics covered.
+**Stage 4: B2** — Upper Intermediate (started Session 16, 2026-06-30, with conditionals). One B1 topic — **Travel & transportation** — is still open and can be revisited; all other B1 topics are complete.

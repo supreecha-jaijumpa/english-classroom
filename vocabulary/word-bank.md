@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 100
+## Total Words Learned: 103
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,10 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**move (into a house)** — to change the place where you live — "I'll move into the new house this weekend." *(NOT "migrate")*
+**sort (things)** — to organize items into groups — "I need to sort my things before the move."
+**conditional** — an "if... then..." sentence (if this, then that) — "Use a first conditional for real future plans: If I study, I will improve."
 
 **work as** — to have a job as something — "I work as a Front-End developer."
 **responsible for** — in charge of a task or duty — "I'm responsible for building the UI."

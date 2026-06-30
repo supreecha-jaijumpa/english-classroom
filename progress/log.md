@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 16 — 2026-06-30
+**Topic:** Conditionals — Zero, First & Second (first B2 lesson!)
+**Practiced:** Warm-up (how his work week is going, weekend plans — he's moving house!), 3 fill-in-the-blank conditional exercises, a bonus first-conditional sentence about the new house
+**Learned:** Zero conditional (always-true facts: *If + present, present*), First conditional (real future: *If + present, will + base*), Second conditional (imaginary: *If + past, would + base*; "if I were"); the *if* part uses present simple even for the future (not "if it will rain"); negative present simple needs **don't/doesn't**; "move" (not "migrate") for houses; "decide what to keep/leave" (what to + base verb); "sort/pack things"
+**Notes:** First B2 session! Warm-up strong: "so I can handle it", "not too much, not too little" sounded natural. Errors: "migrate to the new house" → "move into"; "prepare my items what should I leave or keep" → "decide what to leave and what to keep". Exercise: 2/3 perfect (first + second conditional flawless); #2 wrote "if you not label" → needs "don't label" (negative present simple). Bonus "If the new house is quiet, I will sleep well." — perfect first conditional. Grasped the conditional logic immediately — excellent B1→B2 transition. 15-day streak — new best! 16 sessions.
+
+---
+
 ### Session 15 — 2026-06-29
 **Topic:** Work Life (B1 — final B1 topic)
 **Practiced:** Warm-up (morning routine, what he enjoys about his job), described his job as a Front-End developer using 3 work phrases, completed a 3/3 preposition exercise (at/on/in)

@@ -14,6 +14,21 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 
 ## Active Mistakes
 
+> ❌ Wrong: *"If you **not label** the boxes..."*
+> ✅ Right: *"If you **don't label** the boxes..."*
+> 💡 Why: To make the present simple negative, you need the helper **don't** (I/you/we/they) or **doesn't** (he/she/it). The main verb stays in its base form: "don't **label**", "doesn't **work**". You can't just add "not" by itself.
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"I have to prepare my items **what should I leave or keep**"*
+> ✅ Right: *"...**decide what to leave and what to keep**"*
+> 💡 Why: After verbs like decide / know / choose, use **what to + base verb** (not a question). "Decide what to do", "know what to say". The question word order ("what should I...?") is only for direct questions.
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"I'll **migrate** to the new house"*
+> ✅ Right: *"I'll **move into** the new house"*
+> 💡 Why: For changing your home, the verb is **move** ("move house", "move into a new place"). *Migrate* is for birds, or people relocating to another country (or moving data). For houses → always **move**.
+> 📊 Correct uses: 0/3
+
 > ❌ Wrong: *"**It's** name is Expedition 33"*
 > ✅ Right: *"**Its** name **is** Expedition 33"*
 > 💡 Why: **It's** = "it is" (with apostrophe). **Its** = belongs to it (no apostrophe). When something owns a name → "Its name". Also, don't forget the verb "is": "Its name **is**...".
