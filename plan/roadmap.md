@@ -63,6 +63,7 @@
 
 ### Topics to Cover
 - [~] Complex tenses (past perfect, conditionals: if I had...) ← conditionals (zero/first/second) covered in Session 16; past perfect still to do
+- [x] Relative clauses (who/which/that/where/whose) ← covered in Session 17
 - [ ] Passive voice (It was built, It is used...)
 - [ ] Formal and informal writing (emails, messages)
 - [ ] Expressing opinions with reasons ("I believe... because...")

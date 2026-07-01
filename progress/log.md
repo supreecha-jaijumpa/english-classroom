@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 17 — 2026-07-01
+**Topic:** Relative Clauses — who / which / that / where / whose (B2)
+**Practiced:** Warm-up (packing progress & saving money at his cousin's free place), joined 3 sentence pairs into relative clauses, then built a free sentence about his cat keeping him awake
+**Learned:** Relative pronouns (who = people, which/that = things, where = places, whose = possession); place the clause **right next to the noun** it describes; use **which/that** (not *where*) when the noun is the subject doing something; the "in which" test for *where*; bonus — *at night* (no *the*), "always + -ing" for annoying repeated habits, possessive **'s** (cousin's home)
+**Notes:** Strong grasp of a real B2 structure. Sentence #3 flawless first try ("a game that is called Expedition 33" — right pronoun, right position, title capitalized). Two fixable errors: used *where* where subject needs which/that (#1); placed *who* after the adjective instead of right after *cousin* (#2). Warm-up errors: "haven't packing" → "haven't packed" (participle after have); "tried" → "tired" (typo); missing *to be* ("I looking", "I so tired"); "don't spent" → "don't spend" (base verb after don't); "for rent" → "on rent"; "cousin home" → "cousin's home". Free sentence: relative clause correct, but "that one make" → "that keeps" (drop *one*, add -s), "at the night" → "at night", "alway run" → "always running". Communicates everything clearly. **16-day streak — new best! 17 sessions.**
+
+---
+
 ### Session 16 — 2026-06-30
 **Topic:** Conditionals — Zero, First & Second (first B2 lesson!)
 **Practiced:** Warm-up (how his work week is going, weekend plans — he's moving house!), 3 fill-in-the-blank conditional exercises, a bonus first-conditional sentence about the new house

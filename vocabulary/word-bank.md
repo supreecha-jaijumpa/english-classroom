@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 103
+## Total Words Learned: 106
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,10 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**relative clause** — a part of a sentence that adds detail about a noun, joined with who/which/that/where — "The house **that** we rented is small."
+**whose** — a relative word showing possession (belongs to a person) — "My cousin, **whose** home I live in, is very kind."
+**at night** — during the night (fixed phrase, no *the*) — "My cat runs around at night."
 
 **move (into a house)** — to change the place where you live — "I'll move into the new house this weekend." *(NOT "migrate")*
 **sort (things)** — to organize items into groups — "I need to sort my things before the move."

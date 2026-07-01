@@ -518,4 +518,34 @@ A conditional sentence has two parts: a **condition** (the *if* part) and a **re
 
 ---
 
+## Lesson 22: Relative Clauses (B2)
+
+A relative clause adds detail about a noun so you don't need two short sentences.
+> I have a cousin. My cousin lets me stay for free.
+> → I have a cousin **who** lets me stay for free.
+
+### Relative pronouns
+| Word | Used for | Example |
+|------|----------|---------|
+| **who** | people | "The man **who** called me is my boss." |
+| **which** | things / animals | "The house **which** we rented is small." |
+| **that** | people or things | "The game **that** I bought is fun." |
+| **where** | places (= *in that place*) | "The city **where** I live is quiet." |
+| **whose** | possession | "My cousin, **whose** home I live in, is kind." |
+
+### Two golden rules
+
+**1. Put the clause right next to the noun it describes.**
+> ❌ "My cousin is very kind **who lets** me stay." (who is far from *cousin*)
+> ✅ "My cousin, **who** lets me stay for free, is very kind."
+
+**2. which/that vs where.**
+Use **where** only when you mean *in that place*. If the noun is the **subject doing something**, use **which/that**.
+> ❌ "the house **where** is near my place" (the house *is near* — it's the subject)
+> ✅ "the house **which/that** is near my place"
+
+Quick test: if you can say "**in which**", *where* is fine. If not → use which/that.
+
+---
+
 *Claude adds a new grammar lesson here after each session.*

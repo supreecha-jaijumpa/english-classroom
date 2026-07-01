@@ -14,6 +14,21 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 
 ## Active Mistakes
 
+> ❌ Wrong: *"This is the new house **where** is near my cousin's place"*
+> ✅ Right: *"This is the new house **which/that** is near my cousin's place"*
+> 💡 Why: Use **where** only when you mean *in that place* ("the house **where** I live"). When the noun is the **subject** doing something (the house *is near*...), use **which** or **that**. Quick test: if you can't say "in which," don't use *where*.
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"It's my **cousin home**"*
+> ✅ Right: *"It's my **cousin's** home"*
+> 💡 Why: To show something belongs to a person, add **'s**: cousin's home, my sister's car, the boss's office. Don't just put two nouns together.
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"it runs around **at the night**"*
+> ✅ Right: *"it runs around **at night**"*
+> 💡 Why: **at night** is a fixed phrase with no *the*. Compare: *in the morning*, *in the afternoon*, *in the evening* (these DO take *the*), but *at night* does not.
+> 📊 Correct uses: 0/3
+
 > ❌ Wrong: *"If you **not label** the boxes..."*
 > ✅ Right: *"If you **don't label** the boxes..."*
 > 💡 Why: To make the present simple negative, you need the helper **don't** (I/you/we/they) or **doesn't** (he/she/it). The main verb stays in its base form: "don't **label**", "doesn't **work**". You can't just add "not" by itself.
