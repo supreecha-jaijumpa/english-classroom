@@ -16,7 +16,7 @@ Finish the B1 stage — cover Work Life and Travel. Practice describing your job
 | Monday | Study session — Work Life (work as / responsible for) | [x] |
 | Tuesday | Study session — Conditionals (first B2 lesson!) | [x] |
 | Wednesday | Study session — Relative Clauses (B2) | [x] |
-| Thursday | Study session | [ ] |
+| Thursday | Study session — Debate Language (giving & defending opinions, B2) | [x] |
 | Friday | Study session | [ ] |
 | Weekend | Review: work vocabulary + prepositions (at/on/in) | [ ] |
 
@@ -38,3 +38,4 @@ Learn **5** new words by end of week. (6/5 done — Session 15! 🎉 100 words t
 - Session 15 (06-29, Mon): Work Life (B1). Described his job (Front-End developer) using 3 work phrases on first try. **PERFECT 3/3 on at/on/in preposition exercise!** Errors: plurals (mistakes, things, APIs), "based on" vs "follow up", capitalize Figma, "on Monday" not "at Monday". New words: work as, responsible for, in charge of, deal with, colleagues, hybrid. **14-day streak — new best! 100 words milestone reached! 15 sessions! Only Travel left to finish B1.**
 - Session 16 (06-30, Tue): Conditionals (first B2 lesson!). Zero, first & second conditionals. Exercise 2/3 perfect — first + second conditional flawless; #2 needed "don't label" (negative present simple). Bonus first-conditional sentence perfect. Errors: "migrate" → "move into" (house); "what should I leave" → "what to leave"; negative present simple needs "don't". Tied to real life — he's moving house this weekend! **15-day streak — new best! B2 stage started!**
 - Session 17 (07-01, Wed): Relative Clauses (B2) — who/which/that/where/whose. Joined 3 sentence pairs; #3 flawless first try. Strong grasp of a real B2 structure. Key learning: place the clause right next to the noun; use which/that (not where) when the noun is the subject. Errors: "haven't packing" → "haven't packed"; "tried"→"tired"; "don't spent"→"don't spend"; "cousin home"→"cousin's home"; "at the night"→"at night"; "that one make"→"that keeps". New corrections: which/that vs where, possessive 's, at night. **16-day streak — new best! 17 sessions.**
+- Session 18 (07-02, Thu): Debate Language — giving & defending opinions (B2). Used "From my point of view" and "That may be true, but..." naturally and built a genuinely nuanced argument (work-from-home vs office, ending on "a hybrid schedule is the best"). New corrections: depends on (not *of*), modal + be ("may be good"), it's worth + -ing, communicate with, gerund as subject ("working in an office"), no + any. New words: from my point of view, I see your point but, it's worth (+ -ing), commute. **17-day streak — new best! 18 sessions. 110 words total.** Covered B2 "expressing opinions with reasons" + "debating and disagreeing politely."

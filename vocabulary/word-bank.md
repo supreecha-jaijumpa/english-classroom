@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 106
+## Total Words Learned: 110
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,11 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**from my point of view** — a phrase to introduce your opinion — "From my point of view, working in an office is better."
+**I see your point, but...** — a polite way to disagree after acknowledging the other person — "I see your point, but it depends on your commute."
+**it's worth (+ -ing)** — it is a good idea / valuable to do something — "If the office is close, it's worth going in."
+**commute** — the journey between home and work — "My commute takes only 15 minutes."
 
 **relative clause** — a part of a sentence that adds detail about a noun, joined with who/which/that/where — "The house **that** we rented is small."
 **whose** — a relative word showing possession (belongs to a person) — "My cousin, **whose** home I live in, is very kind."

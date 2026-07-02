@@ -50,6 +50,12 @@
 - [ ] which/that vs where — use which/that when the noun is the subject; where only for *in that place*
 - [ ] Possessive **'s** — "cousin's home" not "cousin home"
 - [ ] "at night" (no *the*) vs "in the morning/afternoon/evening"
+- [ ] "depend **on**" (not "depend of")
+- [ ] Modal + **be** — "it **may be** good" (don't drop *be* after may/might/could)
+- [ ] "it's worth **+ -ing**" — "it's worth going" (not "worth to go")
+- [ ] "communicate **with** each other" (the *with* is required)
+- [ ] Action as subject → **-ing** form — "**Working** in an office is better" (not "Work is better")
+- [ ] Don't mix *no* + *any* — "**no** progress" or "**not any** progress", never both
 
 ## What I Am Good At
 
@@ -74,6 +80,7 @@
 - [x] Time prepositions solid — perfect 3/3 on at/on/in exercise (at 3 PM, on Friday, in 2023) in Session 15
 - [x] Grasped conditionals immediately — first & second conditional flawless on first try (Session 16, first B2 lesson)
 - [x] Chose relative pronouns well and built a flawless relative-clause sentence on first try (Session 17)
+- [x] Used debate phrases naturally ("From my point of view", "That may be true, but...") and built a nuanced, balanced argument on first try (Session 18)
 
 ## My Learning Preferences
 

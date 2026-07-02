@@ -548,4 +548,46 @@ Quick test: if you can say "**in which**", *where* is fine. If not → use which
 
 ---
 
+## Lesson 23: Giving & Defending Opinions — Debate Language (B2)
+
+At B2 you should sound thoughtful: give an opinion, back it with a reason, and disagree *politely*.
+
+### Giving an opinion (stronger than "I think")
+| Phrase | Example |
+|--------|---------|
+| **In my opinion,...** | "In my opinion, mornings are best for studying." |
+| **From my point of view,...** | "From my point of view, working in an office is better." |
+| **It seems to me that...** | "It seems to me that remote work saves time." |
+| **I'd say that...** | "I'd say that both have advantages." |
+
+### Agreeing
+| Phrase | Strength |
+|--------|----------|
+| **That's a good point.** | acknowledging |
+| **I couldn't agree more.** | very strong agreement |
+| **You're absolutely right.** | strong |
+
+### Disagreeing politely
+| Phrase | Tone |
+|--------|------|
+| **I see your point, but...** | respectful |
+| **That may be true, but...** | respectful |
+| **I'm not so sure about that.** | gentle, uncertain |
+
+### Giving a reason: because vs because of
+| Structure | Use | Example |
+|-----------|-----|---------|
+| **because** + full sentence | subject + verb follows | "...**because** it was raining." |
+| **because of** + noun | just a noun follows | "...**because of** the rain." |
+
+### Grammar reminders from this session
+- **depend on** (never *depend of*): "It depends **on** your commute."
+- Modal + **be**: after *may / might / could*, keep the verb **be** → "It **may be** good."
+- **it's worth + -ing**: "It's worth **going** to the office." (not *worth to go*)
+- **communicate with** each other (the *with* is required).
+- An action used as the **subject** takes the **-ing** form: "**Working** in an office is better." (not *Work is better*)
+- Don't mix *no* + *any*: say **no** progress **or** **not any** progress.
+
+---
+
 *Claude adds a new grammar lesson here after each session.*

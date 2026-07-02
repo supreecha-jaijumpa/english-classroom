@@ -3,13 +3,13 @@
 *This file is the only home for session counts and streaks — other files link here instead of copying the numbers.*
 
 ## Total Sessions
-**17**
+**18**
 
 ## Current Streak
-**16 days**
+**17 days**
 
 ## Best Streak Ever
-**16 days**
+**17 days**
 
 ## Monthly Calendar
 
@@ -25,7 +25,7 @@
 ### July 2026
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |-----|-----|-----|-----|-----|-----|-----|
-| | ✓ 1 | 2 | 3 | 4 | 5 | 6 |
+| | ✓ 1 | ✓ 2 | 3 | 4 | 5 | 6 |
 
 ---
 
@@ -48,6 +48,7 @@
 - [x] 15-day streak (new best — 2026-06-30)
 - [x] B2 stage started — first B2 lesson (2026-06-30)
 - [x] 16-day streak (new best — 2026-07-01)
+- [x] 17-day streak (new best — 2026-07-02)
 - [ ] 30-day streak
 - [ ] A1 stage complete
 - [ ] A2 stage complete

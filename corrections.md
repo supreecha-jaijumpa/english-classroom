@@ -14,6 +14,36 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 
 ## Active Mistakes
 
+> ❌ Wrong: *"it **depend of** how long..."*
+> ✅ Right: *"it **depends on** how long..."*
+> 💡 Why: The verb *depend* always pairs with **on**, never *of*: "It depends on the weather." And with *it/he/she* add **-s**: *it depend**s***.
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"Working from home **may good**"*
+> ✅ Right: *"Working from home **may be good**"*
+> 💡 Why: After a modal (*may / might / could / should*) you still need the verb **be** before an adjective: *may **be** good*, *might **be** hard*, *should **be** easy*.
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"I think **it worth to work** in office"*
+> ✅ Right: *"I think **it's worth working** in the office"*
+> 💡 Why: The pattern is **"it's worth + -ing"** (not *to*): *it's worth **trying**, it's worth **buying***. Also add **the**: *the office*.
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"we can **communicate each other**"*
+> ✅ Right: *"we can **communicate with each other**"*
+> 💡 Why: *Communicate* needs **with**: *communicate **with** my team*, *talk **with** each other*. The preposition is not optional.
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"**work from an office** is better"* (as the subject)
+> ✅ Right: *"**working in an office** is better"*
+> 💡 Why: Two things: (1) when an action is the **subject** of a sentence, use the **-ing** form — *working is better*, not *work is better*. (2) It's *work **in** an office* / *work **from** home*.
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"**No any** progress yet"*
+> ✅ Right: *"**No** progress yet"* (or *"**not any** progress"*)
+> 💡 Why: Don't mix *no* + *any*. Choose one: **no** progress **or** **not any** progress — never both together.
+> 📊 Correct uses: 0/3
+
 > ❌ Wrong: *"This is the new house **where** is near my cousin's place"*
 > ✅ Right: *"This is the new house **which/that** is near my cousin's place"*
 > 💡 Why: Use **where** only when you mean *in that place* ("the house **where** I live"). When the noun is the **subject** doing something (the house *is near*...), use **which** or **that**. Quick test: if you can't say "in which," don't use *where*.

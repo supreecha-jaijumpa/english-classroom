@@ -66,8 +66,8 @@
 - [x] Relative clauses (who/which/that/where/whose) ← covered in Session 17
 - [ ] Passive voice (It was built, It is used...)
 - [ ] Formal and informal writing (emails, messages)
-- [ ] Expressing opinions with reasons ("I believe... because...")
-- [ ] Debating and disagreeing politely
+- [x] Expressing opinions with reasons ("I believe... because...") ← covered in Session 18
+- [x] Debating and disagreeing politely ← covered in Session 18
 - [ ] News, media, and current events
 - [ ] Idiomatic expressions (break a leg, under the weather...)
 - [ ] Academic and work vocabulary
