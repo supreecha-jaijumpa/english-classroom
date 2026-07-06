@@ -1,30 +1,30 @@
 # This Week's Plan
 
-**Week of:** 2026-06-29
-**Current Stage:** B1 — Pre-Intermediate
-**This Week's Theme:** Finishing B1 → Travel & Work Life
+**Week of:** 2026-07-06
+**Current Stage:** B2 — Upper Intermediate
+**This Week's Theme:** B2 core — idioms, news/media, formal writing
 
 ---
 
 ## Focus This Week
-Finish the B1 stage — cover Work Life and Travel. Practice describing your job, responsibilities, and travel situations in real conversation.
+Keep building B2. This week: idioms (done), then news & media language, formal/informal writing (emails), and passive voice. Restart the daily streak after the July 3–5 gap.
 
 ## Daily Tasks
 
 | Day | Task | Done? |
 |-----|------|-------|
-| Monday | Study session — Work Life (work as / responsible for) | [x] |
-| Tuesday | Study session — Conditionals (first B2 lesson!) | [x] |
-| Wednesday | Study session — Relative Clauses (B2) | [x] |
-| Thursday | Study session — Debate Language (giving & defending opinions, B2) | [x] |
+| Monday | Study session — Idioms & common expressions (B2) | [x] |
+| Tuesday | Study session — News, media & current events (B2) | [ ] |
+| Wednesday | Study session — Formal vs informal writing (emails) | [ ] |
+| Thursday | Study session — Passive voice (B2) | [ ] |
 | Friday | Study session | [ ] |
-| Weekend | Review: work vocabulary + prepositions (at/on/in) | [ ] |
+| Weekend | Review: idioms + "-ing after a preposition" rule | [ ] |
 
 ## This Week's Vocabulary Target
-Learn **5** new words by end of week. (6/5 done — Session 15! 🎉 100 words total!)
+Learn **5** new words by end of week. (5/5 done — Session 19! 🎉 5 idioms, 115 words total!)
 
 ## This Week's Phrase to Master
-**"I work as a [job] and I'm responsible for [task]."**
+**"I'm looking forward to [verb-ing]..."** (remember: -ing after *to* here!)
 
 ---
 

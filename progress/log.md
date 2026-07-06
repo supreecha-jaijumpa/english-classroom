@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 19 — 2026-07-06
+**Topic:** Idioms & Common Expressions (B2)
+**Practiced:** Warm-up (house-move progress — still ongoing, sleeping between old & new house; plans to hire a mover for big stuff), wrote 3 sentences using idioms, filled in 2 idiom blanks
+**Learned:** Five everyday idioms — **up in the air** (undecided/uncertain), **little by little** (slowly, in small steps), **get settled in** (become comfortable in a new place), **a fresh start** (a new beginning), **hit the ground running** (start with full energy); idioms are fixed phrases — the words don't change; bonus grammar — **looking to / looking forward to + -ing** ("to" as a preposition takes -ing), **finish + -ing** ("finish moving"), **to + base verb** ("to move stuff")
+**Notes:** Used all three idioms correctly and naturally on the first try ("My moving date is still up in the air", "packing little by little", "hit the ground running") — strong feel for how idioms work. Both fill-in blanks correct (get settled in / a fresh start). Recurring error: dropped the **"to be" verb** twice ("I looking" → "I'm looking", "House move still ongoing" → "The house move is still ongoing") — this is on the active list, needs focus. Other fixes: "on going" → "ongoing" (one word); "to moving stuff" → "to move stuff" (base verb after *to*); "looking for finish" → "looking to finish" + "finish moving" (-ing after finish); "looking forward to hit" → "looking forward to hitting" (-ing after *to* preposition); "suff/suffl" → "stuff", "littlel" typos; "a transport" → "a mover". **Note: streak broken — a 3-day gap (July 3–5) since Session 18. Restarting at 1 day. 19 sessions total.**
+
+---
+
 ### Session 18 — 2026-07-02
 **Topic:** Giving & Defending Opinions — B2 Debate Language
 **Practiced:** Warm-up (house-move progress & this week's hopes), gave a 2–3 sentence opinion on work-from-home vs office using opinion + reason phrases, then politely disagreed with the tutor's counter-opinion using "That may be true, but..."

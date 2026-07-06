@@ -14,6 +14,16 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 
 ## Active Mistakes
 
+> ❌ Wrong: *"I'm **looking forward to hit** the ground running"*
+> ✅ Right: *"I'm **looking forward to hitting** the ground running"*
+> 💡 Why: In "looking forward to", the **to** is a preposition, not part of the verb — so it takes the **-ing** form: *looking forward to **seeing** you*, *looking forward to **the weekend***. Compare normal *to*: "I want **to hit**" (base verb).
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"I want to **finish move** the small stuff"*
+> ✅ Right: *"I want to **finish moving** the small stuff"*
+> 💡 Why: After **finish**, use the **-ing** form: *finish **moving**, finish **eating**, finish **packing***. (Not the base verb, not *to + verb*.)
+> 📊 Correct uses: 0/3
+
 > ❌ Wrong: *"it **depend of** how long..."*
 > ✅ Right: *"it **depends on** how long..."*
 > 💡 Why: The verb *depend* always pairs with **on**, never *of*: "It depends on the weather." And with *it/he/she* add **-s**: *it depend**s***.

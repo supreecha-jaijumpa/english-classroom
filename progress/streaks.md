@@ -3,10 +3,10 @@
 *This file is the only home for session counts and streaks — other files link here instead of copying the numbers.*
 
 ## Total Sessions
-**18**
+**19**
 
 ## Current Streak
-**17 days**
+**1 day** *(reset — 3-day gap July 3–5)*
 
 ## Best Streak Ever
 **17 days**
@@ -25,7 +25,7 @@
 ### July 2026
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |-----|-----|-----|-----|-----|-----|-----|
-| | ✓ 1 | ✓ 2 | 3 | 4 | 5 | 6 |
+| | ✓ 1 | ✓ 2 | 3 | 4 | 5 | ✓ 6 |
 
 ---
 

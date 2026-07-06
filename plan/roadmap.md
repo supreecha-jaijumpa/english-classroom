@@ -69,7 +69,7 @@
 - [x] Expressing opinions with reasons ("I believe... because...") ← covered in Session 18
 - [x] Debating and disagreeing politely ← covered in Session 18
 - [ ] News, media, and current events
-- [ ] Idiomatic expressions (break a leg, under the weather...)
+- [x] Idiomatic expressions (break a leg, under the weather...) ← covered in Session 19 (up in the air, little by little, get settled in, a fresh start, hit the ground running)
 - [ ] Academic and work vocabulary
 
 ### Milestone Test
