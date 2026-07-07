@@ -19,10 +19,15 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > 💡 Why: A modal (*may / might / will / can / should*) attaches **directly** to the subject — no *is/am/are* in between. Say *"It **may** take"*, *"She **will** help"*. (You only add *be* when there's no other verb: *"It **may be** ready."*) This is the flip side of the "don't drop to be" rule.
 > 📊 Correct uses: 0/3
 
+> ❌ Wrong: *"He **is cleans** the house"* (two verbs together)
+> ✅ Right: *"He **cleans** the house"*
+> 💡 Why: A sentence has **one** main verb. If there's already an action verb (*clean, work, run*), do **not** add *be*. For he/she/it, just add **-s**: *he clean**s***, *she work**s***. (Add *be* only when the sentence has no verb, or before an -ing word.)
+> 📊 Correct uses: 0/3
+
 > ❌ Wrong: *"they **was** busy"* / *"we **was** late"*
 > ✅ Right: *"they **were** busy"* / *"we **were** late"*
-> 💡 Why: With plural subjects (*they / we / you*) the past of *be* is **were**, not *was*. Only *I / he / she / it* use *was*.
-> 📊 Correct uses: 0/3
+> 💡 Why: With plural subjects (*they / we / you*) the past of *be* is **were**, not *was*. Only *I / he / she / it* use *was*. (Same rule in the present: plural → **are**, singular → **is**.)
+> 📊 Correct uses: 1/3 *(Practice July 7: all present-tense plurals correct — "The boxes **are**", "My two cats **are**", "There **are** three rooms".)*
 
 > ❌ Wrong: *"It may take **more 2 weeks**"*
 > ✅ Right: *"It may take **another 2 weeks**"* (or *"2 more weeks"*)
@@ -42,7 +47,7 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > ❌ Wrong: *"I want to **finish move** the small stuff"*
 > ✅ Right: *"I want to **finish moving** the small stuff"*
 > 💡 Why: After **finish**, use the **-ing** form: *finish **moving**, finish **eating**, finish **packing***. (Not the base verb, not *to + verb*.)
-> 📊 Correct uses: 0/3
+> 📊 Correct uses: 1/3 *(Practice July 7: "I finished **doing** the practice" ✅)*
 
 > ❌ Wrong: *"it **depend of** how long..."*
 > ✅ Right: *"it **depends on** how long..."*
@@ -162,7 +167,7 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > ❌ Wrong: *"now we in June"*
 > ✅ Right: *"now we **are** in June"*
 > 💡 Why: English always requires the verb "to be" (am / is / are). You cannot skip it. In Thai you can say a sentence without a verb, but in English the verb must be there.
-> 📊 Correct uses: 1/3
+> 📊 Correct uses: 2/3 *(Practice July 7: 16/17 — nailed every "-ing subject" and no-verb sentence, incl. "Learning a language **is** difficult", "Fixing bugs **is** the hardest part". One more clean round to master.)*
 
 > ❌ Wrong: *"Can I have Americano"*
 > ✅ Right: *"Can I have **an** Americano"*
