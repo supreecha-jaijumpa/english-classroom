@@ -58,6 +58,10 @@
 - [ ] Don't mix *no* + *any* — "**no** progress" or "**not any** progress", never both
 - [ ] -ing after a preposition — "looking forward **to hitting**" (not "to hit"); "finish **moving**"
 - [ ] Recurring: dropping the "to be" verb ("**I'm** looking", "the move **is** ongoing")
+- [ ] No *is* before a modal — "It **may** take" not "It's may take" (flip side of the "to be" rule)
+- [ ] Plural subject → *were* not *was* — "they **were** busy"
+- [ ] "another + time" not "more 2" — "another 2 weeks"
+- [ ] Reported speech backshift — step the tense back one level ("he said he **had** finished")
 
 ## What I Am Good At
 
@@ -84,6 +88,7 @@
 - [x] Chose relative pronouns well and built a flawless relative-clause sentence on first try (Session 17)
 - [x] Used debate phrases naturally ("From my point of view", "That may be true, but...") and built a nuanced, balanced argument on first try (Session 18)
 - [x] Used new idioms correctly and naturally on the first try — all 3 in sentences + 2/2 fill-in blanks (Session 19)
+- [x] Grasped reported speech immediately — tense backshift correct on first try (2/3 exercise + flawless will→would in a free sentence, Session 20)
 
 ## My Learning Preferences
 

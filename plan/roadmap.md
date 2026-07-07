@@ -62,7 +62,7 @@
 **Goal:** Speak and write clearly on a wide range of topics
 
 ### Topics to Cover
-- [~] Complex tenses (past perfect, conditionals: if I had...) ← conditionals (zero/first/second) covered in Session 16; past perfect still to do
+- [~] Complex tenses (past perfect, conditionals: if I had...) ← conditionals (zero/first/second) covered in Session 16; reported speech (with backshift) covered in Session 20; past perfect as its own topic still to do
 - [x] Relative clauses (who/which/that/where/whose) ← covered in Session 17
 - [ ] Passive voice (It was built, It is used...)
 - [ ] Formal and informal writing (emails, messages)

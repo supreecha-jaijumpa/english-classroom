@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 115
+## Total Words Learned: 118
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,10 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**reported speech** — retelling what someone said, with the tense stepped one step back — "She said (that) she was tired." (from "I am tired")
+**tell (someone) vs say** — *tell* needs a person after it, *say* does not — "She **told me** that..." / "She **said** that..."
+**another (+ time period)** — one more period of time — "It may take **another** 2 weeks." *(NOT "more 2 weeks")*
 
 **up in the air** — not decided yet, uncertain (idiom) — "My moving date is still up in the air."
 **little by little** — slowly, in small steps (idiom) — "I'm packing little by little."

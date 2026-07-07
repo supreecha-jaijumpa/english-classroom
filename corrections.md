@@ -14,6 +14,26 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 
 ## Active Mistakes
 
+> ❌ Wrong: *"**It's may take** another 2 weeks"*
+> ✅ Right: *"**It may take** another 2 weeks"*
+> 💡 Why: A modal (*may / might / will / can / should*) attaches **directly** to the subject — no *is/am/are* in between. Say *"It **may** take"*, *"She **will** help"*. (You only add *be* when there's no other verb: *"It **may be** ready."*) This is the flip side of the "don't drop to be" rule.
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"they **was** busy"* / *"we **was** late"*
+> ✅ Right: *"they **were** busy"* / *"we **were** late"*
+> 💡 Why: With plural subjects (*they / we / you*) the past of *be* is **were**, not *was*. Only *I / he / she / it* use *was*.
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"It may take **more 2 weeks**"*
+> ✅ Right: *"It may take **another 2 weeks**"* (or *"2 more weeks"*)
+> 💡 Why: For one more period of time, use **another** + time: *another 2 weeks, another hour*. Don't say "more 2" — if you use *more*, the number comes first: *2 more weeks*.
+> 📊 Correct uses: 0/3
+
+> ❌ Wrong: *"He said he **has finished**"* (reported speech)
+> ✅ Right: *"He said he **had finished**"*
+> 💡 Why: In reported speech the tense steps **one level back**. Present perfect (*have/has finished*) steps back to past perfect: **had finished**. Also: was→had been, will→would, can→could.
+> 📊 Correct uses: 0/3
+
 > ❌ Wrong: *"I'm **looking forward to hit** the ground running"*
 > ✅ Right: *"I'm **looking forward to hitting** the ground running"*
 > 💡 Why: In "looking forward to", the **to** is a preposition, not part of the verb — so it takes the **-ing** form: *looking forward to **seeing** you*, *looking forward to **the weekend***. Compare normal *to*: "I want **to hit**" (base verb).

@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 20 — 2026-07-07
+**Topic:** Reported Speech (B2 Complex Grammar)
+**Practiced:** Warm-up (house move ~50%, may take another 2 weeks; cleaning the new house this weekend), converted 3 direct sentences into reported speech, then a real-life mini-exercise reporting what a mover said + a free "My friend told me that..." sentence
+**Learned:** Reported speech = retelling what someone said without their exact words; the **tense steps back one level** (am→was, will→would, can→could, have/has→**had**, work→worked); pronouns shift (I→he/she); time/place words shift (now→then, here→there, tomorrow→the next day); **say** takes no person (*she said that...*) but **tell** needs a person (*she told me that...*); bonus grammar — no *is* before a modal (**"It may take"**, not *"It's may take"*), plural subject needs **were** not was (*they were*), **another** + time period (*another 2 weeks*, not *more 2 weeks*)
+**Notes:** Strong first reported-speech session — got the backshift concept immediately. Exercise 2/3 (was hungry ✅, would help me ✅; only "has finished" → **had finished** missed the extra step). Mini-exercise: reported-speech structure spot-on — "could move" ✅ and free sentence "He told me he would join the whey protein team" had a flawless *will→would* backshift and correct *told me he*. Fixable errors: "It's may take" → **"It may take"** (no *is* before a modal — the flip side of the "to be" rule!); "I planing" → **"I'm planning"** (recurring dropped "to be" + spelling, double *n*); "more 2 weeks" → **"another 2 weeks"**; "clean new house" → "clean **the** new house"; "they was" → **"they were"** (plural subject). The "to be" verb is now a two-sided skill: **add it** when a verb is missing (*I'm planning*), **don't add it** before a modal (*it may take*). **2-day streak (rebuilding). 20 sessions total — milestone!**
+
+---
+
 ### Session 19 — 2026-07-06
 **Topic:** Idioms & Common Expressions (B2)
 **Practiced:** Warm-up (house-move progress — still ongoing, sleeping between old & new house; plans to hire a mover for big stuff), wrote 3 sentences using idioms, filled in 2 idiom blanks
