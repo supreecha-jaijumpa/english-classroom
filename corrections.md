@@ -14,6 +14,11 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 
 ## Active Mistakes
 
+> ❌ Wrong: *"he will **helps** me carry the boxes"*
+> ✅ Right: *"he will **help** me carry the boxes"* (or *would help* in reported speech)
+> 💡 Why: After a modal (*will / would / can / could / may / should*), the verb is always the **base form** — never add -s, even for he/she/it. The modal carries the grammar: *he will **help***, *she can **swim***, *it may **take***.
+> 📊 Correct uses: 0/3
+
 > ❌ Wrong: *"**It's may take** another 2 weeks"*
 > ✅ Right: *"**It may take** another 2 weeks"*
 > 💡 Why: A modal (*may / might / will / can / should*) attaches **directly** to the subject — no *is/am/are* in between. Say *"It **may** take"*, *"She **will** help"*. (You only add *be* when there's no other verb: *"It **may be** ready."*) This is the flip side of the "don't drop to be" rule.
@@ -37,7 +42,7 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > ❌ Wrong: *"He said he **has finished**"* (reported speech)
 > ✅ Right: *"He said he **had finished**"*
 > 💡 Why: In reported speech the tense steps **one level back**. Present perfect (*have/has finished*) steps back to past perfect: **had finished**. Also: was→had been, will→would, can→could.
-> 📊 Correct uses: 0/3
+> 📊 Correct uses: 0/3 *(Session 21 warm-up: wrote "He told me that he will helps" — the will→would backshift was missed; keep practicing.)*
 
 > ❌ Wrong: *"I'm **looking forward to hit** the ground running"*
 > ✅ Right: *"I'm **looking forward to hitting** the ground running"*
@@ -167,7 +172,7 @@ When I use a pattern correctly, Claude increases its counter. At **3/3** the mis
 > ❌ Wrong: *"now we in June"*
 > ✅ Right: *"now we **are** in June"*
 > 💡 Why: English always requires the verb "to be" (am / is / are). You cannot skip it. In Thai you can say a sentence without a verb, but in English the verb must be there.
-> 📊 Correct uses: 2/3 *(Practice July 7: 16/17 — nailed every "-ing subject" and no-verb sentence, incl. "Learning a language **is** difficult", "Fixing bugs **is** the hardest part". One more clean round to master.)*
+> 📊 Correct uses: 2/3 *(Practice July 7: 16/17 — nailed every "-ing subject" and no-verb sentence. Slipped again in Session 21 warm-up: "everything still the same" → "everything **is** still the same". Still needs one clean session to master.)*
 
 > ❌ Wrong: *"Can I have Americano"*
 > ✅ Right: *"Can I have **an** Americano"*

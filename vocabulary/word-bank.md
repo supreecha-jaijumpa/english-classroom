@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 118
+## Total Words Learned: 121
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,10 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**passive voice** — a sentence style that focuses on what happened, not who did it — "The house **was cleaned**." (be + V3)
+**past participle (V3)** — the third form of a verb, used after *be/have* — "build → built → **built**", "take → took → **taken**"
+**by (+ doer)** — adds who did the action in a passive sentence, only when it matters — "The house was cleaned **by my cousin**."
 
 **reported speech** — retelling what someone said, with the tense stepped one step back — "She said (that) she was tired." (from "I am tired")
 **tell (someone) vs say** — *tell* needs a person after it, *say* does not — "She **told me** that..." / "She **said** that..."

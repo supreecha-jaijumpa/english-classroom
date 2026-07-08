@@ -62,6 +62,8 @@
 - [ ] Plural subject → *were* not *was* — "they **were** busy"
 - [ ] "another + time" not "more 2" — "another 2 weeks"
 - [ ] Reported speech backshift — step the tense back one level ("he said he **had** finished")
+- [ ] No -s after a modal — "he will **help**" not "he will **helps**" (base verb after will/would/can)
+- [ ] Keeping the tense when switching active → passive — "will carry" → "**will be** carried" (tense stays, only structure changes)
 
 ## What I Am Good At
 
@@ -89,6 +91,7 @@
 - [x] Used debate phrases naturally ("From my point of view", "That may be true, but...") and built a nuanced, balanced argument on first try (Session 18)
 - [x] Used new idioms correctly and naturally on the first try — all 3 in sentences + 2/2 fill-in blanks (Session 19)
 - [x] Grasped reported speech immediately — tense backshift correct on first try (2/3 exercise + flawless will→would in a free sentence, Session 20)
+- [x] Passive voice structure (be + V3) correct in every sentence from the first try, and a perfect 2/2 tense-matching round after one explanation (Session 21)
 
 ## My Learning Preferences
 

@@ -656,4 +656,40 @@ Also: plural subjects use **were**, not was → "they **were** busy". And use **
 
 ---
 
+## Lesson 26: Passive Voice (B2)
+
+**Passive voice** = the sentence focuses on **what happened**, not who did it.
+
+> Active: *My cousin cleaned the house.* (focus: who)
+> Passive: *The house **was cleaned**.* (focus: what happened)
+
+### The formula
+> **be + past participle (V3)**
+
+The tense lives in **be** — the participle never changes:
+
+| Tense | Active | Passive |
+|-------|--------|---------|
+| Present | They pack the boxes | The boxes **are packed** |
+| Past | Someone built it in 2010 | It **was built** in 2010 |
+| Future | They will finish the house | The house **will be finished** |
+| Present perfect | Someone has taken my box | My box **has been taken** |
+
+### Golden rule: the tense never changes
+When you switch active → passive, keep the **same tense** — only the structure changes.
+> ❌ "They **will** carry it" → "It **was** carried"
+> ✅ "They **will** carry it" → "It **will be** carried"
+
+### When to use the passive
+1. The doer is unknown: *"My phone **was stolen**."*
+2. The doer doesn't matter: *"The kitchen stuff **has been packed**."* (no need for "by someone"!)
+3. Formal / news style: *"The new iPhone **was announced** yesterday."*
+4. Add **by** only if the doer is important: *"It was cleaned **by my cousin**."*
+
+### Watch out — two old friends
+- Passive **needs** *be*: "The store **was** closed" ✅ (don't drop it!)
+- After a modal, the verb is the **base form**: "he will **help**" (never *"will helps"*)
+
+---
+
 *Claude adds a new grammar lesson here after each session.*
