@@ -10,7 +10,7 @@ Show a summary of learning progress.
 
 ## Behavior
 
-1. Read the last 3 entries in `progress/log.md` (newest at the top)
+1. Read the last 3 entries in `progress/log.md` — read only the first ~40 lines (Read tool with a `limit`; newest at the top)
 2. Read `progress/streaks.md` (the single source for session counts and streaks)
 3. Show:
    - Total sessions completed (from `streaks.md`)

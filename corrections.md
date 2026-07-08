@@ -8,16 +8,12 @@ This file helps me remember my most common errors so I don't repeat them.
 > 💡 Why: *explanation*
 > 📊 Correct uses: 0/3
 
-When I use a pattern correctly, Claude increases its counter. At **3/3** the mistake moves to the "✅ Mastered" section below and is no longer reviewed in sessions.
+When I use a pattern correctly, Claude increases its counter. At **3/3** the mistake moves to `corrections-archive.md` immediately and is no longer reviewed in sessions.
+
+This file holds **Active Mistakes only, max ~10** — sessions read just this section at the top of the file.
 
 ---
 
 ## Active Mistakes
 
 *(Claude adds your mistakes here during sessions — nothing here yet!)*
-
----
-
-## ✅ Mastered
-
-*(Mistakes I've beaten 3 times in a row land here. Nothing yet — let's get started!)*

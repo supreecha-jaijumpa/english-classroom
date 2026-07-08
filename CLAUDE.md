@@ -30,6 +30,11 @@ When I say "let's study":
 **B2:** Complex grammar → Debates → News/media → Formal writing → Idioms
 **C1:** Advanced grammar → Academic writing → Fluent conversation → Nuance and tone
 
+## File Size Rules
+- Every growing file has a capped hot zone (newest content first); overflow rotates to its `-archive.md` file in the same folder.
+- Never read a whole file when the top (~40 lines) is enough; archives are write-only during sessions.
+- Caps table: see `.claude/commands/wrap-up.md`.
+
 ## Rules
 - If I write in my native language, reply in both languages, then encourage English
 - Track new vocabulary in vocabulary/word-bank.md after every session (newest words at the top)
