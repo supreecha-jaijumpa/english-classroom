@@ -18,51 +18,15 @@
 
 ## What I Find Difficult
 
-- [ ] Irregular past participles — "drank" (simple past) vs "drunk" (past participle after have/has)
-- [ ] "been to" vs "gone to" for travel experience — use "been to" when you visited and came back
-- [ ] "there is" vs "there are" with plural nouns
-- [ ] Capitalizing proper nouns, days, and months (Elden Ring / Saturday / December)
-- [ ] Articles with meal names — "skip breakfast" not "skip the breakfast"
-- [ ] AM vs PM — noon is 12 PM, midnight is 12 AM
-- [ ] "To be" verb required — "we are in June" not "we in June"
-- [ ] Using "an" before vowel sounds — "an Americano", not "a Americano"
-- [ ] Indirect question word order — "Do you know where **it is**?" not "where **is** it?"
-- [ ] Fixed preposition phrase — "at the same time" not "in the same time"
-- [ ] "too" vs "to" — "too hard" (มากเกินไป) vs "to work" (purpose/direction)
-- [ ] Plural after "many" — "many attempts" not "many attempt"
-- [ ] Missing "if" — "I don't know **if**..." not "I don't know + clause"
-- [ ] Past negative base verb — "I didn't **eat**" not "I didn't **ate**" (after "didn't", verb resets to base)
-- [ ] -ing vs -ed adjectives — "the movie is **boring**" (thing) vs "I feel **bored**" (person's feeling)
-- [ ] "every day" (two words = each day) vs "everyday" (one word = ordinary)
-- [ ] Short answers with present perfect — "Yes, I **have**" not "Yes, I **had**"
-- [ ] "a few" — always needs "a": "a few times", not "few times"
-- [ ] Singular self-reference — "when I was **a child**" not "when I was children"
-- [ ] Adverb placement — "speak English **fluently**" not "fluently speak English" (adverb goes after the verb phrase)
-- [ ] Article "a" before job titles — "a Software Architect", "a doctor", "a teacher" (job titles are singular nouns)
-- [ ] Tense consistency in stories — if the story is past, keep ALL verbs past ("It looked" not "It looks")
-- [ ] Adjectives after feel/look/seem — "feel **sad**" not "feel **sadly**" (adjective, not adverb)
-- [ ] "Its" (possessive, no apostrophe) vs "It's" (= it is) — "Its name is..." not "It's name"
-- [ ] Yes/no question word order — "**Is that**...?" not "That is...?"
-- [ ] Negative present simple needs **don't/doesn't** — "if you **don't** label" not "if you not label"
-- [ ] "decide/know **what to** + base verb" — "decide what to keep" not "what should I keep"
-- [ ] "move (into a house)" not "migrate" — migrate is for birds/countries/data
-- [ ] Relative clause placement — put who/which/that right after the noun it describes
-- [ ] which/that vs where — use which/that when the noun is the subject; where only for *in that place*
-- [ ] Possessive **'s** — "cousin's home" not "cousin home"
-- [ ] "at night" (no *the*) vs "in the morning/afternoon/evening"
-- [ ] "depend **on**" (not "depend of")
-- [ ] Modal + **be** — "it **may be** good" (don't drop *be* after may/might/could)
-- [ ] "it's worth **+ -ing**" — "it's worth going" (not "worth to go")
-- [ ] "communicate **with** each other" (the *with* is required)
-- [ ] Action as subject → **-ing** form — "**Working** in an office is better" (not "Work is better")
-- [ ] Don't mix *no* + *any* — "**no** progress" or "**not any** progress", never both
-- [ ] -ing after a preposition — "looking forward **to hitting**" (not "to hit"); "finish **moving**"
-- [ ] Recurring: dropping the "to be" verb ("**I'm** looking", "the move **is** ongoing")
+- [ ] No -s after a modal — "he will **help**" not "he will **helps**" (base verb after will/would/can)
 - [ ] No *is* before a modal — "It **may** take" not "It's may take" (flip side of the "to be" rule)
+- [ ] Recurring: dropping the "to be" verb ("**I'm** looking", "the move **is** ongoing")
 - [ ] Plural subject → *were* not *was* — "they **were** busy"
 - [ ] "another + time" not "more 2" — "another 2 weeks"
 - [ ] Reported speech backshift — step the tense back one level ("he said he **had** finished")
-- [ ] No -s after a modal — "he will **help**" not "he will **helps**" (base verb after will/would/can)
+- [ ] -ing after a preposition — "looking forward **to hitting**" (not "to hit"); "finish **moving**"
+- [ ] "depend **on**" (not "depend of")
+- [ ] Modal + **be** — "it **may be** good" (don't drop *be* after may/might/could)
 - [ ] Keeping the tense when switching active → passive — "will carry" → "**will be** carried" (tense stays, only structure changes)
 
 ## What I Am Good At
