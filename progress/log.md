@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 22 — 2026-07-09
+**Topic:** Conditionals — First & Second (B2)
+**Practiced:** Warm-up (moving a few things day by day, bedroom stuff today; optimized the classroom to use fewer tokens), completed 4 conditional gap-fills + wrote a free 2nd conditional, did a 2-sentence fix-it round, then wrote own 1st & 2nd conditionals
+**Learned:** **1st conditional** (real/likely) = *If* + present → *will* + base (*"If it rains, we will stay home"*); **2nd conditional** (imaginary) = *If* + past → *would* + base (*"If I had time, I would learn 3 languages"*); each half stays in its own "column" — fix one without knocking the other out; **were** for all subjects in imaginary sentences (*"if I were single"*); bonus — **less vs. fewer** (fewer for countable: *fewer tokens, fewer boxes*)
+**Notes:** Chose the correct conditional type every single time — the hardest skill — and used **"if I were single"** naturally (advanced!). First 3 gap-fills flawless; free sentence had *"If I have win the lottery"* → **"If I won"** (2nd-conditional if-clause = past simple). Fix-it round showed the classic trap: fixed the target half but changed the other too (*"have free time... would call"* should stay *will call*; *"had study harder"* should be *studied*) — cleared up with the two-column rule. Modal base-verb rule (*will help*, not *will helps*) was **perfect all session** — bumped to 1/3. Remaining polish: comma (not period) between the two halves; *"more saving money"* → *"more savings"*. **4-day streak. 22 sessions.**
+
+---
+
 ### Session 21 — 2026-07-08
 **Topic:** Passive Voice (B2)
 **Practiced:** Warm-up (house move unchanged since yesterday; reported the cousin's offer to help carry boxes), converted 3 active sentences to passive, wrote a free real-life passive sentence, then a 2-question tense-matching round
@@ -81,14 +89,6 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 **Practiced:** Warm-up (weekend picnic plans, childhood dream), told a full 3-paragraph story (mall dessert adventure), continued with follow-up ending and a life lesson
 **Learned:** Story structure (set scene → event → ending); connector words (First, Then, After that, Suddenly, Finally, Luckily, Unfortunately); past simple + past continuous combined; "go on a picnic" fixed phrase; "lie down" vs "laydown"; "feel + adjective" not adverb ("feel sad" not "feel sadly"); "arrive at" + place; "limited edition" fixed phrase
 **Notes:** Warm-up: "an artist" correct — article before vowel (0→1/3); "a child" correct (0→1/3); "Monday" capitalized (2→3/3 → **MASTERED!**). Story had natural scene → conflict → return → sad ending → moral structure — impressive for first storytelling session! Strong: used past continuous naturally in writing ("I was thinking about the dessert"). Errors: "I'm not find" → "I didn't find" (past negative still 0/3); "It's look" → "It looked" (present/past switch); "I has learn" → "I learned" (wrong auxiliary); "sweetie" → "sweet"; "decised" → "decided"; "arrive the store" → "arrive at the store"; "feed sad" → "feel sad"; "feel sadly" → "feel sad" (adjective after feel). 12-day streak — new best!
-
----
-
-### Session 12 — 2026-06-25
-**Topic:** Future Plans — Goal & Dream Expressions (B1)
-**Practiced:** 3 sentences using goal/plan expressions (career goal, English hope, travel plan)
-**Learned:** 5 expressions — "My goal is to...", "I hope to...", "I'd like to...", "I'm planning to...", "I'm thinking about..."; after "to" → base verb; after "about" → verb-ing; adverb placement ("speak fluently" not "fluently speak"); article "a" before job titles; "suitable" ≠ "suite"; "save money" not "save the wallet"; "trip" more natural than "the travel" as a noun
-**Notes:** Warm-up: "Yes, I have" correct (0→1/3); "every day" two words correct (0→1/3); "there are" correct (0→1/3). Errors: "japaness/korea" → "Japanese/Korean" (proper adjectives); "suite" → "suitable"; "resolve it" → "resolve" (redundant pronoun); missing "to be" in "I thinking"; "travel" → "travelling" after "about"; "how can I" → "how I can" (indirect question — repeated). 11-day streak — new best!
 
 ---
 

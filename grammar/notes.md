@@ -4,6 +4,33 @@ Simple grammar rules, explained in plain language. Newest lessons go at the **to
 
 ---
 
+## Lesson 27: Conditionals — the Two-Column Rule (B2 review)
+
+Two very useful "if" types. Each has **two halves**, and only **one** half carries the "if-tense" — keep each half in its own column.
+
+| Type | Meaning | *if* half | result half |
+|------|---------|-----------|-------------|
+| **1st** | real / likely | If + **present** (*have, is, rains*) | **will** + base (*will call*) |
+| **2nd** | imaginary / dream | If + **past** (*had, studied, won*) | **would** + base (*would get*) |
+
+> 1st: *"If it **rains** tomorrow, we **will stay** home."*
+> 2nd: *"If I **had** a bigger house, I **would get** a dog."*
+
+### Two traps to avoid
+**1. Don't change both halves when fixing one.**
+> ❌ "If I **will have** time, I will call" → student fixes to "If I have time, I **would** call" (broke the other half!)
+> ✅ "If I **have** time, I **will** call." (real plan — 1st conditional, both halves stay in the 1st column)
+
+**2. The 2nd-conditional *if*-half is plain past simple** — not *have + verb*.
+> ❌ "If I **have win** the lottery, I would buy a bike."
+> ✅ "If I **won** the lottery, I would buy a bike."
+
+### Bonus: "were" for everyone
+In an imaginary 2nd conditional, *be* becomes **were** for all subjects — *if I **were**, if he **were***.
+> "If I **were** single, I would have more savings." *(natural, even advanced)*
+
+---
+
 ## Lesson 26: Passive Voice (B2)
 
 **Passive voice** = the sentence focuses on **what happened**, not who did it.
@@ -148,39 +175,9 @@ At B2 you should sound thoughtful: give an opinion, back it with a reason, and d
 
 ---
 
-## Lesson 22: Relative Clauses (B2)
-
-A relative clause adds detail about a noun so you don't need two short sentences.
-> I have a cousin. My cousin lets me stay for free.
-> → I have a cousin **who** lets me stay for free.
-
-### Relative pronouns
-| Word | Used for | Example |
-|------|----------|---------|
-| **who** | people | "The man **who** called me is my boss." |
-| **which** | things / animals | "The house **which** we rented is small." |
-| **that** | people or things | "The game **that** I bought is fun." |
-| **where** | places (= *in that place*) | "The city **where** I live is quiet." |
-| **whose** | possession | "My cousin, **whose** home I live in, is kind." |
-
-### Two golden rules
-
-**1. Put the clause right next to the noun it describes.**
-> ❌ "My cousin is very kind **who lets** me stay." (who is far from *cousin*)
-> ✅ "My cousin, **who** lets me stay for free, is very kind."
-
-**2. which/that vs where.**
-Use **where** only when you mean *in that place*. If the noun is the **subject doing something**, use **which/that**.
-> ❌ "the house **where** is near my place" (the house *is near* — it's the subject)
-> ✅ "the house **which/that** is near my place"
-
-Quick test: if you can say "**in which**", *where* is fine. If not → use which/that.
-
----
-
 ## Archived Topics (full lessons in notes-archive.md)
 
-1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2)
+1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2)
 
 ---
 

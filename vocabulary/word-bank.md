@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 121
+## Total Words Learned: 125
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,11 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**first conditional** — a real/likely "if" situation — "If it **rains**, we **will stay** home." (If + present → will + base)
+**second conditional** — an imaginary "if" situation — "If I **had** more time, I **would learn** three languages." (If + past → would + base)
+**were (imaginary)** — *be* becomes *were* for all subjects in a 2nd conditional — "If I **were** single, I would have more savings."
+**fewer vs. less** — *fewer* for things you count, *less* for things you measure — "**fewer** tokens / boxes" but "**less** water / time"
 
 **passive voice** — a sentence style that focuses on what happened, not who did it — "The house **was cleaned**." (be + V3)
 **past participle (V3)** — the third form of a verb, used after *be/have* — "build → built → **built**", "take → took → **taken**"
@@ -73,7 +78,3 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 **I'm thinking about** — still deciding, considering a future option — "I'm thinking about changing jobs."
 **My goal is to** — long-term ambition or aim — "My goal is to become a Software Architect."
 **I'd like to** — polite wish or desire — "I'd like to visit Japan someday."
-**I hope to** — a wish you're not certain will happen — "I hope to speak English fluently."
-**I'm planning to** — a definite future plan — "I'm planning to travel to Japan next year."
-**suitable** — right for a purpose, appropriate — "This job is suitable for me."
-**fluently** — in a smooth, natural, confident way — "I want to speak English fluently."

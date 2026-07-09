@@ -5,6 +5,11 @@ Claude does NOT read this file automatically — only `/quiz` samples a small sl
 
 ---
 
+**I hope to** — a wish you're not certain will happen — "I hope to speak English fluently."
+**I'm planning to** — a definite future plan — "I'm planning to travel to Japan next year."
+**suitable** — right for a purpose, appropriate — "This job is suitable for me."
+**fluently** — in a smooth, natural, confident way — "I want to speak English fluently."
+
 **trip** — a journey to a place and back — "I'm saving money for the trip."
 
 **someday** — at some time in the future (unspecified) — "Someday I will be fluent in English."
