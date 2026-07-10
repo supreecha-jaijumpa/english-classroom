@@ -5,6 +5,9 @@ Claude does NOT read this file automatically — only `/quiz` samples a small sl
 
 ---
 
+**My goal is to** — long-term ambition or aim — "My goal is to become a Software Architect."
+**I'd like to** — polite wish or desire — "I'd like to visit Japan someday."
+
 **I hope to** — a wish you're not certain will happen — "I hope to speak English fluently."
 **I'm planning to** — a definite future plan — "I'm planning to travel to Japan next year."
 **suitable** — right for a purpose, appropriate — "This job is suitable for me."

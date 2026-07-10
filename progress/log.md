@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 23 — 2026-07-10
+**Topic:** Relative Clauses — who / which / that (B2 review)
+**Practiced:** Warm-up (house move 75%+, big cleaning this weekend then getting settled in; last workday, special dinner planned), joined 3 sentence pairs into one, filled 3 who/which/that blanks, then wrote 2 own sentences about a coworker and his cat
+**Learned:** Relative clauses join two short sentences into one smooth one — **who** (people), **which** (things), **that** (both); put the pronoun **right after** the noun it describes; the clause verb agrees with that noun (*a cat that interrupt**s***); bonus — **the same** needs *the*, **fewer** for countables (review)
+**Notes:** Outstanding — every relative clause correct on the first try (8/8), right pronoun in the right position, even the advanced comma structure "My girlfriend, who loves cooking, ...". Modal + base verb perfect all session (will help / will make) → bumped to 2/3. Polish only: "less thing" → "fewer things" (learned last session), "same" → "the same", spelling (always, interrupts, girlfriend). **5-day streak. 23 sessions.**
+
+---
+
 ### Session 22 — 2026-07-09
 **Topic:** Conditionals — First & Second (B2)
 **Practiced:** Warm-up (moving a few things day by day, bedroom stuff today; optimized the classroom to use fewer tokens), completed 4 conditional gap-fills + wrote a free 2nd conditional, did a 2-sentence fix-it round, then wrote own 1st & 2nd conditionals
@@ -81,14 +89,6 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 **Practiced:** Warm-up (yesterday's lunch, weekend plans), wrote a full restaurant booking phone call, completed a role-play (gave name on the phone with "This is...")
 **Learned:** Phone phrases ("This is..." to say who you are, "Is that...?", "Could I speak to...?", "Hold on", "call you back", "take a message", "speak up"); booking — "make a reservation", "a table for two"; texting — brb, ttyl, np; "Its" (possessive) vs "It's" (= it is); "won" (past of win); "in 2025" not "at 2025"
 **Notes:** Warm-up: correct past tense ("went", "had a nice lunch"); good use of "I'm planning to" from Session 12. Errors: "It's name" → "Its name is" (its/it's + missing "to be"); "had win" → "won" (irregular past); "at 2025" → "in 2025" (in for years); "That is...?" → "Is that...?" (question word order); "have some reservation" → "make a reservation" (collocation); "two adult people" → "two". Big win: used "This is Supreecha" correctly on the phone on the first try. Spelling slips: lunch, planning, Expedition. 13-day streak — new best!
-
----
-
-### Session 13 — 2026-06-26
-**Topic:** Storytelling — Story Structure & Connectors (B1)
-**Practiced:** Warm-up (weekend picnic plans, childhood dream), told a full 3-paragraph story (mall dessert adventure), continued with follow-up ending and a life lesson
-**Learned:** Story structure (set scene → event → ending); connector words (First, Then, After that, Suddenly, Finally, Luckily, Unfortunately); past simple + past continuous combined; "go on a picnic" fixed phrase; "lie down" vs "laydown"; "feel + adjective" not adverb ("feel sad" not "feel sadly"); "arrive at" + place; "limited edition" fixed phrase
-**Notes:** Warm-up: "an artist" correct — article before vowel (0→1/3); "a child" correct (0→1/3); "Monday" capitalized (2→3/3 → **MASTERED!**). Story had natural scene → conflict → return → sad ending → moral structure — impressive for first storytelling session! Strong: used past continuous naturally in writing ("I was thinking about the dessert"). Errors: "I'm not find" → "I didn't find" (past negative still 0/3); "It's look" → "It looked" (present/past switch); "I has learn" → "I learned" (wrong auxiliary); "sweetie" → "sweet"; "decised" → "decided"; "arrive the store" → "arrive at the store"; "feed sad" → "feel sad"; "feel sadly" → "feel sad" (adjective after feel). 12-day streak — new best!
 
 ---
 

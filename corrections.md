@@ -19,7 +19,7 @@ This file holds **Active Mistakes only, max ~10** — sessions read just this se
 > ❌ Wrong: *"he will **helps** me carry the boxes"*
 > ✅ Right: *"he will **help** me carry the boxes"* (or *would help* in reported speech)
 > 💡 Why: After a modal (*will / would / can / could / may / should*), the verb is always the **base form** — never add -s, even for he/she/it. The modal carries the grammar: *he will **help***, *she can **swim***, *it may **take***.
-> 📊 Correct uses: 1/3 *(Session 22, July 9: base verb perfect all session — "will relax", "will open", "will move", "would get", "would buy", "would have".)*
+> 📊 Correct uses: 2/3 *(Session 22, July 9: "will relax/open/move", "would get/buy/have". Session 23, July 10: perfect again — "will help", "will make".)*
 
 > ❌ Wrong: *"**It's may take** another 2 weeks"*
 > ✅ Right: *"**It may take** another 2 weeks"*

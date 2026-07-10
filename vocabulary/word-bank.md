@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 125
+## Total Words Learned: 127
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,9 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**the same (as)** — identical to something else — "I like **the same** games **as** my coworker." *(always needs "the")*
+**interrupt (interrupts)** — to stop someone in the middle of what they are doing — "My cat **interrupts** me while I'm sleeping." *(singular subject → interrupt**s**)*
 
 **first conditional** — a real/likely "if" situation — "If it **rains**, we **will stay** home." (If + present → will + base)
 **second conditional** — an imaginary "if" situation — "If I **had** more time, I **would learn** three languages." (If + past → would + base)
@@ -76,5 +79,3 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 **limited edition** — a special product made in small quantities for a short time — "This dessert was a special limited edition."
 
 **I'm thinking about** — still deciding, considering a future option — "I'm thinking about changing jobs."
-**My goal is to** — long-term ambition or aim — "My goal is to become a Software Architect."
-**I'd like to** — polite wish or desire — "I'd like to visit Japan someday."
