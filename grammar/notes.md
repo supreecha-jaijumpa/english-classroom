@@ -4,6 +4,31 @@ Simple grammar rules, explained in plain language. Newest lessons go at the **to
 
 ---
 
+## Lesson 28: Idioms + the "-ing as subject" rule (B2)
+
+### Five more everyday idioms (fixed phrases — the words never change)
+| Idiom | Meaning | Example |
+|-------|---------|---------|
+| **once in a blue moon** | very rarely | "I eat fast food **once in a blue moon**." |
+| **under the weather** | feeling sick | "I stayed home — I was **under the weather**." |
+| **hit the sack** | go to bed | "I'm tired, I'll **hit the sack**." |
+| **piece of cake** | very easy | "The test was **a piece of cake**." |
+| **cost an arm and a leg** | very expensive | "That phone **cost an arm and a leg**." |
+
+⚠️ You can't swap the words: it's *hit the **sack*** (not "the bed") and *an **arm and a leg*** (not "a hand and a foot").
+
+### When an action is the SUBJECT, use -ing
+If the thing you're talking about (the subject) is an **action**, put it in the **-ing form** — never the plain base verb.
+
+> ❌ "**Cook** Pad Thai was a piece of cake."
+> ✅ "**Cooking** Pad Thai was a piece of cake."
+
+More examples: *"**Swimming** is good exercise."* · *"**Moving** house is stressful."* · *"**Learning** English takes time."*
+
+💡 This is the same rule you already use inside sentences: *"My girlfriend, who **loves cooking**"* and *"**Working** in an office is better."*
+
+---
+
 ## Lesson 27: Conditionals — the Two-Column Rule (B2 review)
 
 Two very useful "if" types. Each has **two halves**, and only **one** half carries the "if-tense" — keep each half in its own column.
@@ -133,51 +158,9 @@ English always needs am / is / are:
 
 ---
 
-## Lesson 23: Giving & Defending Opinions — Debate Language (B2)
-
-At B2 you should sound thoughtful: give an opinion, back it with a reason, and disagree *politely*.
-
-### Giving an opinion (stronger than "I think")
-| Phrase | Example |
-|--------|---------|
-| **In my opinion,...** | "In my opinion, mornings are best for studying." |
-| **From my point of view,...** | "From my point of view, working in an office is better." |
-| **It seems to me that...** | "It seems to me that remote work saves time." |
-| **I'd say that...** | "I'd say that both have advantages." |
-
-### Agreeing
-| Phrase | Strength |
-|--------|----------|
-| **That's a good point.** | acknowledging |
-| **I couldn't agree more.** | very strong agreement |
-| **You're absolutely right.** | strong |
-
-### Disagreeing politely
-| Phrase | Tone |
-|--------|------|
-| **I see your point, but...** | respectful |
-| **That may be true, but...** | respectful |
-| **I'm not so sure about that.** | gentle, uncertain |
-
-### Giving a reason: because vs because of
-| Structure | Use | Example |
-|-----------|-----|---------|
-| **because** + full sentence | subject + verb follows | "...**because** it was raining." |
-| **because of** + noun | just a noun follows | "...**because of** the rain." |
-
-### Grammar reminders from this session
-- **depend on** (never *depend of*): "It depends **on** your commute."
-- Modal + **be**: after *may / might / could*, keep the verb **be** → "It **may be** good."
-- **it's worth + -ing**: "It's worth **going** to the office." (not *worth to go*)
-- **communicate with** each other (the *with* is required).
-- An action used as the **subject** takes the **-ing** form: "**Working** in an office is better." (not *Work is better*)
-- Don't mix *no* + *any*: say **no** progress **or** **not any** progress.
-
----
-
 ## Archived Topics (full lessons in notes-archive.md)
 
-1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2)
+1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2) · 23 Giving & Defending Opinions — Debate Language (B2)
 
 ---
 

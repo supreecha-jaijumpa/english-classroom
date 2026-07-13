@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 24 — 2026-07-13
+**Topic:** Common Idioms (B2)
+**Practiced:** Warm-up (settled into the new house, cat still stressed from the move; special dinner — Yunnan Chinese food with his girlfriend), matched 3 idioms to sentences, then wrote 2 own sentences using *hit the sack* and *piece of cake*
+**Learned:** Five everyday idioms — **once in a blue moon** (very rarely), **under the weather** (feeling sick), **hit the sack** (go to bed), **piece of cake** (very easy), **cost an arm and a leg** (very expensive); idioms are **fixed phrases** — the words never change; bonus grammar — use the **-ing** form when an action is the **subject** (*"**Cooking** Pad Thai was a piece of cake"*)
+**Notes:** Outstanding — 6/6 idioms correct, perfect meaning both matching and self-made, and very natural real-life sentences ("I always hit the sack at 10 pm"). Only polish: "cat seem" → "cat **seems**" + "in **the** new house", "I **eated**" → "I **ate**" (irregular past), "**Cook** Pad Thai" → "**Cooking**" (-ing as subject), spelling "const" → "cost". **Streak reset — a 2-day gap (July 11–12) since Session 23; restarting at 1 day. 24 sessions.**
+
+---
+
 ### Session 23 — 2026-07-10
 **Topic:** Relative Clauses — who / which / that (B2 review)
 **Practiced:** Warm-up (house move 75%+, big cleaning this weekend then getting settled in; last workday, special dinner planned), joined 3 sentence pairs into one, filled 3 who/which/that blanks, then wrote 2 own sentences about a coworker and his cat
@@ -81,14 +89,6 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 **Practiced:** Warm-up (morning routine, what he enjoys about his job), described his job as a Front-End developer using 3 work phrases, completed a 3/3 preposition exercise (at/on/in)
 **Learned:** Work vocabulary — "work as", "responsible for", "in charge of", "deal with", "attend meetings", "deadline", "colleagues/coworkers", "boss/manager", "hybrid", "work from home / in the office"; "based on" (not "follow up") to match a design; "on" for days of the week
 **Notes:** Warm-up: wrote "every day" as two words correctly again (1→2/3 — almost mastered!). Strong: used "I work as", "I'm responsible for", and described hybrid schedule naturally on first try. Errors: "miss take" → "mistakes" (one word + plural); "new thing" → "new things" (plural); "in every day" → "every day" (no "in"); "follow up the figma" → "based on the Figma" (wrong phrase + capitalize brand); "integrating API" → "APIs" (plural); "at Monday" → "on Monday" (preposition for days). Big win: PERFECT 3/3 on the at/on/in preposition exercise (at 3 PM, on Friday, in 2023). 14-day streak — new best!
-
----
-
-### Session 14 — 2026-06-28
-**Topic:** Phone Calls & Text Messages (B1)
-**Practiced:** Warm-up (yesterday's lunch, weekend plans), wrote a full restaurant booking phone call, completed a role-play (gave name on the phone with "This is...")
-**Learned:** Phone phrases ("This is..." to say who you are, "Is that...?", "Could I speak to...?", "Hold on", "call you back", "take a message", "speak up"); booking — "make a reservation", "a table for two"; texting — brb, ttyl, np; "Its" (possessive) vs "It's" (= it is); "won" (past of win); "in 2025" not "at 2025"
-**Notes:** Warm-up: correct past tense ("went", "had a nice lunch"); good use of "I'm planning to" from Session 12. Errors: "It's name" → "Its name is" (its/it's + missing "to be"); "had win" → "won" (irregular past); "at 2025" → "in 2025" (in for years); "That is...?" → "Is that...?" (question word order); "have some reservation" → "make a reservation" (collocation); "two adult people" → "two". Big win: used "This is Supreecha" correctly on the phone on the first try. Spelling slips: lunch, planning, Expedition. 13-day streak — new best!
 
 ---
 

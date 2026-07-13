@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 127
+## Total Words Learned: 132
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,12 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**once in a blue moon** — very rarely — "I eat fast food **once in a blue moon**." *(idiom — fixed phrase)*
+**under the weather** — feeling sick / unwell — "I stayed home because I was **under the weather**."
+**hit the sack** — go to bed — "I'm tired, I'll **hit the sack**." *(not "hit the bed")*
+**piece of cake** — very easy — "The test was **a piece of cake**."
+**cost an arm and a leg** — very expensive — "My new laptop **cost an arm and a leg**."
 
 **the same (as)** — identical to something else — "I like **the same** games **as** my coworker." *(always needs "the")*
 **interrupt (interrupts)** — to stop someone in the middle of what they are doing — "My cat **interrupts** me while I'm sleeping." *(singular subject → interrupt**s**)*
