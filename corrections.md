@@ -16,6 +16,11 @@ This file holds **Active Mistakes only, max ~10** — sessions read just this se
 
 ## Active Mistakes
 
+> ❌ Wrong: *"My cat **seem** happy"* / *"it **make** noise"*
+> ✅ Right: *"My cat **seems** happy"* / *"it **makes** noise"*
+> 💡 Why: For **he / she / it** (one person or thing) in the present, the verb needs **-s**: *he work**s***, *she like**s***, *the cat seem**s***. Only *I / you / we / they* use the plain verb. Your cat = *it* → *seems, eats, runs*.
+> 📊 Correct uses: 0/3 *(Seen Session 24 "cat seem" and Session 25 "cat seem more happy" — both needed "seems".)*
+
 > ❌ Wrong: *"he will **helps** me carry the boxes"*
 > ✅ Right: *"he will **help** me carry the boxes"* (or *would help* in reported speech)
 > 💡 Why: After a modal (*will / would / can / could / may / should*), the verb is always the **base form** — never add -s, even for he/she/it. The modal carries the grammar: *he will **help***, *she can **swim***, *it may **take***.

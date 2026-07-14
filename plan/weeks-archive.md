@@ -5,6 +5,17 @@ Claude does NOT read this file automatically — it is for your personal referen
 
 ---
 
+## Week of 2026-07-06 — B2 core (Sessions 19–24, moved 2026-07-14)
+
+- Session 19 (07-06, Mon): Idioms & Common Expressions (B2). All 3 idioms used correctly and naturally first try (up in the air / little by little / hit the ground running); both fill-ins right. Recurring "to be" drop twice ("I looking" → "I'm looking"). Streak broke — July 3–5 gap; restarted at 1 day. 5/5 vocab target hit (115 words).
+- Session 20 (07-07, Tue): Reported Speech (B2). Got tense-backshift immediately; exercise 2/3 (only "has finished" → "had finished"). New corrections: "It's may take" → "It may take", "they was" → "they were", "another 2 weeks". Key insight: "to be" is a two-sided skill. **2-day streak. 20 sessions milestone! 118 words.**
+- Session 21 (07-08, Wed): Passive Voice (B2). be + V3 correct every sentence first try; PERFECT 2/2 second round after one explanation. New correction: no -s after a modal ("he will help"). **3-day streak. 21 sessions. 121 words.** Log Sessions 1–10 archived.
+- Session 22 (07-09, Thu): Conditionals 1st & 2nd (B2). Chose the correct type every time; "if I were single" natural. Slips: "If I have win" → "If I won" + two-column trap. Modal base-verb → 1/3. **4-day streak. 22 sessions. 125 words.**
+- Session 23 (07-10, Fri): Relative Clauses (B2). Outstanding — 8/8 correct first try, even the comma structure. Modal base-verb → 2/3. Polish: "less thing" → "fewer things", "same" → "the same". **5-day streak. 23 sessions. 127 words.**
+- Session 24 (07-13, Sun): Common Idioms (B2). 6/6 idioms correct (matching + self-made). Taught 5 new idioms + "-ing as subject" rule. Polish: "cat seem" → "seems", "eated" → "ate". Streak reset — July 11–12 gap; restart at 1 day. **24 sessions. 132 words.**
+
+---
+
 ## Session notes from earlier weeks (Sessions 9–18, moved 2026-07-09)
 
 - Session 9 (06-22, Mon): Future Tense — "will" vs "going to". Got all 4 concepts correct on first try. Main gap: missing am/is/are before "going to". Bonus sentences show natural use. "Elden Ring" capitalized correctly (title 0→1/3). "to be" used correctly in "I am going to be" (0→1/3). **8-day streak — new best!** **50 words milestone reached!**

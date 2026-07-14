@@ -4,6 +4,27 @@ Simple grammar rules, explained in plain language. Newest lessons go at the **to
 
 ---
 
+## Lesson 29: Comparatives & Superlatives (B2)
+
+Use a **comparative** to compare **two** things, a **superlative** for the **top of three or more**. Which form you use depends on the **length** of the word.
+
+| Word type | Comparative (2 things) | Superlative (3+) |
+|-----------|------------------------|------------------|
+| 1 syllable (big, fast) | **-er** → bigg**er** | **the -est** → the bigg**est** |
+| 2 syllables in **-y** (happy, easy) | drop y → **-ier** → happ**ier** | happ**iest** |
+| long words (delicious, difficult) | **more** + word → *more delicious* | **the most** + word |
+
+### Two must-remembers
+- Comparatives take **than**: "My new house is bigger **than** my old one."
+- Superlatives take **the**: "This is **the** biggest house I've lived in."
+
+### Irregulars (just memorize)
+good → **better** → the **best** · bad → **worse** → the **worst** · far → **farther / further** → the **farthest**
+
+⚠️ Don't mix them up: *big* → **biggest** (not "best" — that's for *good*). And never say "**more** happy" — happy is short and ends in -y → **happier**.
+
+---
+
 ## Lesson 28: Idioms + the "-ing as subject" rule (B2)
 
 ### Five more everyday idioms (fixed phrases — the words never change)
@@ -128,39 +149,9 @@ Also: plural subjects use **were**, not was → "they **were** busy". And use **
 
 ---
 
-## Lesson 24: Idioms & the "-ing after a preposition" rule (B2)
-
-### Everyday idioms (fixed phrases — the words never change)
-| Idiom | Meaning | Example |
-|-------|---------|---------|
-| **up in the air** | not decided yet / uncertain | "My moving date is still **up in the air**." |
-| **little by little** | slowly, in small steps | "I'm packing **little by little**." |
-| **get settled in** | become comfortable in a new place | "Give me a week to **get settled in**." |
-| **a fresh start** | a new beginning | "A new house feels like **a fresh start**." |
-| **hit the ground running** | start with full energy right away | "I want to **hit the ground running** in my new home." |
-
-⚠️ Idioms are **fixed** — you can't swap the words. It's "up in the **air**", never "up in the sky".
-
-### -ing vs base verb after "to"
-The word **to** has two jobs, and they change what comes next:
-
-| Pattern | *to* is... | Next word | Example |
-|---------|-----------|-----------|---------|
-| **want to / hope to / need to** | part of the verb (infinitive) | **base verb** | "I want **to hit** the gym." |
-| **looking forward to / used to (doing)** | a **preposition** | **-ing form** | "I'm looking forward **to hitting** the gym." |
-
-Also: after **finish**, always use **-ing** → "finish **moving**", "finish **eating**".
-
-### Don't drop "to be" (a recurring one!)
-English always needs am / is / are:
-> ❌ "I looking to finish." / "The house move still ongoing."
-> ✅ "**I'm** looking to finish." / "The house move **is** still ongoing."
-
----
-
 ## Archived Topics (full lessons in notes-archive.md)
 
-1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2) · 23 Giving & Defending Opinions — Debate Language (B2)
+1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2) · 23 Giving & Defending Opinions — Debate Language (B2) · 24 Idioms & the "-ing after a preposition" rule (B2)
 
 ---
 

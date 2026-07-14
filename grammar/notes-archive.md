@@ -5,6 +5,36 @@ Claude does NOT read this file automatically — it is for your personal referen
 
 ---
 
+## Lesson 24: Idioms & the "-ing after a preposition" rule (B2)
+
+### Everyday idioms (fixed phrases — the words never change)
+| Idiom | Meaning | Example |
+|-------|---------|---------|
+| **up in the air** | not decided yet / uncertain | "My moving date is still **up in the air**." |
+| **little by little** | slowly, in small steps | "I'm packing **little by little**." |
+| **get settled in** | become comfortable in a new place | "Give me a week to **get settled in**." |
+| **a fresh start** | a new beginning | "A new house feels like **a fresh start**." |
+| **hit the ground running** | start with full energy right away | "I want to **hit the ground running** in my new home." |
+
+⚠️ Idioms are **fixed** — you can't swap the words. It's "up in the **air**", never "up in the sky".
+
+### -ing vs base verb after "to"
+The word **to** has two jobs, and they change what comes next:
+
+| Pattern | *to* is... | Next word | Example |
+|---------|-----------|-----------|---------|
+| **want to / hope to / need to** | part of the verb (infinitive) | **base verb** | "I want **to hit** the gym." |
+| **looking forward to / used to (doing)** | a **preposition** | **-ing form** | "I'm looking forward **to hitting** the gym." |
+
+Also: after **finish**, always use **-ing** → "finish **moving**", "finish **eating**".
+
+### Don't drop "to be" (a recurring one!)
+English always needs am / is / are:
+> ❌ "I looking to finish." / "The house move still ongoing."
+> ✅ "**I'm** looking to finish." / "The house move **is** still ongoing."
+
+---
+
 ## Lesson 23: Giving & Defending Opinions — Debate Language (B2)
 
 At B2 you should sound thoughtful: give an opinion, back it with a reason, and disagree *politely*.

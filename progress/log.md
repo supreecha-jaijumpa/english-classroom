@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 25 — 2026-07-14
+**Topic:** Comparatives & Superlatives (B2)
+**Practiced:** Warm-up (cat has settled into the new house and seems happier; played one match of Mobile Legends before studying), 5 gap-fills choosing -er/-est vs more/most, then wrote 2 own sentences — a comparative (new vs old house) and a superlative
+**Learned:** The **length** of the word decides the form — short words + **-er / the -est** (big→bigger→the biggest), 2-syllable **-y** words → **-ier** (happy→happier), long words → **more / the most** (more delicious); comparatives take **than**, superlatives take **the**; irregulars good→better→best, bad→worse→worst
+**Notes:** Strong — 6/7 correct across both rounds; "My new house is bigger than my old one" was flawless. Only slip: used *best* for the superlative of *big* (should be *the biggest*) — mixed it up with good→best. Polish: "cat seem more happy" → "**seems happier**" (third-person -s + comparative), "video game **name**" → "**named/called**", spelling "delicious". **2-day streak. 25 sessions.**
+
+---
+
 ### Session 24 — 2026-07-13
 **Topic:** Common Idioms (B2)
 **Practiced:** Warm-up (settled into the new house, cat still stressed from the move; special dinner — Yunnan Chinese food with his girlfriend), matched 3 idioms to sentences, then wrote 2 own sentences using *hit the sack* and *piece of cake*
@@ -81,14 +89,6 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 **Practiced:** Warm-up (how his work week is going, weekend plans — he's moving house!), 3 fill-in-the-blank conditional exercises, a bonus first-conditional sentence about the new house
 **Learned:** Zero conditional (always-true facts: *If + present, present*), First conditional (real future: *If + present, will + base*), Second conditional (imaginary: *If + past, would + base*; "if I were"); the *if* part uses present simple even for the future (not "if it will rain"); negative present simple needs **don't/doesn't**; "move" (not "migrate") for houses; "decide what to keep/leave" (what to + base verb); "sort/pack things"
 **Notes:** First B2 session! Warm-up strong: "so I can handle it", "not too much, not too little" sounded natural. Errors: "migrate to the new house" → "move into"; "prepare my items what should I leave or keep" → "decide what to leave and what to keep". Exercise: 2/3 perfect (first + second conditional flawless); #2 wrote "if you not label" → needs "don't label" (negative present simple). Bonus "If the new house is quiet, I will sleep well." — perfect first conditional. Grasped the conditional logic immediately — excellent B1→B2 transition. 15-day streak — new best! 16 sessions.
-
----
-
-### Session 15 — 2026-06-29
-**Topic:** Work Life (B1 — final B1 topic)
-**Practiced:** Warm-up (morning routine, what he enjoys about his job), described his job as a Front-End developer using 3 work phrases, completed a 3/3 preposition exercise (at/on/in)
-**Learned:** Work vocabulary — "work as", "responsible for", "in charge of", "deal with", "attend meetings", "deadline", "colleagues/coworkers", "boss/manager", "hybrid", "work from home / in the office"; "based on" (not "follow up") to match a design; "on" for days of the week
-**Notes:** Warm-up: wrote "every day" as two words correctly again (1→2/3 — almost mastered!). Strong: used "I work as", "I'm responsible for", and described hybrid schedule naturally on first try. Errors: "miss take" → "mistakes" (one word + plural); "new thing" → "new things" (plural); "in every day" → "every day" (no "in"); "follow up the figma" → "based on the Figma" (wrong phrase + capitalize brand); "integrating API" → "APIs" (plural); "at Monday" → "on Monday" (preposition for days). Big win: PERFECT 3/3 on the at/on/in preposition exercise (at 3 PM, on Friday, in 2023). 14-day streak — new best!
 
 ---
 
