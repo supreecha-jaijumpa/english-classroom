@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 26 — 2026-07-14
+**Topic:** Third-person -s (weakest-area drill) + while/during + arrive at/in (B2 practice)
+**Practiced:** Free practice aimed at the weakest active mistake — 6 gap-fills, 3 own he/she/it sentences, then a mixed while/during + arrive at/in round
+**Learned:** He/She/It → add **-s** (cat seem**s**, she play**s**); I/you/we/they stay plain; **while** + subject-verb vs **during** + noun; **arrive at** a place / **arrive in** a city
+**Notes:** Big win on the weakest area — 14 correct -s uses in a row across gap-fills AND free sentences ("my coworker **plays** a video game while I study", "girlfriend **sings**"). Polish only: "during I'm driving" → "**while** I'm driving", "arrives the office" → "arrives **at** the office", spelling (sleeps, girlfriend, always). Second session today. **2-day streak. 26 sessions.**
+
+---
+
 ### Session 25 — 2026-07-14
 **Topic:** Comparatives & Superlatives (B2)
 **Practiced:** Warm-up (cat has settled into the new house and seems happier; played one match of Mobile Legends before studying), 5 gap-fills choosing -er/-est vs more/most, then wrote 2 own sentences — a comparative (new vs old house) and a superlative
@@ -81,14 +89,6 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 **Practiced:** Warm-up (packing progress & saving money at his cousin's free place), joined 3 sentence pairs into relative clauses, then built a free sentence about his cat keeping him awake
 **Learned:** Relative pronouns (who = people, which/that = things, where = places, whose = possession); place the clause **right next to the noun** it describes; use **which/that** (not *where*) when the noun is the subject doing something; the "in which" test for *where*; bonus — *at night* (no *the*), "always + -ing" for annoying repeated habits, possessive **'s** (cousin's home)
 **Notes:** Strong grasp of a real B2 structure. Sentence #3 flawless first try ("a game that is called Expedition 33" — right pronoun, right position, title capitalized). Two fixable errors: used *where* where subject needs which/that (#1); placed *who* after the adjective instead of right after *cousin* (#2). Warm-up errors: "haven't packing" → "haven't packed" (participle after have); "tried" → "tired" (typo); missing *to be* ("I looking", "I so tired"); "don't spent" → "don't spend" (base verb after don't); "for rent" → "on rent"; "cousin home" → "cousin's home". Free sentence: relative clause correct, but "that one make" → "that keeps" (drop *one*, add -s), "at the night" → "at night", "alway run" → "always running". Communicates everything clearly. **16-day streak — new best! 17 sessions.**
-
----
-
-### Session 16 — 2026-06-30
-**Topic:** Conditionals — Zero, First & Second (first B2 lesson!)
-**Practiced:** Warm-up (how his work week is going, weekend plans — he's moving house!), 3 fill-in-the-blank conditional exercises, a bonus first-conditional sentence about the new house
-**Learned:** Zero conditional (always-true facts: *If + present, present*), First conditional (real future: *If + present, will + base*), Second conditional (imaginary: *If + past, would + base*; "if I were"); the *if* part uses present simple even for the future (not "if it will rain"); negative present simple needs **don't/doesn't**; "move" (not "migrate") for houses; "decide what to keep/leave" (what to + base verb); "sort/pack things"
-**Notes:** First B2 session! Warm-up strong: "so I can handle it", "not too much, not too little" sounded natural. Errors: "migrate to the new house" → "move into"; "prepare my items what should I leave or keep" → "decide what to leave and what to keep". Exercise: 2/3 perfect (first + second conditional flawless); #2 wrote "if you not label" → needs "don't label" (negative present simple). Bonus "If the new house is quiet, I will sleep well." — perfect first conditional. Grasped the conditional logic immediately — excellent B1→B2 transition. 15-day streak — new best! 16 sessions.
 
 ---
 

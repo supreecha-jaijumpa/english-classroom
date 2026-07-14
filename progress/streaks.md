@@ -3,7 +3,7 @@
 *This file is the only home for session counts and streaks — other files link here instead of copying the numbers.*
 
 ## Total Sessions
-**25**
+**26**
 
 ## Current Streak
 **2 days** *(rebuilding after the July 11–12 gap)*
@@ -43,6 +43,7 @@
 - [x] 16-day streak (new best — 2026-07-01)
 - [x] 17-day streak (new best — 2026-07-02)
 - [x] 20 sessions completed (2026-07-07)
+- [x] 25 sessions completed (2026-07-14)
 - [ ] 30-day streak
 - [ ] A1 stage complete
 - [ ] A2 stage complete

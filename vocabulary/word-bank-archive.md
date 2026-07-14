@@ -5,6 +5,8 @@ Claude does NOT read this file automatically — only `/quiz` samples a small sl
 
 ---
 
+**speak up** — to talk louder — "Could you speak up? The line is bad."
+
 **suddenly** — something unexpected happening — "Suddenly, it started to rain."
 **luckily** — used when something good happens unexpectedly — "Luckily, I had an umbrella."
 **unfortunately** — used when something bad or sad happens — "Unfortunately, the dessert was sold out."
