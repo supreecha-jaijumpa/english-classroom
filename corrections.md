@@ -16,15 +16,15 @@ This file holds **Active Mistakes only, max ~10** — sessions read just this se
 
 ## Active Mistakes
 
-> ❌ Wrong: *"My cat **seem** happy"* / *"it **make** noise"*
-> ✅ Right: *"My cat **seems** happy"* / *"it **makes** noise"*
-> 💡 Why: For **he / she / it** (one person or thing) in the present, the verb needs **-s**: *he work**s***, *she like**s***, *the cat seem**s***. Only *I / you / we / they* use the plain verb. Your cat = *it* → *seems, eats, runs*.
-> 📊 Correct uses: 2/3 *(Session 26, July 14: mastered in a dedicated drill — 14 correct -s uses in a row across gap-fills and free sentences, incl. "my coworker **plays**", "girlfriend **sings**", cat **sleeps**. One more clean session → archive.)*
+> ❌ Wrong: *"after **have** coffee"* / *"I finished **get** ready"*
+> ✅ Right: *"after **having** coffee"* / *"I finished **getting** ready"*
+> 💡 Why: After **before / after / finish**, the next verb takes the **-ing** form. You mastered this last session (*"After finishing work..."*) — it just slipped in fast conversation, so let's lock it in.
+> 📊 Correct uses: 0/3
 
 > ❌ Wrong: *"he will **helps** me carry the boxes"*
 > ✅ Right: *"he will **help** me carry the boxes"* (or *would help* in reported speech)
 > 💡 Why: After a modal (*will / would / can / could / may / should*), the verb is always the **base form** — never add -s, even for he/she/it. The modal carries the grammar: *he will **help***, *she can **swim***, *it may **take***.
-> 📊 Correct uses: 2/3 *(Session 22, July 9: "will relax/open/move", "would get/buy/have". Session 23, July 10: perfect again — "will help", "will make".)*
+> 📊 Correct uses: 2/3 *(Session 22, July 9: "will relax/open/move", "would get/buy/have". Session 23, July 10: perfect again — "will help", "will make". **Session 28, July 15: slipped — "will cutoffs and fills" → "will cut off and fill"; kept at 2/3, not advanced.**)*
 
 > ❌ Wrong: *"**It's may take** another 2 weeks"*
 > ✅ Right: *"**It may take** another 2 weeks"*

@@ -4,6 +4,38 @@ Simple grammar rules, explained in plain language. Newest lessons go at the **to
 
 ---
 
+## Lesson 30: Present Perfect — has/have + past participle (B2)
+
+Use the **present perfect** for a past action that is **connected to now** — the result is still true today.
+
+> *"The cat **has settled** in."* (→ and it's settled now) · *"I **have worked** hard this week."*
+
+### The formula
+> **has / have + past participle (V3)**
+
+| Subject | helper | example |
+|---------|--------|---------|
+| it / he / she | **has** | *it **has** settled* |
+| I / you / we / they | **have** | *I **have** finished* |
+
+### Present Perfect vs Past Simple
+| Past Simple — finished, a past time | Present Perfect — connected to now |
+|---|---|
+| The cat settled in **last week**. | The cat **has settled** in. |
+| I worked hard **yesterday**. | I **have worked** hard this week. |
+
+💡 If you name a finished time (*yesterday, last night*), use **past simple**: *"I **didn't sleep** well last night."*
+
+### Irregular past participles (just memorize)
+send → **sent** · see → **seen** · become → **become** · have → **had** · do → **done** · take → **taken**
+
+### Word order & questions
+- *already / just* go in the middle: *"has **already** sent"*, *"have **just** finished"*
+- *yet* goes at the end (negatives/questions): *"haven't finished **yet**"*
+- questions flip the helper: *"**Have you seen** the deadline?"*
+
+---
+
 ## Lesson 29: Comparatives & Superlatives (B2)
 
 Use a **comparative** to compare **two** things, a **superlative** for the **top of three or more**. Which form you use depends on the **length** of the word.
@@ -113,45 +145,9 @@ When you switch active → passive, keep the **same tense** — only the structu
 
 ---
 
-## Lesson 25: Reported Speech (B2)
-
-**Reported speech** = telling someone what another person said, without their exact words. The main change: the **tense steps back one level** into the past (because the speaking already happened).
-
-### The tense "steps back"
-| Direct (their words) | Reported (you retell) |
-|---|---|
-| "I **work** here" | He said he **worked** there |
-| "I **am** working" | He said he **was** working |
-| "I **will** call" | He said he **would** call |
-| "I **can** swim" | He said he **could** swim |
-| "I **have** finished" | He said he **had** finished |
-
-### Three things change
-1. **Tense** → one step back (present → past, will → would, have → had)
-2. **Pronouns** → "**I** am" becomes "**he** was"
-3. **Time/place words** → now→then, today→that day, here→there, tomorrow→the next day
-
-### "say" vs "tell"
-| Verb | Rule | Example |
-|------|------|---------|
-| **say** | NO person after it | "She **said** (that) she was busy." |
-| **tell** | needs a person | "She **told me** (that) she was busy." |
-
-❌ "She told that she was busy." / ❌ "She said me that..."
-
-### Reminder from this session — the "to be" two-sided rule
-| Situation | Rule | Example |
-|-----------|------|---------|
-| A verb is **missing** | ADD *to be* | "I **am** planning" (not "I planing") |
-| Before a **modal** (may/will/can) | NO *to be* | "It **may** take" (not "It's may take") |
-
-Also: plural subjects use **were**, not was → "they **were** busy". And use **another** + time → "another 2 weeks" (not "more 2 weeks").
-
----
-
 ## Archived Topics (full lessons in notes-archive.md)
 
-1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2) · 23 Giving & Defending Opinions — Debate Language (B2) · 24 Idioms & the "-ing after a preposition" rule (B2)
+1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2) · 23 Giving & Defending Opinions — Debate Language (B2) · 24 Idioms & the "-ing after a preposition" rule (B2) · 25 Reported Speech (B2)
 
 ---
 

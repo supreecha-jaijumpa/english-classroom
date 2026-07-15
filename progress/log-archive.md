@@ -5,6 +5,22 @@ Claude does NOT read this file automatically — it is for your personal referen
 
 ---
 
+### Session 18 — 2026-07-02
+**Topic:** Giving & Defending Opinions — B2 Debate Language
+**Practiced:** Warm-up (house-move progress & this week's hopes), gave a 2–3 sentence opinion on work-from-home vs office using opinion + reason phrases, then politely disagreed with the tutor's counter-opinion using "That may be true, but..."
+**Learned:** Opinion openers (In my opinion / From my point of view / It seems to me that); agreeing (I couldn't agree more / That's a good point); polite disagreement (I see your point, but... / That may be true, but... / I'm not so sure about that); giving reasons — **because of** + noun vs **because** + full sentence; bonus grammar — **depend on** (not *of*), modal + **be** ("may be good"), **it's worth + -ing**, gerund as subject ("working in an office is better"), **communicate with** each other, "how long it takes you"
+**Notes:** Strong B2 debate instincts — used "From my point of view" and "That may be true, but..." naturally and built a genuinely nuanced argument ("it depends on how long your commute takes... a hybrid schedule is the best"). That balanced, conditional reasoning is exactly the B2 target. Fixable errors: "no any progress" → "no progress"; "on planing" → "in the planning stage" (spelling + preposition); "would start"/"around 15th" → "will start around the 15th"; "work from an office" → "working in an office" (gerund subject + *in* office); "communicate each other" → "communicate with each other"; "don't let us lonely" → "doesn't make us feel lonely"; "may good" → "may be good"; "depend of" → "depends on"; "it worth to work" → "it's worth working"; "how long your take" → "how long it takes you". Communicated everything clearly throughout. **17-day streak — new best! 18 sessions.**
+
+---
+
+### Session 17 — 2026-07-01
+**Topic:** Relative Clauses — who / which / that / where / whose (B2)
+**Practiced:** Warm-up (packing progress & saving money at his cousin's free place), joined 3 sentence pairs into relative clauses, then built a free sentence about his cat keeping him awake
+**Learned:** Relative pronouns (who = people, which/that = things, where = places, whose = possession); place the clause **right next to the noun** it describes; use **which/that** (not *where*) when the noun is the subject doing something; the "in which" test for *where*; bonus — *at night* (no *the*), "always + -ing" for annoying repeated habits, possessive **'s** (cousin's home)
+**Notes:** Strong grasp of a real B2 structure. Sentence #3 flawless first try ("a game that is called Expedition 33" — right pronoun, right position, title capitalized). Two fixable errors: used *where* where subject needs which/that (#1); placed *who* after the adjective instead of right after *cousin* (#2). Warm-up errors: "haven't packing" → "haven't packed" (participle after have); "tried" → "tired" (typo); missing *to be* ("I looking", "I so tired"); "don't spent" → "don't spend" (base verb after don't); "for rent" → "on rent"; "cousin home" → "cousin's home". Free sentence: relative clause correct, but "that one make" → "that keeps" (drop *one*, add -s), "at the night" → "at night", "alway run" → "always running". Communicates everything clearly. **16-day streak — new best! 17 sessions.**
+
+---
+
 ### Session 16 — 2026-06-30
 **Topic:** Conditionals — Zero, First & Second (first B2 lesson!)
 **Practiced:** Warm-up (how his work week is going, weekend plans — he's moving house!), 3 fill-in-the-blank conditional exercises, a bonus first-conditional sentence about the new house

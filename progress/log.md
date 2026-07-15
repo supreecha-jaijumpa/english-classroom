@@ -12,6 +12,22 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 28 — 2026-07-15
+**Topic:** Free conversation practice (B2) — morning routine & work / ROAT project
+**Practiced:** Casual chat (~10 exchanges) — a runaway cat & a headache, flexible work hours, the morning coffee-and-chill routine, studying English at work, being a Front-End developer, and the ROAT rubber-marketplace app + its automatic stock feature
+**Learned/reinforced:** after/before/finish + **-ing** (*having, getting*); **"gives me a headache"** (headache = noun); **wait for** someone; **arrive at** a place; present continuous needs **am/is/are** (*"I'm building"*); passive **"is built to connect"**; **"a lot"** (two words); *relax* / *take a break* (verb, not noun)
+**Notes:** Good flowing conversation — meaning was clear throughout. Main slips were dropped small words (*am, for, at, a*) and a missing **-ing** after *after/finish*. "will cutoffs and fills" repeated the modal + base-form error (kept at 2/3, not advanced). Second session today. **3-day streak. 28 sessions.**
+
+---
+
+### Session 27 — 2026-07-15
+**Topic:** Present Perfect — has/have + past participle (B2)
+**Practiced:** Warm-up (cat has settled in but is back to giving him headaches; a hard workday close to a deadline with a PM complaint), 5 gap-fills building has/have + V3, then own present-perfect sentences and a before/after + -ing round
+**Learned:** **has/have + past participle (V3)** for a past action **connected to now** (*"the cat **has settled** in"*); it/he/she → **has**, I/you/we/they → **have**; irregular participles (send→**sent**, see→**seen**, become→**become**, have→**had**); word order (*"has **already** sent"* / *"haven't finished **yet**"*); questions flip (*"**Have you seen**...?"*)
+**Notes:** Excellent — 5/5 perfect on gap-fills incl. irregulars and question form, and "I have just finished the work" was flawless present perfect. Mastered **before/after + -ing** ("After finishing work..."). Polish: "have headached" → "**have had a headache**" (headache = noun), "makes me headache" → "**gives** me a headache", "before study English" → "before **studying English**", tense match (finished today → *studied*). Third clean third-person -s ("cat that always **makes**") → that mistake is now **mastered & archived**! **3-day streak. 27 sessions.**
+
+---
+
 ### Session 26 — 2026-07-14
 **Topic:** Third-person -s (weakest-area drill) + while/during + arrive at/in (B2 practice)
 **Practiced:** Free practice aimed at the weakest active mistake — 6 gap-fills, 3 own he/she/it sentences, then a mixed while/during + arrive at/in round
@@ -73,22 +89,6 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 **Practiced:** Warm-up (house-move progress — still ongoing, sleeping between old & new house; plans to hire a mover for big stuff), wrote 3 sentences using idioms, filled in 2 idiom blanks
 **Learned:** Five everyday idioms — **up in the air** (undecided/uncertain), **little by little** (slowly, in small steps), **get settled in** (become comfortable in a new place), **a fresh start** (a new beginning), **hit the ground running** (start with full energy); idioms are fixed phrases — the words don't change; bonus grammar — **looking to / looking forward to + -ing** ("to" as a preposition takes -ing), **finish + -ing** ("finish moving"), **to + base verb** ("to move stuff")
 **Notes:** Used all three idioms correctly and naturally on the first try ("My moving date is still up in the air", "packing little by little", "hit the ground running") — strong feel for how idioms work. Both fill-in blanks correct (get settled in / a fresh start). Recurring error: dropped the **"to be" verb** twice ("I looking" → "I'm looking", "House move still ongoing" → "The house move is still ongoing") — this is on the active list, needs focus. Other fixes: "on going" → "ongoing" (one word); "to moving stuff" → "to move stuff" (base verb after *to*); "looking for finish" → "looking to finish" + "finish moving" (-ing after finish); "looking forward to hit" → "looking forward to hitting" (-ing after *to* preposition); "suff/suffl" → "stuff", "littlel" typos; "a transport" → "a mover". **Note: streak broken — a 3-day gap (July 3–5) since Session 18. Restarting at 1 day. 19 sessions total.**
-
----
-
-### Session 18 — 2026-07-02
-**Topic:** Giving & Defending Opinions — B2 Debate Language
-**Practiced:** Warm-up (house-move progress & this week's hopes), gave a 2–3 sentence opinion on work-from-home vs office using opinion + reason phrases, then politely disagreed with the tutor's counter-opinion using "That may be true, but..."
-**Learned:** Opinion openers (In my opinion / From my point of view / It seems to me that); agreeing (I couldn't agree more / That's a good point); polite disagreement (I see your point, but... / That may be true, but... / I'm not so sure about that); giving reasons — **because of** + noun vs **because** + full sentence; bonus grammar — **depend on** (not *of*), modal + **be** ("may be good"), **it's worth + -ing**, gerund as subject ("working in an office is better"), **communicate with** each other, "how long it takes you"
-**Notes:** Strong B2 debate instincts — used "From my point of view" and "That may be true, but..." naturally and built a genuinely nuanced argument ("it depends on how long your commute takes... a hybrid schedule is the best"). That balanced, conditional reasoning is exactly the B2 target. Fixable errors: "no any progress" → "no progress"; "on planing" → "in the planning stage" (spelling + preposition); "would start"/"around 15th" → "will start around the 15th"; "work from an office" → "working in an office" (gerund subject + *in* office); "communicate each other" → "communicate with each other"; "don't let us lonely" → "doesn't make us feel lonely"; "may good" → "may be good"; "depend of" → "depends on"; "it worth to work" → "it's worth working"; "how long your take" → "how long it takes you". Communicated everything clearly throughout. **17-day streak — new best! 18 sessions.**
-
----
-
-### Session 17 — 2026-07-01
-**Topic:** Relative Clauses — who / which / that / where / whose (B2)
-**Practiced:** Warm-up (packing progress & saving money at his cousin's free place), joined 3 sentence pairs into relative clauses, then built a free sentence about his cat keeping him awake
-**Learned:** Relative pronouns (who = people, which/that = things, where = places, whose = possession); place the clause **right next to the noun** it describes; use **which/that** (not *where*) when the noun is the subject doing something; the "in which" test for *where*; bonus — *at night* (no *the*), "always + -ing" for annoying repeated habits, possessive **'s** (cousin's home)
-**Notes:** Strong grasp of a real B2 structure. Sentence #3 flawless first try ("a game that is called Expedition 33" — right pronoun, right position, title capitalized). Two fixable errors: used *where* where subject needs which/that (#1); placed *who* after the adjective instead of right after *cousin* (#2). Warm-up errors: "haven't packing" → "haven't packed" (participle after have); "tried" → "tired" (typo); missing *to be* ("I looking", "I so tired"); "don't spent" → "don't spend" (base verb after don't); "for rent" → "on rent"; "cousin home" → "cousin's home". Free sentence: relative clause correct, but "that one make" → "that keeps" (drop *one*, add -s), "at the night" → "at night", "alway run" → "always running". Communicates everything clearly. **16-day streak — new best! 17 sessions.**
 
 ---
 

@@ -7,6 +7,10 @@ Claude does NOT read this file automatically — only `/quiz` samples a small sl
 
 ## ✅ Mastered
 
+> ✅ **Third-person -s (he / she / it + verb-s)**
+> Was: *"My cat **seem** happy"* / *"it **make** noise"* → Now: *"My cat **seems** happy"* / *"it **makes** noise"*
+> 💡 For he/she/it (one person or thing) in the present, the verb needs **-s**. Mastered in Session 27 — dedicated drill in Session 26 (14 correct in a row), then a clean natural use ("the cat that always **makes** me a headache") in Session 27.
+
 > ✅ **Always capitalize "I"**
 > Was: *"can i have..."* → Now: *"Can **I** have..."*
 > 💡 The pronoun "I" is always a capital letter — no exceptions. Mastered in Session 6.

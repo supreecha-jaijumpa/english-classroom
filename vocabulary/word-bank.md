@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 137
+## Total Words Learned: 142
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,13 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**flexible (hours)** — able to be changed or adjusted easily — "My office has **flexible hours**, so I don't have to arrive at an exact time."
+**deduct** — to take away / subtract an amount — "The system automatically **deducts** the stock when there is a deal."
+
+**present perfect** — *has/have + past participle (V3)* for a past action connected to now — "The cat **has settled** in." *(it/he/she → has; I/you/we/they → have)*
+**give (someone) a headache** — to cause someone stress or pain — "My cat **gives** me a headache." *(headache is a **noun** — there is no verb "headached")*
+**before / after (+ -ing)** — use the **-ing** form after *before/after* — "**After finishing** work, I studied English."
 
 **while / during** — *while* + subject-verb, *during* + a noun — "I listen to music **while** I work; she slept **during** the movie."
 **arrive at / in** — *arrive at* a place, *arrive in* a city or country (never "arrive the") — "We **arrive at** the airport at 6; she **arrives in** Bangkok tomorrow."
@@ -75,9 +82,4 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 **this is... (on the phone)** — how you say who you are on a call — "Hello, this is Supreecha speaking."
 **make a reservation** — to book a table or room in advance — "I'd like to make a reservation for two."
-**a table for two** — a restaurant table for two people — "Can I have a table for two at 7 PM?"
-**hold on** — please wait a moment — "Hold on a moment, please."
-**call (someone) back** — to return a phone call later — "I'll call you back this evening."
-**take a message** — to write down information for an absent person — "He's not here. Can I take a message?"
-**brb / ttyl / np** — text slang: be right back / talk to you later / no problem — "Gotta go, brb!"
 

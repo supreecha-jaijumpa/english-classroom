@@ -3,10 +3,10 @@
 *This file is the only home for session counts and streaks — other files link here instead of copying the numbers.*
 
 ## Total Sessions
-**26**
+**28**
 
 ## Current Streak
-**2 days** *(rebuilding after the July 11–12 gap)*
+**3 days** *(rebuilding after the July 11–12 gap)*
 
 ## Best Streak Ever
 **17 days**
@@ -18,7 +18,7 @@
 |-----|-----|-----|-----|-----|-----|-----|
 | | ✓ 1 | ✓ 2 | 3 | 4 | 5 | ✓ 6 |
 | ✓ 7 | ✓ 8 | ✓ 9 | ✓ 10 | | | ✓ 13 |
-| ✓ 14 | | | | | | |
+| ✓ 14 | ✓ 15 | | | | | |
 
 ---
 

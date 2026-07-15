@@ -5,6 +5,42 @@ Claude does NOT read this file automatically — it is for your personal referen
 
 ---
 
+## Lesson 25: Reported Speech (B2)
+
+**Reported speech** = telling someone what another person said, without their exact words. The main change: the **tense steps back one level** into the past (because the speaking already happened).
+
+### The tense "steps back"
+| Direct (their words) | Reported (you retell) |
+|---|---|
+| "I **work** here" | He said he **worked** there |
+| "I **am** working" | He said he **was** working |
+| "I **will** call" | He said he **would** call |
+| "I **can** swim" | He said he **could** swim |
+| "I **have** finished" | He said he **had** finished |
+
+### Three things change
+1. **Tense** → one step back (present → past, will → would, have → had)
+2. **Pronouns** → "**I** am" becomes "**he** was"
+3. **Time/place words** → now→then, today→that day, here→there, tomorrow→the next day
+
+### "say" vs "tell"
+| Verb | Rule | Example |
+|------|------|---------|
+| **say** | NO person after it | "She **said** (that) she was busy." |
+| **tell** | needs a person | "She **told me** (that) she was busy." |
+
+❌ "She told that she was busy." / ❌ "She said me that..."
+
+### The "to be" two-sided rule
+| Situation | Rule | Example |
+|-----------|------|---------|
+| A verb is **missing** | ADD *to be* | "I **am** planning" (not "I planing") |
+| Before a **modal** (may/will/can) | NO *to be* | "It **may** take" (not "It's may take") |
+
+Also: plural subjects use **were**, not was → "they **were** busy". And use **another** + time → "another 2 weeks" (not "more 2 weeks").
+
+---
+
 ## Lesson 24: Idioms & the "-ing after a preposition" rule (B2)
 
 ### Everyday idioms (fixed phrases — the words never change)

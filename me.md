@@ -56,6 +56,8 @@
 - [x] Used new idioms correctly and naturally on the first try — all 3 in sentences + 2/2 fill-in blanks (Session 19)
 - [x] Grasped reported speech immediately — tense backshift correct on first try (2/3 exercise + flawless will→would in a free sentence, Session 20)
 - [x] Passive voice structure (be + V3) correct in every sentence from the first try, and a perfect 2/2 tense-matching round after one explanation (Session 21)
+- [x] Third-person -s (he/she/it + verb-s) — MASTERED in Session 27 after a dedicated drill (was the longest-running weak spot)
+- [x] Grasped the Present Perfect (has/have + V3) immediately — 5/5 perfect gap-fills incl. irregulars & question form, "have just finished" flawless (Session 27)
 
 ## My Learning Preferences
 

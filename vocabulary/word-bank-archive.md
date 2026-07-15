@@ -5,6 +5,13 @@ Claude does NOT read this file automatically — only `/quiz` samples a small sl
 
 ---
 
+**a table for two** — a restaurant table for two people — "Can I have a table for two at 7 PM?"
+**hold on** — please wait a moment — "Hold on a moment, please."
+
+**call (someone) back** — to return a phone call later — "I'll call you back this evening."
+**take a message** — to write down information for an absent person — "He's not here. Can I take a message?"
+**brb / ttyl / np** — text slang: be right back / talk to you later / no problem — "Gotta go, brb!"
+
 **speak up** — to talk louder — "Could you speak up? The line is bad."
 
 **suddenly** — something unexpected happening — "Suddenly, it started to rain."
