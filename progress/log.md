@@ -12,6 +12,22 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 30 — 2026-07-16
+**Topic:** Free conversation practice (B2) — hobbies: drawing & video games
+**Practiced:** Casual chat (~10 exchanges) — a chill day, ways to relax (games/drawing/sleep), doodling on real paper vs a screen, not drawing for work, MLBB with coworkers vs Expedition 33 solo at home
+**Learned/reinforced:** **doodle/doodling**; **sell yourself short**; base verb after *don't* (*don't **draw***) & *to* (*to keep going*); **I'd like** (would like) not *I'll like*; **doesn't** for singular "screen drawing"; present-tense habit (*I just **leave** them*); "used to" reused correctly again
+**Notes:** Nice flowing chat — meaning clear throughout, and a spontaneous, correct **"used to"** (last session's topic). Main recurring slip was **missing plural -s** (*thing→things* ×2, *Character→characters*) — added to corrections. Also *stated→started*, *Sometime→Sometimes*, *different vs difference*. Second session today. **4-day streak. 30 sessions.**
+
+---
+
+### Session 29 — 2026-07-16
+**Topic:** `used to` — past habits & states (B2)
+**Practiced:** Warm-up story (arrived an hour early, played MLBB; cat went out & was left outside), 3 gap-fills turning verbs into "past-but-not-now", then own `used to` sentences (spicy→bland food, cat used to be cute, gave up Julian)
+**Learned:** **used to + base verb** = true in the past, not now (*used to play/be*); negative **didn't use to**, question **Did you use to...?**; **every day** (2 words = daily) vs **everyday** (1 word = ordinary); **go for a walk** (not *have*); **bland** = opposite of spicy; **give it up** (object between)
+**Notes:** Great first-try grasp — all `used to` forms correct incl. the question form. Main slips were **irregular past** (*leaved*→**left**, *not came*→**didn't come**) and the recurring **a lot** spelled *alot*. Word order "an hour before" and plural "matches" also polished. **4-day streak. 29 sessions.**
+
+---
+
 ### Session 28 — 2026-07-15
 **Topic:** Free conversation practice (B2) — morning routine & work / ROAT project
 **Practiced:** Casual chat (~10 exchanges) — a runaway cat & a headache, flexible work hours, the morning coffee-and-chill routine, studying English at work, being a Front-End developer, and the ROAT rubber-marketplace app + its automatic stock feature
@@ -75,20 +91,6 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 **Notes:** Passive structure correct in every sentence from the first try — "This house was built in 2010" flawless, and the free sentence "The store was closed." was perfectly natural. First round missed tense matching twice (*will carry* → wrote *was moved*; *has packed* → wrote *was packed... by someone*), but after one explanation the second round was **PERFECT 2/2** ("will be finished", "has been taken") — classic one-explanation fix. Warm-up errors: "Nothing change yet" → "Nothing **has changed** yet"; "everything still the same" → "everything **is** still the same" (missing "to be" — still at 2/3, so close!); "he will helps" → "he **would help**" (reported-speech backshift missed + new error: **-s after a modal** — added to corrections). **3-day streak. 21 sessions.** Log housekeeping: Sessions 1–10 moved to log-archive.md.
 
 ---
-
-### Session 20 — 2026-07-07
-**Topic:** Reported Speech (B2 Complex Grammar)
-**Practiced:** Warm-up (house move ~50%, may take another 2 weeks; cleaning the new house this weekend), converted 3 direct sentences into reported speech, then a real-life mini-exercise reporting what a mover said + a free "My friend told me that..." sentence
-**Learned:** Reported speech = retelling what someone said without their exact words; the **tense steps back one level** (am→was, will→would, can→could, have/has→**had**, work→worked); pronouns shift (I→he/she); time/place words shift (now→then, here→there, tomorrow→the next day); **say** takes no person (*she said that...*) but **tell** needs a person (*she told me that...*); bonus grammar — no *is* before a modal (**"It may take"**, not *"It's may take"*), plural subject needs **were** not was (*they were*), **another** + time period (*another 2 weeks*, not *more 2 weeks*)
-**Notes:** Strong first reported-speech session — got the backshift concept immediately. Exercise 2/3 (was hungry ✅, would help me ✅; only "has finished" → **had finished** missed the extra step). Mini-exercise: reported-speech structure spot-on — "could move" ✅ and free sentence "He told me he would join the whey protein team" had a flawless *will→would* backshift and correct *told me he*. Fixable errors: "It's may take" → **"It may take"** (no *is* before a modal — the flip side of the "to be" rule!); "I planing" → **"I'm planning"** (recurring dropped "to be" + spelling, double *n*); "more 2 weeks" → **"another 2 weeks"**; "clean new house" → "clean **the** new house"; "they was" → **"they were"** (plural subject). The "to be" verb is now a two-sided skill: **add it** when a verb is missing (*I'm planning*), **don't add it** before a modal (*it may take*). **2-day streak (rebuilding). 20 sessions total — milestone!**
-
----
-
-### Session 19 — 2026-07-06
-**Topic:** Idioms & Common Expressions (B2)
-**Practiced:** Warm-up (house-move progress — still ongoing, sleeping between old & new house; plans to hire a mover for big stuff), wrote 3 sentences using idioms, filled in 2 idiom blanks
-**Learned:** Five everyday idioms — **up in the air** (undecided/uncertain), **little by little** (slowly, in small steps), **get settled in** (become comfortable in a new place), **a fresh start** (a new beginning), **hit the ground running** (start with full energy); idioms are fixed phrases — the words don't change; bonus grammar — **looking to / looking forward to + -ing** ("to" as a preposition takes -ing), **finish + -ing** ("finish moving"), **to + base verb** ("to move stuff")
-**Notes:** Used all three idioms correctly and naturally on the first try ("My moving date is still up in the air", "packing little by little", "hit the ground running") — strong feel for how idioms work. Both fill-in blanks correct (get settled in / a fresh start). Recurring error: dropped the **"to be" verb** twice ("I looking" → "I'm looking", "House move still ongoing" → "The house move is still ongoing") — this is on the active list, needs focus. Other fixes: "on going" → "ongoing" (one word); "to moving stuff" → "to move stuff" (base verb after *to*); "looking for finish" → "looking to finish" + "finish moving" (-ing after finish); "looking forward to hit" → "looking forward to hitting" (-ing after *to* preposition); "suff/suffl" → "stuff", "littlel" typos; "a transport" → "a mover". **Note: streak broken — a 3-day gap (July 3–5) since Session 18. Restarting at 1 day. 19 sessions total.**
 
 ---
 

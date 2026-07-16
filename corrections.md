@@ -16,10 +16,25 @@ This file holds **Active Mistakes only, max ~10** — sessions read just this se
 
 ## Active Mistakes
 
-> ❌ Wrong: *"after **have** coffee"* / *"I finished **get** ready"*
-> ✅ Right: *"after **having** coffee"* / *"I finished **getting** ready"*
-> 💡 Why: After **before / after / finish**, the next verb takes the **-ing** form. You mastered this last session (*"After finishing work..."*) — it just slipped in fast conversation, so let's lock it in.
-> 📊 Correct uses: 0/3
+> ❌ Wrong: *"I draw random **thing**"* / *"shapes and **Character**"*
+> ✅ Right: *"I draw random **things**"* / *"shapes and **characters**"*
+> 💡 Why: A **countable noun** needs **-s** when there is more than one: *two game**s***, *many thing**s***, *some character**s***. If you can count it and mean "more than one", add the **-s**. (Also: no capital letter in the middle of a sentence — *characters*, not *Characters*.)
+> 📊 Correct uses: 0/3 *(Recurring in Session 30: "random thing" ×2, "Character" → characters. Note: "two video games" was correct ✅.)*
+
+> ❌ Wrong: *"I **leaved** it outside"* / *"my cat **not came** back"*
+> ✅ Right: *"I **left** it outside"* / *"my cat **didn't come** back"*
+> 💡 Why: Two past-tense rules. (1) Many common verbs are **irregular** — don't add -ed: *leave→**left**, come→**came**, eat→**ate**, go→**went**, give→**gave***. (2) For a **past negative**, use *didn't + **base** verb* (the *didn't* already shows past): *"didn't **come**"*, not *"not came"*.
+> 📊 Correct uses: 0/3 *(Recurring: "leaved"→left & "not came"→didn't come this session; "eated"→ate in Session 24.)*
+
+> ❌ Wrong: *"I eat spicy **alot**"*
+> ✅ Right: *"I eat spicy food **a lot**"*
+> 💡 Why: **a lot** is always **two words** — there is no word "alot". Use it to mean "much / often": *"I study **a lot**"*, *"Thanks **a lot**"*.
+> 📊 Correct uses: 0/3 *(Recurring across Sessions 28 and 29.)*
+
+> ❌ Wrong: *"after **have** coffee"* / *"I want to **finish move** the stuff"*
+> ✅ Right: *"after **having** coffee"* / *"I want to **finish moving** the stuff"*
+> 💡 Why: After **before / after / finish**, the next verb takes the **-ing** form: *after **having**, finish **moving**, before **studying***. You mastered it in Session 27 (*"After finishing work..."*) — it just slips in fast conversation.
+> 📊 Correct uses: 1/3 *(Practice July 7: "I finished **doing** the practice" ✅. Slipped in fast chat Session 28.)*
 
 > ❌ Wrong: *"he will **helps** me carry the boxes"*
 > ✅ Right: *"he will **help** me carry the boxes"* (or *would help* in reported speech)
@@ -55,11 +70,6 @@ This file holds **Active Mistakes only, max ~10** — sessions read just this se
 > ✅ Right: *"I'm **looking forward to hitting** the ground running"*
 > 💡 Why: In "looking forward to", the **to** is a preposition, not part of the verb — so it takes the **-ing** form: *looking forward to **seeing** you*, *looking forward to **the weekend***. Compare normal *to*: "I want **to hit**" (base verb).
 > 📊 Correct uses: 0/3
-
-> ❌ Wrong: *"I want to **finish move** the small stuff"*
-> ✅ Right: *"I want to **finish moving** the small stuff"*
-> 💡 Why: After **finish**, use the **-ing** form: *finish **moving**, finish **eating**, finish **packing***. (Not the base verb, not *to + verb*.)
-> 📊 Correct uses: 1/3 *(Practice July 7: "I finished **doing** the practice" ✅)*
 
 > ❌ Wrong: *"it **depend of** how long..."*
 > ✅ Right: *"it **depends on** how long..."*

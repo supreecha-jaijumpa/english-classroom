@@ -4,6 +4,32 @@ Simple grammar rules, explained in plain language. Newest lessons go at the **to
 
 ---
 
+## Lesson 31: `used to` — past habits & states (B2)
+
+Use **`used to + base verb`** for something that was **true in the past but is NOT true now**.
+
+> *"I **used to play** MLBB every day."* (→ but I stopped) · *"My cat **used to be** cute."* (→ now it's the opposite!)
+
+### The forms
+| | Structure | Example |
+|---|-----------|---------|
+| Positive | **used to** + base | *I **used to** live in Bangkok.* |
+| Negative | **didn't use to** + base *(drop the -d!)* | *I **didn't use to** like coffee.* |
+| Question | **Did you use to** + base? | ***Did you use to** play other games?* |
+
+💡 Always the **base verb** — never *used to played*.
+
+### Two meanings, two words that are NOT the same
+- **used to + base** = a past habit → *"I used to walk every evening."*
+- **be used to + -ing/noun** = be familiar with → *"I'm used to walking far."* (Different! We keep these separate for now.)
+
+### Bonus from this session
+- **every day** (2 words) = daily · **everyday** (1 word) = ordinary
+- **go for a walk / take a walk** (not *have a walk*)
+- **give it up** — put the object between: *gave **it** up*
+
+---
+
 ## Lesson 30: Present Perfect — has/have + past participle (B2)
 
 Use the **present perfect** for a past action that is **connected to now** — the result is still true today.
@@ -109,45 +135,9 @@ In an imaginary 2nd conditional, *be* becomes **were** for all subjects — *if 
 
 ---
 
-## Lesson 26: Passive Voice (B2)
-
-**Passive voice** = the sentence focuses on **what happened**, not who did it.
-
-> Active: *My cousin cleaned the house.* (focus: who)
-> Passive: *The house **was cleaned**.* (focus: what happened)
-
-### The formula
-> **be + past participle (V3)**
-
-The tense lives in **be** — the participle never changes:
-
-| Tense | Active | Passive |
-|-------|--------|---------|
-| Present | They pack the boxes | The boxes **are packed** |
-| Past | Someone built it in 2010 | It **was built** in 2010 |
-| Future | They will finish the house | The house **will be finished** |
-| Present perfect | Someone has taken my box | My box **has been taken** |
-
-### Golden rule: the tense never changes
-When you switch active → passive, keep the **same tense** — only the structure changes.
-> ❌ "They **will** carry it" → "It **was** carried"
-> ✅ "They **will** carry it" → "It **will be** carried"
-
-### When to use the passive
-1. The doer is unknown: *"My phone **was stolen**."*
-2. The doer doesn't matter: *"The kitchen stuff **has been packed**."* (no need for "by someone"!)
-3. Formal / news style: *"The new iPhone **was announced** yesterday."*
-4. Add **by** only if the doer is important: *"It was cleaned **by my cousin**."*
-
-### Watch out — two old friends
-- Passive **needs** *be*: "The store **was** closed" ✅ (don't drop it!)
-- After a modal, the verb is the **base form**: "he will **help**" (never *"will helps"*)
-
----
-
 ## Archived Topics (full lessons in notes-archive.md)
 
-1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2) · 23 Giving & Defending Opinions — Debate Language (B2) · 24 Idioms & the "-ing after a preposition" rule (B2) · 25 Reported Speech (B2)
+1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2) · 23 Giving & Defending Opinions — Debate Language (B2) · 24 Idioms & the "-ing after a preposition" rule (B2) · 25 Reported Speech (B2) · 26 Passive Voice (B2)
 
 ---
 

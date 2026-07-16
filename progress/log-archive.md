@@ -5,6 +5,22 @@ Claude does NOT read this file automatically — it is for your personal referen
 
 ---
 
+### Session 20 — 2026-07-07
+**Topic:** Reported Speech (B2 Complex Grammar)
+**Practiced:** Warm-up (house move ~50%, may take another 2 weeks; cleaning the new house this weekend), converted 3 direct sentences into reported speech, then a real-life mini-exercise reporting what a mover said + a free "My friend told me that..." sentence
+**Learned:** Reported speech = retelling what someone said without their exact words; the **tense steps back one level** (am→was, will→would, can→could, have/has→**had**, work→worked); pronouns shift (I→he/she); time/place words shift (now→then, here→there, tomorrow→the next day); **say** takes no person (*she said that...*) but **tell** needs a person (*she told me that...*); bonus grammar — no *is* before a modal (**"It may take"**, not *"It's may take"*), plural subject needs **were** not was (*they were*), **another** + time period (*another 2 weeks*, not *more 2 weeks*)
+**Notes:** Strong first reported-speech session — got the backshift concept immediately. Exercise 2/3 (was hungry ✅, would help me ✅; only "has finished" → **had finished** missed the extra step). Mini-exercise: reported-speech structure spot-on — "could move" ✅ and free sentence "He told me he would join the whey protein team" had a flawless *will→would* backshift and correct *told me he*. Fixable errors: "It's may take" → **"It may take"** (no *is* before a modal — the flip side of the "to be" rule!); "I planing" → **"I'm planning"** (recurring dropped "to be" + spelling, double *n*); "more 2 weeks" → **"another 2 weeks"**; "clean new house" → "clean **the** new house"; "they was" → **"they were"** (plural subject). The "to be" verb is now a two-sided skill: **add it** when a verb is missing (*I'm planning*), **don't add it** before a modal (*it may take*). **2-day streak (rebuilding). 20 sessions total — milestone!**
+
+---
+
+### Session 19 — 2026-07-06
+**Topic:** Idioms & Common Expressions (B2)
+**Practiced:** Warm-up (house-move progress — still ongoing, sleeping between old & new house; plans to hire a mover for big stuff), wrote 3 sentences using idioms, filled in 2 idiom blanks
+**Learned:** Five everyday idioms — **up in the air** (undecided/uncertain), **little by little** (slowly, in small steps), **get settled in** (become comfortable in a new place), **a fresh start** (a new beginning), **hit the ground running** (start with full energy); idioms are fixed phrases — the words don't change; bonus grammar — **looking to / looking forward to + -ing** ("to" as a preposition takes -ing), **finish + -ing** ("finish moving"), **to + base verb** ("to move stuff")
+**Notes:** Used all three idioms correctly and naturally on the first try ("My moving date is still up in the air", "packing little by little", "hit the ground running") — strong feel for how idioms work. Both fill-in blanks correct (get settled in / a fresh start). Recurring error: dropped the **"to be" verb** twice ("I looking" → "I'm looking", "House move still ongoing" → "The house move is still ongoing") — this is on the active list, needs focus. Other fixes: "on going" → "ongoing" (one word); "to moving stuff" → "to move stuff" (base verb after *to*); "looking for finish" → "looking to finish" + "finish moving" (-ing after finish); "looking forward to hit" → "looking forward to hitting" (-ing after *to* preposition); "suff/suffl" → "stuff", "littlel" typos; "a transport" → "a mover". **Note: streak broken — a 3-day gap (July 3–5) since Session 18. Restarting at 1 day. 19 sessions total.**
+
+---
+
 ### Session 18 — 2026-07-02
 **Topic:** Giving & Defending Opinions — B2 Debate Language
 **Practiced:** Warm-up (house-move progress & this week's hopes), gave a 2–3 sentence opinion on work-from-home vs office using opinion + reason phrases, then politely disagreed with the tutor's counter-opinion using "That may be true, but..."

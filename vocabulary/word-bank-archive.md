@@ -5,6 +5,9 @@ Claude does NOT read this file automatically — only `/quiz` samples a small sl
 
 ---
 
+**this is... (on the phone)** — how you say who you are on a call — "Hello, this is Supreecha speaking."
+**make a reservation** — to book a table or room in advance — "I'd like to make a reservation for two."
+
 **a table for two** — a restaurant table for two people — "Can I have a table for two at 7 PM?"
 **hold on** — please wait a moment — "Hold on a moment, please."
 

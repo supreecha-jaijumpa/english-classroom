@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 142
+## Total Words Learned: 148
 
 *(This is the only place the word count lives.)*
 
@@ -18,6 +18,13 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 *(Newest at the top)*
 
+**doodle / doodling** — to draw random little things without a plan — "I relax by **doodling** shapes and characters on paper."
+**sell yourself short** — to think you are worse or less able than you really are — "Don't **sell yourself short** — your drawings are good!"
+
+**used to (+ base verb)** — a past habit or state that is NOT true now — "I **used to play** MLBB every day, but I stopped." *(negative: didn't use to; question: Did you use to...?)*
+**bland** — having little flavour; not spicy or tasty — "After years of spicy food, I now prefer **bland** food."
+**every day / everyday** — *every day* (2 words) = each day; *everyday* (1 word) = ordinary — "I study **every day**." vs. "These are my **everyday** clothes."
+**go for a walk** — the natural verb with "walk" (not *have a walk*) — "I **used to go for a walk** every evening."
 **flexible (hours)** — able to be changed or adjusted easily — "My office has **flexible hours**, so I don't have to arrive at an exact time."
 **deduct** — to take away / subtract an amount — "The system automatically **deducts** the stock when there is a deal."
 
@@ -79,7 +86,4 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 **deal with** — to handle or manage something — "I deal with customer problems every day."
 **colleagues / coworkers** — the people you work with — "My colleagues are very friendly."
 **hybrid (work)** — a mix of office and home working — "I have a hybrid schedule."
-
-**this is... (on the phone)** — how you say who you are on a call — "Hello, this is Supreecha speaking."
-**make a reservation** — to book a table or room in advance — "I'd like to make a reservation for two."
 

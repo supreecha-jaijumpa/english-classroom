@@ -18,6 +18,7 @@
 
 ## What I Find Difficult
 
+- [ ] Plural **-s** on countable nouns — "random **things**", "characters" (add -s when more than one)
 - [ ] No -s after a modal — "he will **help**" not "he will **helps**" (base verb after will/would/can)
 - [ ] No *is* before a modal — "It **may** take" not "It's may take" (flip side of the "to be" rule)
 - [ ] Recurring: dropping the "to be" verb ("**I'm** looking", "the move **is** ongoing")
