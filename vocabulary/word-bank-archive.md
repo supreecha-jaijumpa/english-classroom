@@ -5,6 +5,9 @@ Claude does NOT read this file automatically — only `/quiz` samples a small sl
 
 ---
 
+**colleagues / coworkers** — the people you work with — "My colleagues are very friendly."
+**hybrid (work)** — a mix of office and home working — "I have a hybrid schedule."
+
 **this is... (on the phone)** — how you say who you are on a call — "Hello, this is Supreecha speaking."
 **make a reservation** — to book a table or room in advance — "I'd like to make a reservation for two."
 

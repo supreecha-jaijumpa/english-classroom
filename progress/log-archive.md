@@ -5,6 +5,22 @@ Claude does NOT read this file automatically — it is for your personal referen
 
 ---
 
+### Session 22 — 2026-07-09
+**Topic:** Conditionals — First & Second (B2)
+**Practiced:** Warm-up (moving a few things day by day, bedroom stuff today; optimized the classroom to use fewer tokens), completed 4 conditional gap-fills + wrote a free 2nd conditional, did a 2-sentence fix-it round, then wrote own 1st & 2nd conditionals
+**Learned:** **1st conditional** (real/likely) = *If* + present → *will* + base (*"If it rains, we will stay home"*); **2nd conditional** (imaginary) = *If* + past → *would* + base (*"If I had time, I would learn 3 languages"*); each half stays in its own "column" — fix one without knocking the other out; **were** for all subjects in imaginary sentences (*"if I were single"*); bonus — **less vs. fewer** (fewer for countable: *fewer tokens, fewer boxes*)
+**Notes:** Chose the correct conditional type every single time — the hardest skill — and used **"if I were single"** naturally (advanced!). First 3 gap-fills flawless; free sentence had *"If I have win the lottery"* → **"If I won"** (2nd-conditional if-clause = past simple). Fix-it round showed the classic trap: fixed the target half but changed the other too (*"have free time... would call"* should stay *will call*; *"had study harder"* should be *studied*) — cleared up with the two-column rule. Modal base-verb rule (*will help*, not *will helps*) was **perfect all session** — bumped to 1/3. Remaining polish: comma (not period) between the two halves; *"more saving money"* → *"more savings"*. **4-day streak. 22 sessions.**
+
+---
+
+### Session 21 — 2026-07-08
+**Topic:** Passive Voice (B2)
+**Practiced:** Warm-up (house move unchanged since yesterday; reported the cousin's offer to help carry boxes), converted 3 active sentences to passive, wrote a free real-life passive sentence, then a 2-question tense-matching round
+**Learned:** Passive = **be + past participle (V3)**; the tense lives in *be* (present *are packed*, past *was cleaned*, future *will be carried*, present perfect *has been packed*); use the passive when the doer is unknown or unimportant; add the doer with **by** only if it matters; **the tense never changes** when switching active→passive — only the structure
+**Notes:** Passive structure correct in every sentence from the first try — "This house was built in 2010" flawless, and the free sentence "The store was closed." was perfectly natural. First round missed tense matching twice (*will carry* → wrote *was moved*; *has packed* → wrote *was packed... by someone*), but after one explanation the second round was **PERFECT 2/2** ("will be finished", "has been taken") — classic one-explanation fix. Warm-up errors: "Nothing change yet" → "Nothing **has changed** yet"; "everything still the same" → "everything **is** still the same" (missing "to be" — still at 2/3, so close!); "he will helps" → "he **would help**" (reported-speech backshift missed + new error: **-s after a modal** — added to corrections). **3-day streak. 21 sessions.** Log housekeeping: Sessions 1–10 moved to log-archive.md.
+
+---
+
 ### Session 20 — 2026-07-07
 **Topic:** Reported Speech (B2 Complex Grammar)
 **Practiced:** Warm-up (house move ~50%, may take another 2 weeks; cleaning the new house this weekend), converted 3 direct sentences into reported speech, then a real-life mini-exercise reporting what a mover said + a free "My friend told me that..." sentence

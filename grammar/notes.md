@@ -4,6 +4,28 @@ Simple grammar rules, explained in plain language. Newest lessons go at the **to
 
 ---
 
+## Lesson 32: much / many / a lot of — Quantifiers (B2)
+
+How to say "a big amount." The word you choose depends on whether the noun is **countable** or **uncountable**.
+
+| Word | Use with | Best in |
+|------|----------|---------|
+| **many** | countable nouns (*matches, hours, characters*) | ➕ ❓ ➖ |
+| **much** | uncountable nouns (*time, work, coffee, sleep*) | mostly ❓ ➖ |
+| **a lot of** | **both** — the safe choice | ➕ ❓ ➖ |
+
+> ✅ *"I played **many matches**."* · ✅ *"I don't have **much time**."* · ✅ *"There's **a lot of work**."*
+
+### Two quick rules
+- In a **positive** sentence, we usually avoid *much* → use **a lot of**: *"I got **a lot of** sleep"* (not "much sleep").
+- **too much / too many** = more than you want: *"I don't drink **too much** coffee."*
+
+💡 When unsure, **a lot of** works with everything — countable or uncountable.
+
+⚠️ **relax** is a **verb**, not a countable thing → *"I **relaxed a lot**"* (never "do many relax").
+
+---
+
 ## Lesson 31: `used to` — past habits & states (B2)
 
 Use **`used to + base verb`** for something that was **true in the past but is NOT true now**.
@@ -108,36 +130,9 @@ More examples: *"**Swimming** is good exercise."* · *"**Moving** house is stres
 
 ---
 
-## Lesson 27: Conditionals — the Two-Column Rule (B2 review)
-
-Two very useful "if" types. Each has **two halves**, and only **one** half carries the "if-tense" — keep each half in its own column.
-
-| Type | Meaning | *if* half | result half |
-|------|---------|-----------|-------------|
-| **1st** | real / likely | If + **present** (*have, is, rains*) | **will** + base (*will call*) |
-| **2nd** | imaginary / dream | If + **past** (*had, studied, won*) | **would** + base (*would get*) |
-
-> 1st: *"If it **rains** tomorrow, we **will stay** home."*
-> 2nd: *"If I **had** a bigger house, I **would get** a dog."*
-
-### Two traps to avoid
-**1. Don't change both halves when fixing one.**
-> ❌ "If I **will have** time, I will call" → student fixes to "If I have time, I **would** call" (broke the other half!)
-> ✅ "If I **have** time, I **will** call." (real plan — 1st conditional, both halves stay in the 1st column)
-
-**2. The 2nd-conditional *if*-half is plain past simple** — not *have + verb*.
-> ❌ "If I **have win** the lottery, I would buy a bike."
-> ✅ "If I **won** the lottery, I would buy a bike."
-
-### Bonus: "were" for everyone
-In an imaginary 2nd conditional, *be* becomes **were** for all subjects — *if I **were**, if he **were***.
-> "If I **were** single, I would have more savings." *(natural, even advanced)*
-
----
-
 ## Archived Topics (full lessons in notes-archive.md)
 
-1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2) · 23 Giving & Defending Opinions — Debate Language (B2) · 24 Idioms & the "-ing after a preposition" rule (B2) · 25 Reported Speech (B2) · 26 Passive Voice (B2)
+1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2) · 23 Giving & Defending Opinions — Debate Language (B2) · 24 Idioms & the "-ing after a preposition" rule (B2) · 25 Reported Speech (B2) · 26 Passive Voice (B2) · 27 Conditionals — the Two-Column Rule (B2 review)
 
 ---
 

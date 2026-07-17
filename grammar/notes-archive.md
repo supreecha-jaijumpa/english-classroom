@@ -5,6 +5,33 @@ Claude does NOT read this file automatically — it is for your personal referen
 
 ---
 
+## Lesson 27: Conditionals — the Two-Column Rule (B2 review)
+
+Two very useful "if" types. Each has **two halves**, and only **one** half carries the "if-tense" — keep each half in its own column.
+
+| Type | Meaning | *if* half | result half |
+|------|---------|-----------|-------------|
+| **1st** | real / likely | If + **present** (*have, is, rains*) | **will** + base (*will call*) |
+| **2nd** | imaginary / dream | If + **past** (*had, studied, won*) | **would** + base (*would get*) |
+
+> 1st: *"If it **rains** tomorrow, we **will stay** home."*
+> 2nd: *"If I **had** a bigger house, I **would get** a dog."*
+
+### Two traps to avoid
+**1. Don't change both halves when fixing one.**
+> ❌ "If I **will have** time, I will call" → student fixes to "If I have time, I **would** call" (broke the other half!)
+> ✅ "If I **have** time, I **will** call." (real plan — 1st conditional, both halves stay in the 1st column)
+
+**2. The 2nd-conditional *if*-half is plain past simple** — not *have + verb*.
+> ❌ "If I **have win** the lottery, I would buy a bike."
+> ✅ "If I **won** the lottery, I would buy a bike."
+
+### Bonus: "were" for everyone
+In an imaginary 2nd conditional, *be* becomes **were** for all subjects — *if I **were**, if he **were***.
+> "If I **were** single, I would have more savings." *(natural, even advanced)*
+
+---
+
 ## Lesson 26: Passive Voice (B2)
 
 **Passive voice** = the sentence focuses on **what happened**, not who did it.

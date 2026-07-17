@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 148
+## Total Words Learned: 153
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,13 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**stare into space** — to look at nothing while lost in thought — "Sometimes I just **stare into space** and watch the mountain."
+**arty** — trying (a bit too hard) to look artistic; often sounds slightly negative → prefer **artistic** or **like a painting** — "That café is a bit **arty**."
+
+**much / many / a lot of** — words for a big amount: *many* + countable, *much* + uncountable, *a lot of* for both — "I don't have **much** time, but I played **many** matches. **A lot of** work is left."
+**tight (deadline / timeline / schedule)** — very little time; close and stressful — "The timeline is **tight**, so we have to hurry."
+**What I'm worried about is that…** — a clear way to explain your main concern — "**What I'm worried about is that** the deadline is too close."
 
 **doodle / doodling** — to draw random little things without a plan — "I relax by **doodling** shapes and characters on paper."
 **sell yourself short** — to think you are worse or less able than you really are — "Don't **sell yourself short** — your drawings are good!"
@@ -84,6 +91,4 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 **responsible for** — in charge of a task or duty — "I'm responsible for building the UI."
 **in charge of** — having control or responsibility for something — "She's in charge of the team."
 **deal with** — to handle or manage something — "I deal with customer problems every day."
-**colleagues / coworkers** — the people you work with — "My colleagues are very friendly."
-**hybrid (work)** — a mix of office and home working — "I have a hybrid schedule."
 

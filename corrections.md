@@ -19,7 +19,7 @@ This file holds **Active Mistakes only, max ~10** — sessions read just this se
 > ❌ Wrong: *"I draw random **thing**"* / *"shapes and **Character**"*
 > ✅ Right: *"I draw random **things**"* / *"shapes and **characters**"*
 > 💡 Why: A **countable noun** needs **-s** when there is more than one: *two game**s***, *many thing**s***, *some character**s***. If you can count it and mean "more than one", add the **-s**. (Also: no capital letter in the middle of a sentence — *characters*, not *Characters*.)
-> 📊 Correct uses: 0/3 *(Recurring in Session 30: "random thing" ×2, "Character" → characters. Note: "two video games" was correct ✅.)*
+> 📊 Correct uses: 1/3 *(Session 31: self-produced "two matches" & "8–9 hours" and wrote "characters" correctly ✅ — bumped to 1/3. Recurring in Session 30: "random thing" ×2, "Character" → characters.)*
 
 > ❌ Wrong: *"I **leaved** it outside"* / *"my cat **not came** back"*
 > ✅ Right: *"I **left** it outside"* / *"my cat **didn't come** back"*
