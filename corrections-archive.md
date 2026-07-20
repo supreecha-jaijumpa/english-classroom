@@ -5,6 +5,25 @@ Claude does NOT read this file automatically — only `/quiz` samples a small sl
 
 ---
 
+## 🔄 Rotated Out (still unmastered — parked to keep the Active list at ~10)
+
+> ❌ Wrong: *"It may take **more 2 weeks**"*
+> ✅ Right: *"It may take **another 2 weeks**"* (or *"2 more weeks"*)
+> 💡 Why: For one more period of time, use **another** + time: *another 2 weeks, another hour*. Don't say "more 2" — if you use *more*, the number comes first: *2 more weeks*.
+> 📊 Was 0/3 — parked 2026-07-20, not seen since Session 21.
+
+> ❌ Wrong: *"I'm **looking forward to hit** the ground running"*
+> ✅ Right: *"I'm **looking forward to hitting** the ground running"*
+> 💡 Why: In "looking forward to", the **to** is a preposition, not part of the verb — so it takes the **-ing** form: *looking forward to **seeing** you*. Compare normal *to*: "I want **to hit**" (base verb).
+> 📊 Was 0/3 — parked 2026-07-20, not seen recently.
+
+> ❌ Wrong: *"it **depend of** how long..."*
+> ✅ Right: *"it **depends on** how long..."*
+> 💡 Why: The verb *depend* always pairs with **on**, never *of*: "It depends on the weather." And with *it/he/she* add **-s**: *it depend**s***.
+> 📊 Was 0/3 — parked 2026-07-20; the -s half is now covered by the mastered third-person -s entry.
+
+---
+
 ## ✅ Mastered
 
 > ✅ **Third-person -s (he / she / it + verb-s)**

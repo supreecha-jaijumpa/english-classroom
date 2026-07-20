@@ -4,6 +4,35 @@ Simple grammar rules, explained in plain language. Newest lessons go at the **to
 
 ---
 
+## Lesson 33: Telling a Story in the Past (B1/B2)
+
+A good story has **three parts**.
+
+**1. Set the scene** — when + where: *"**Last weekend**, I went back to my old house."*
+
+**2. Sequence the events** with order words:
+
+| Word | Use for |
+|------|---------|
+| **First,** | the beginning |
+| **Then,** / **After that,** | the next step |
+| **While** I was cleaning… | two things at the same time |
+| **Suddenly,** | a surprise |
+| **Finally,** / **In the end,** | the last step |
+
+**3. Say how you felt** — *"It **was** tiring, but I **felt** good."*
+
+### Three rules to keep it clean
+- **Stay in the past** the whole way through — *there is → there **were***, *I help → I **helped***.
+- **Only the first verb shows tense**: *"I **helped** the man **pack**"* (help + person + **base** verb).
+- **back** is not a verb — it follows one: **go back, give back, come back, bring back**. ❌ *"I backed"*
+
+### ⚠️ Plural traps
+- **Uncountable** nouns take no -s and use **much**: *too **much stuff*** (also *furniture, information, advice, trash*).
+- **Irregular plurals** change instead: child→**children**, person→**people**, man→**men**, foot→**feet**.
+
+---
+
 ## Lesson 32: much / many / a lot of — Quantifiers (B2)
 
 How to say "a big amount." The word you choose depends on whether the noun is **countable** or **uncountable**.
@@ -105,34 +134,9 @@ good → **better** → the **best** · bad → **worse** → the **worst** · f
 
 ---
 
-## Lesson 28: Idioms + the "-ing as subject" rule (B2)
-
-### Five more everyday idioms (fixed phrases — the words never change)
-| Idiom | Meaning | Example |
-|-------|---------|---------|
-| **once in a blue moon** | very rarely | "I eat fast food **once in a blue moon**." |
-| **under the weather** | feeling sick | "I stayed home — I was **under the weather**." |
-| **hit the sack** | go to bed | "I'm tired, I'll **hit the sack**." |
-| **piece of cake** | very easy | "The test was **a piece of cake**." |
-| **cost an arm and a leg** | very expensive | "That phone **cost an arm and a leg**." |
-
-⚠️ You can't swap the words: it's *hit the **sack*** (not "the bed") and *an **arm and a leg*** (not "a hand and a foot").
-
-### When an action is the SUBJECT, use -ing
-If the thing you're talking about (the subject) is an **action**, put it in the **-ing form** — never the plain base verb.
-
-> ❌ "**Cook** Pad Thai was a piece of cake."
-> ✅ "**Cooking** Pad Thai was a piece of cake."
-
-More examples: *"**Swimming** is good exercise."* · *"**Moving** house is stressful."* · *"**Learning** English takes time."*
-
-💡 This is the same rule you already use inside sentences: *"My girlfriend, who **loves cooking**"* and *"**Working** in an office is better."*
-
----
-
 ## Archived Topics (full lessons in notes-archive.md)
 
-1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2) · 23 Giving & Defending Opinions — Debate Language (B2) · 24 Idioms & the "-ing after a preposition" rule (B2) · 25 Reported Speech (B2) · 26 Passive Voice (B2) · 27 Conditionals — the Two-Column Rule (B2 review)
+1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2) · 23 Giving & Defending Opinions — Debate Language (B2) · 24 Idioms & the "-ing after a preposition" rule (B2) · 25 Reported Speech (B2) · 26 Passive Voice (B2) · 27 Conditionals — the Two-Column Rule (B2 review) · 28 Idioms + the "-ing as subject" rule (B2)
 
 ---
 

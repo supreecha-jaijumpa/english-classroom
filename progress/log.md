@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 33 — 2026-07-20
+**Topic:** Storytelling — telling a story in the past (B1/B2)
+**Practiced:** Warm-up (went back to clean the old house, mountain green & sky clear), learned the 3-part story shape + order words, then wrote a 9-line story about giving his unused things away on social media in exchange for help moving the trash; 3 fix-the-sentence drills
+**Learned:** Story shape = **set the scene → order words → how you felt**; *First / Then / After that / While / Suddenly / Finally*; **stuff** is uncountable (*too **much** stuff*, never *stuffs*); irregular plurals **children / people / men**; **help + person + base verb** (*helped me carry*); keep the whole story past (*there **were***); **go back / give back** (not *"I backed"*); **on social media** (no *the*); **exchange contact details**; **in return**
+**Notes:** Best writing yet — a real story with a beginning, middle and end, and **every irregular past verb correct** (went, gave, came, said, left) → that correction bumped to 1/3. He over-applied the plural -s rule he learned last week (*stuffs, childrens*), which is a good sign; fixed both on the first try in the drill (2/3 on quick practice, only *many→much* missed). Returned after a 2-day gap, so the streak restarts. **1-day streak. 33 sessions.**
+
+---
+
 ### Session 32 — 2026-07-17
 **Topic:** Free conversation practice (B2) — laziness, staring into space & the mountain by the office
 **Practiced:** Casual chat (~9 exchanges) — a heavy but manageable workload, wasting time getting ready for work, staring at a huge forest mountain next to the office and how it changes with each season
@@ -81,14 +89,6 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 **Practiced:** Warm-up (settled into the new house, cat still stressed from the move; special dinner — Yunnan Chinese food with his girlfriend), matched 3 idioms to sentences, then wrote 2 own sentences using *hit the sack* and *piece of cake*
 **Learned:** Five everyday idioms — **once in a blue moon** (very rarely), **under the weather** (feeling sick), **hit the sack** (go to bed), **piece of cake** (very easy), **cost an arm and a leg** (very expensive); idioms are **fixed phrases** — the words never change; bonus grammar — use the **-ing** form when an action is the **subject** (*"**Cooking** Pad Thai was a piece of cake"*)
 **Notes:** Outstanding — 6/6 idioms correct, perfect meaning both matching and self-made, and very natural real-life sentences ("I always hit the sack at 10 pm"). Only polish: "cat seem" → "cat **seems**" + "in **the** new house", "I **eated**" → "I **ate**" (irregular past), "**Cook** Pad Thai" → "**Cooking**" (-ing as subject), spelling "const" → "cost". **Streak reset — a 2-day gap (July 11–12) since Session 23; restarting at 1 day. 24 sessions.**
-
----
-
-### Session 23 — 2026-07-10
-**Topic:** Relative Clauses — who / which / that (B2 review)
-**Practiced:** Warm-up (house move 75%+, big cleaning this weekend then getting settled in; last workday, special dinner planned), joined 3 sentence pairs into one, filled 3 who/which/that blanks, then wrote 2 own sentences about a coworker and his cat
-**Learned:** Relative clauses join two short sentences into one smooth one — **who** (people), **which** (things), **that** (both); put the pronoun **right after** the noun it describes; the clause verb agrees with that noun (*a cat that interrupt**s***); bonus — **the same** needs *the*, **fewer** for countables (review)
-**Notes:** Outstanding — every relative clause correct on the first try (8/8), right pronoun in the right position, even the advanced comma structure "My girlfriend, who loves cooking, ...". Modal + base verb perfect all session (will help / will make) → bumped to 2/3. Polish only: "less thing" → "fewer things" (learned last session), "same" → "the same", spelling (always, interrupts, girlfriend). **5-day streak. 23 sessions.**
 
 ---
 

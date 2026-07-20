@@ -5,6 +5,31 @@ Claude does NOT read this file automatically — it is for your personal referen
 
 ---
 
+## Lesson 28: Idioms + the "-ing as subject" rule (B2)
+
+### Five more everyday idioms (fixed phrases — the words never change)
+| Idiom | Meaning | Example |
+|-------|---------|---------|
+| **once in a blue moon** | very rarely | "I eat fast food **once in a blue moon**." |
+| **under the weather** | feeling sick | "I stayed home — I was **under the weather**." |
+| **hit the sack** | go to bed | "I'm tired, I'll **hit the sack**." |
+| **piece of cake** | very easy | "The test was **a piece of cake**." |
+| **cost an arm and a leg** | very expensive | "That phone **cost an arm and a leg**." |
+
+⚠️ You can't swap the words: it's *hit the **sack*** (not "the bed") and *an **arm and a leg*** (not "a hand and a foot").
+
+### When an action is the SUBJECT, use -ing
+If the thing you're talking about (the subject) is an **action**, put it in the **-ing form** — never the plain base verb.
+
+> ❌ "**Cook** Pad Thai was a piece of cake."
+> ✅ "**Cooking** Pad Thai was a piece of cake."
+
+More examples: *"**Swimming** is good exercise."* · *"**Moving** house is stressful."* · *"**Learning** English takes time."*
+
+💡 This is the same rule you already use inside sentences: *"My girlfriend, who **loves cooking**"* and *"**Working** in an office is better."*
+
+---
+
 ## Lesson 27: Conditionals — the Two-Column Rule (B2 review)
 
 Two very useful "if" types. Each has **two halves**, and only **one** half carries the "if-tense" — keep each half in its own column.

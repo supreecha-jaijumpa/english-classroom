@@ -5,6 +5,14 @@ Claude does NOT read this file automatically — it is for your personal referen
 
 ---
 
+### Session 23 — 2026-07-10
+**Topic:** Relative Clauses — who / which / that (B2 review)
+**Practiced:** Warm-up (house move 75%+, big cleaning this weekend then getting settled in; last workday, special dinner planned), joined 3 sentence pairs into one, filled 3 who/which/that blanks, then wrote 2 own sentences about a coworker and his cat
+**Learned:** Relative clauses join two short sentences into one smooth one — **who** (people), **which** (things), **that** (both); put the pronoun **right after** the noun it describes; the clause verb agrees with that noun (*a cat that interrupt**s***); bonus — **the same** needs *the*, **fewer** for countables (review)
+**Notes:** Outstanding — every relative clause correct on the first try (8/8), right pronoun in the right position, even the advanced comma structure "My girlfriend, who loves cooking, ...". Modal + base verb perfect all session (will help / will make) → bumped to 2/3. Polish only: "less thing" → "fewer things" (learned last session), "same" → "the same", spelling (always, interrupts, girlfriend). **5-day streak. 23 sessions.**
+
+---
+
 ### Session 22 — 2026-07-09
 **Topic:** Conditionals — First & Second (B2)
 **Practiced:** Warm-up (moving a few things day by day, bedroom stuff today; optimized the classroom to use fewer tokens), completed 4 conditional gap-fills + wrote a free 2nd conditional, did a 2-sentence fix-it round, then wrote own 1st & 2nd conditionals

@@ -3,10 +3,10 @@
 *This file is the only home for session counts and streaks — other files link here instead of copying the numbers.*
 
 ## Total Sessions
-**32**
+**33**
 
 ## Current Streak
-**5 days** *(July 13–17; rebuilt after the July 11–12 gap)*
+**1 day** *(July 20; restarted after the July 18–19 gap — the July 13–17 run reached 5 days)*
 
 ## Best Streak Ever
 **17 days**
@@ -18,7 +18,7 @@
 |-----|-----|-----|-----|-----|-----|-----|
 | | ✓ 1 | ✓ 2 | 3 | 4 | 5 | ✓ 6 |
 | ✓ 7 | ✓ 8 | ✓ 9 | ✓ 10 | | | ✓ 13 |
-| ✓ 14 | ✓ 15 | ✓ 16 | ✓ 17 | | | |
+| ✓ 14 | ✓ 15 | ✓ 16 | ✓ 17 | | | ✓ 20 |
 
 ---
 
@@ -45,6 +45,8 @@
 - [x] 20 sessions completed (2026-07-07)
 - [x] 25 sessions completed (2026-07-14)
 - [x] 30 sessions completed (2026-07-16)
+- [x] 150 words learned (2026-07-17)
+- [ ] 35 sessions completed
 - [ ] 30-day streak
 - [ ] A1 stage complete
 - [ ] A2 stage complete

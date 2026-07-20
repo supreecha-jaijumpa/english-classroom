@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 153
+## Total Words Learned: 159
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,13 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**stuff** (uncountable) — things in general; never *stuffs* — "I have too **much stuff** in my new house."
+**clear out** — to remove everything you don't need from a place — "All I had to do was **clear out** the unused stuff."
+**go back / give back** — to return / to return something (*back* follows a verb, it is not a verb) — "I **went back** to my old house and **gave back** the keys." *(NOT "I backed")*
+**help (someone) + base verb** — no *to*, and only the first verb shows past — "I **helped the man pack** the stuff into his car."
+**exchange contact details** — to swap phone numbers or accounts with someone — "After that, we **exchanged contact details**."
+**in return** — as a fair trade for something you gave — "They could take the stuff if they helped me move the trash **in return**."
 
 **stare into space** — to look at nothing while lost in thought — "Sometimes I just **stare into space** and watch the mountain."
 **arty** — trying (a bit too hard) to look artistic; often sounds slightly negative → prefer **artistic** or **like a painting** — "That café is a bit **arty**."
@@ -73,22 +80,4 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 **get settled in** — become comfortable in a new place (idiom) — "Give me a week to get settled in."
 **a fresh start** — a new beginning (idiom) — "A new house feels like a fresh start."
 **hit the ground running** — start something with full energy right away (idiom) — "I want to hit the ground running in my new home."
-
-**from my point of view** — a phrase to introduce your opinion — "From my point of view, working in an office is better."
-**I see your point, but...** — a polite way to disagree after acknowledging the other person — "I see your point, but it depends on your commute."
-**it's worth (+ -ing)** — it is a good idea / valuable to do something — "If the office is close, it's worth going in."
-**commute** — the journey between home and work — "My commute takes only 15 minutes."
-
-**relative clause** — a part of a sentence that adds detail about a noun, joined with who/which/that/where — "The house **that** we rented is small."
-**whose** — a relative word showing possession (belongs to a person) — "My cousin, **whose** home I live in, is very kind."
-**at night** — during the night (fixed phrase, no *the*) — "My cat runs around at night."
-
-**move (into a house)** — to change the place where you live — "I'll move into the new house this weekend." *(NOT "migrate")*
-**sort (things)** — to organize items into groups — "I need to sort my things before the move."
-**conditional** — an "if... then..." sentence (if this, then that) — "Use a first conditional for real future plans: If I study, I will improve."
-
-**work as** — to have a job as something — "I work as a Front-End developer."
-**responsible for** — in charge of a task or duty — "I'm responsible for building the UI."
-**in charge of** — having control or responsibility for something — "She's in charge of the team."
-**deal with** — to handle or manage something — "I deal with customer problems every day."
 
