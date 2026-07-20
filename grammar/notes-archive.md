@@ -5,6 +5,27 @@ Claude does NOT read this file automatically — it is for your personal referen
 
 ---
 
+## Lesson 29: Comparatives & Superlatives (B2)
+
+Use a **comparative** to compare **two** things, a **superlative** for the **top of three or more**. Which form you use depends on the **length** of the word.
+
+| Word type | Comparative (2 things) | Superlative (3+) |
+|-----------|------------------------|------------------|
+| 1 syllable (big, fast) | **-er** → bigg**er** | **the -est** → the bigg**est** |
+| 2 syllables in **-y** (happy, easy) | drop y → **-ier** → happ**ier** | happ**iest** |
+| long words (delicious, difficult) | **more** + word → *more delicious* | **the most** + word |
+
+### Two must-remembers
+- Comparatives take **than**: "My new house is bigger **than** my old one."
+- Superlatives take **the**: "This is **the** biggest house I've lived in."
+
+### Irregulars (just memorize)
+good → **better** → the **best** · bad → **worse** → the **worst** · far → **farther / further** → the **farthest**
+
+⚠️ Don't mix them up: *big* → **biggest** (not "best" — that's for *good*). And never say "**more** happy" — happy is short and ends in -y → **happier**.
+
+---
+
 ## Lesson 28: Idioms + the "-ing as subject" rule (B2)
 
 ### Five more everyday idioms (fixed phrases — the words never change)

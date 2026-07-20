@@ -18,13 +18,13 @@
 
 ## What I Find Difficult
 
+- [ ] Third-person **-s** — the two halves pull opposite ways: *"my cat **stays**"* but *"he may **miss**"* (reopened Session 34 after slipping both directions in one chat)
 - [ ] Plural **-s** on countable nouns — "random **things**", "characters" (add -s when more than one)
 - [ ] ...but **not** on uncountable or irregular nouns — "too **much stuff**" (never *stuffs*), "his **children**" (never *childrens*)
 - [ ] No -s after a modal — "he will **help**" not "he will **helps**" (base verb after will/would/can)
 - [ ] No *is* before a modal — "It **may** take" not "It's may take" (flip side of the "to be" rule)
 - [ ] Recurring: dropping the "to be" verb ("**I'm** looking", "the move **is** ongoing")
 - [ ] Plural subject → *were* not *was* — "they **were** busy"
-- [ ] Reported speech backshift — step the tense back one level ("he said he **had** finished")
 - [ ] -ing after before / after / finish — "after **having** coffee", "finish **moving**"
 - [ ] Modal + **be** — "it **may be** good" (don't drop *be* after may/might/could)
 - [ ] Keeping the tense when switching active → passive — "will carry" → "**will be** carried" (tense stays, only structure changes)
@@ -57,7 +57,9 @@
 - [x] Used new idioms correctly and naturally on the first try — all 3 in sentences + 2/2 fill-in blanks (Session 19)
 - [x] Grasped reported speech immediately — tense backshift correct on first try (2/3 exercise + flawless will→would in a free sentence, Session 20)
 - [x] Passive voice structure (be + V3) correct in every sentence from the first try, and a perfect 2/2 tense-matching round after one explanation (Session 21)
-- [x] Third-person -s (he/she/it + verb-s) — MASTERED in Session 27 after a dedicated drill (was the longest-running weak spot)
+- [x] Third-person -s (he/she/it + verb-s) — mastered in Session 27 after a dedicated drill; *reopened Session 34 — the rule is active but not yet automatic in fast conversation*
+- [x] Telling a personal story with real warmth and detail — the rescue-cat story in Session 34 held meaning clearly from start to finish
+- [x] Reusing new grammar spontaneously — correct **"used to"** in three separate sessions after learning it (29, 30, 34)
 - [x] Grasped the Present Perfect (has/have + V3) immediately — 5/5 perfect gap-fills incl. irregulars & question form, "have just finished" flawless (Session 27)
 
 ## My Learning Preferences

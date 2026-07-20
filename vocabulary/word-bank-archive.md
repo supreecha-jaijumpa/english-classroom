@@ -5,6 +5,13 @@ Claude does NOT read this file automatically — only `/quiz` samples a small sl
 
 ---
 
+**another (+ time period)** — one more period of time — "It may take **another** 2 weeks." *(NOT "more 2 weeks")*
+**up in the air** — not decided yet, uncertain (idiom) — "My moving date is still up in the air."
+**little by little** — slowly, in small steps (idiom) — "I'm packing little by little."
+**get settled in** — become comfortable in a new place (idiom) — "Give me a week to get settled in."
+**a fresh start** — a new beginning (idiom) — "A new house feels like a fresh start."
+**hit the ground running** — start something with full energy right away (idiom) — "I want to hit the ground running in my new home."
+
 **from my point of view** — a phrase to introduce your opinion — "From my point of view, working in an office is better."
 **I see your point, but...** — a polite way to disagree after acknowledging the other person — "I see your point, but it depends on your commute."
 **it's worth (+ -ing)** — it is a good idea / valuable to do something — "If the office is close, it's worth going in."

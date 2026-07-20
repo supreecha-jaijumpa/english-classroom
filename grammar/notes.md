@@ -4,6 +4,40 @@ Simple grammar rules, explained in plain language. Newest lessons go at the **to
 
 ---
 
+## Lesson 34: The -s Rule vs. the Modal Rule (B2)
+
+Two rules that pull in opposite directions. Learn them as a **pair**.
+
+### Rule 1 — he / she / it takes **-s**
+Present tense, singular subject → add **-s**:
+
+| Subject | Verb |
+|---------|------|
+| my cat | stay**s** |
+| he | goe**s** |
+| the word | mean**s** |
+| that pattern | match**es** |
+
+*"Every morning he **calls** me to open the door."*
+
+### Rule 2 — after a modal, go back to **base form**
+After **may / might / will / can / could / should**, the verb drops the -s:
+
+- ❌ he may **misses** → ✅ he may **miss**
+- ❌ he will **calls** → ✅ he will **call**
+
+💡 Think of it as: **the modal takes the -s duty**, so the next verb relaxes. Only **one** word in the pair carries the grammar.
+
+### Bonus: **may have + past participle** = past probability
+Use it when you think something *probably* happened, but you're not sure:
+
+- *"He **may have missed** the old house."* (= maybe he missed it)
+- *"She **might have forgotten**."*
+
+Same shape as *may/might* + **have** + V3 — and remember, after *have* the verb never takes -s either.
+
+---
+
 ## Lesson 33: Telling a Story in the Past (B1/B2)
 
 A good story has **three parts**.
@@ -113,30 +147,9 @@ send → **sent** · see → **seen** · become → **become** · have → **had
 
 ---
 
-## Lesson 29: Comparatives & Superlatives (B2)
-
-Use a **comparative** to compare **two** things, a **superlative** for the **top of three or more**. Which form you use depends on the **length** of the word.
-
-| Word type | Comparative (2 things) | Superlative (3+) |
-|-----------|------------------------|------------------|
-| 1 syllable (big, fast) | **-er** → bigg**er** | **the -est** → the bigg**est** |
-| 2 syllables in **-y** (happy, easy) | drop y → **-ier** → happ**ier** | happ**iest** |
-| long words (delicious, difficult) | **more** + word → *more delicious* | **the most** + word |
-
-### Two must-remembers
-- Comparatives take **than**: "My new house is bigger **than** my old one."
-- Superlatives take **the**: "This is **the** biggest house I've lived in."
-
-### Irregulars (just memorize)
-good → **better** → the **best** · bad → **worse** → the **worst** · far → **farther / further** → the **farthest**
-
-⚠️ Don't mix them up: *big* → **biggest** (not "best" — that's for *good*). And never say "**more** happy" — happy is short and ends in -y → **happier**.
-
----
-
 ## Archived Topics (full lessons in notes-archive.md)
 
-1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2) · 23 Giving & Defending Opinions — Debate Language (B2) · 24 Idioms & the "-ing after a preposition" rule (B2) · 25 Reported Speech (B2) · 26 Passive Voice (B2) · 27 Conditionals — the Two-Column Rule (B2 review) · 28 Idioms + the "-ing as subject" rule (B2)
+1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2) · 23 Giving & Defending Opinions — Debate Language (B2) · 24 Idioms & the "-ing after a preposition" rule (B2) · 25 Reported Speech (B2) · 26 Passive Voice (B2) · 27 Conditionals — the Two-Column Rule (B2 review) · 28 Idioms + the "-ing as subject" rule (B2) · 29 Comparatives & Superlatives (B2)
 
 ---
 

@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 34 — 2026-07-20
+**Topic:** Free conversation practice (B2) — the empty old house & Point the rescue cat
+**Practiced:** Casual chat (~10 exchanges) — the old house now empty, moving out of his parents' place, adopting a stray cat that was going to be culled, the name "Point" (a Thai word for his cat's pattern), the daily let-him-out / let-him-in routine, and the rat/lizard/snake "presents"
+**Learned/reinforced:** **adopt** a cat (≠ *pet*, which is the verb for stroking); **rescue / rescue cat**; **stray**; **name someone after something**; **let him out / let him in**; **act weird**; **may have + past participle** (past probability); passive *"they were going to be killed"*; *this evening* (not *today evening*); *moved out of my parents' house* (not *separated with*)
+**Notes:** Warm, story-rich chat — he reused **used to** correctly for the third session running. The session's real pattern was the **third-person -s**: dropped 4× in one message (*stay, go, mean, match*), then **over-applied** it after modals in the very next message (*may misses, may loves, will calls*) — the same over-correction shape as last session's *stuffs/childrens*, so the rule is clearly active, just not yet automatic. Second session today. **1-day streak. 34 sessions.**
+
+---
+
 ### Session 33 — 2026-07-20
 **Topic:** Storytelling — telling a story in the past (B1/B2)
 **Practiced:** Warm-up (went back to clean the old house, mountain green & sky clear), learned the 3-part story shape + order words, then wrote a 9-line story about giving his unused things away on social media in exchange for help moving the trash; 3 fix-the-sentence drills
@@ -81,14 +89,6 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 **Practiced:** Warm-up (cat has settled into the new house and seems happier; played one match of Mobile Legends before studying), 5 gap-fills choosing -er/-est vs more/most, then wrote 2 own sentences — a comparative (new vs old house) and a superlative
 **Learned:** The **length** of the word decides the form — short words + **-er / the -est** (big→bigger→the biggest), 2-syllable **-y** words → **-ier** (happy→happier), long words → **more / the most** (more delicious); comparatives take **than**, superlatives take **the**; irregulars good→better→best, bad→worse→worst
 **Notes:** Strong — 6/7 correct across both rounds; "My new house is bigger than my old one" was flawless. Only slip: used *best* for the superlative of *big* (should be *the biggest*) — mixed it up with good→best. Polish: "cat seem more happy" → "**seems happier**" (third-person -s + comparative), "video game **name**" → "**named/called**", spelling "delicious". **2-day streak. 25 sessions.**
-
----
-
-### Session 24 — 2026-07-13
-**Topic:** Common Idioms (B2)
-**Practiced:** Warm-up (settled into the new house, cat still stressed from the move; special dinner — Yunnan Chinese food with his girlfriend), matched 3 idioms to sentences, then wrote 2 own sentences using *hit the sack* and *piece of cake*
-**Learned:** Five everyday idioms — **once in a blue moon** (very rarely), **under the weather** (feeling sick), **hit the sack** (go to bed), **piece of cake** (very easy), **cost an arm and a leg** (very expensive); idioms are **fixed phrases** — the words never change; bonus grammar — use the **-ing** form when an action is the **subject** (*"**Cooking** Pad Thai was a piece of cake"*)
-**Notes:** Outstanding — 6/6 idioms correct, perfect meaning both matching and self-made, and very natural real-life sentences ("I always hit the sack at 10 pm"). Only polish: "cat seem" → "cat **seems**" + "in **the** new house", "I **eated**" → "I **ate**" (irregular past), "**Cook** Pad Thai" → "**Cooking**" (-ing as subject), spelling "const" → "cost". **Streak reset — a 2-day gap (July 11–12) since Session 23; restarting at 1 day. 24 sessions.**
 
 ---
 

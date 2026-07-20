@@ -3,7 +3,7 @@
 *This file is the only home for session counts and streaks — other files link here instead of copying the numbers.*
 
 ## Total Sessions
-**33**
+**34**
 
 ## Current Streak
 **1 day** *(July 20; restarted after the July 18–19 gap — the July 13–17 run reached 5 days)*

@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 159
+## Total Words Learned: 166
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,14 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**adopt (a pet)** — to take an animal home and keep it as your own; **pet** as a *verb* means to stroke it — "We **adopted** a cat." *(NOT "we petted a cat" for this meaning)*
+**rescue / a rescue cat** — to save an animal from danger / an animal saved from the street or a shelter — "We **rescued** him from the street — he's a **rescue cat**."
+**stray (cat/dog)** — an animal with no home, living on the street — "He was a **stray cat** before we took him in."
+**name (someone) after (something)** — to give someone a name taken from something or someone else — "We **named him after** the pattern on his fur."
+**let (someone) out / let (someone) in** — to open the door so they can leave / enter — "Every morning he asks me to **let him out**, and I **let him in** when I get home."
+**act weird / act strange** — to behave in an unusual way — "For the first three days he **was acting weird** in the new house."
+**may have + past participle** — maybe it happened in the past (past probability) — "He **may have missed** the old house."
 
 **stuff** (uncountable) — things in general; never *stuffs* — "I have too **much stuff** in my new house."
 **clear out** — to remove everything you don't need from a place — "All I had to do was **clear out** the unused stuff."
@@ -73,11 +81,4 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 **reported speech** — retelling what someone said, with the tense stepped one step back — "She said (that) she was tired." (from "I am tired")
 **tell (someone) vs say** — *tell* needs a person after it, *say* does not — "She **told me** that..." / "She **said** that..."
-**another (+ time period)** — one more period of time — "It may take **another** 2 weeks." *(NOT "more 2 weeks")*
-
-**up in the air** — not decided yet, uncertain (idiom) — "My moving date is still up in the air."
-**little by little** — slowly, in small steps (idiom) — "I'm packing little by little."
-**get settled in** — become comfortable in a new place (idiom) — "Give me a week to get settled in."
-**a fresh start** — a new beginning (idiom) — "A new house feels like a fresh start."
-**hit the ground running** — start something with full energy right away (idiom) — "I want to hit the ground running in my new home."
 

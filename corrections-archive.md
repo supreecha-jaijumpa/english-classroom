@@ -7,6 +7,16 @@ Claude does NOT read this file automatically — only `/quiz` samples a small sl
 
 ## 🔄 Rotated Out (still unmastered — parked to keep the Active list at ~10)
 
+> ❌ Wrong: *"He **is cleans** the house"* (two verbs together)
+> ✅ Right: *"He **cleans** the house"*
+> 💡 Why: A sentence has **one** main verb. If there's already an action verb (*clean, work, run*), do **not** add *be*. For he/she/it, just add **-s**: *he clean**s***, *she work**s***. (Add *be* only when the sentence has no verb, or before an -ing word.)
+> 📊 Was 0/3 — parked 2026-07-20 (Session 34); the reopened third-person -s entry now covers the -s half.
+
+> ❌ Wrong: *"He said he **has finished**"* (reported speech)
+> ✅ Right: *"He said he **had finished**"*
+> 💡 Why: In reported speech the tense steps **one level back**. Present perfect (*have/has finished*) steps back to past perfect: **had finished**. Also: was→had been, will→would, can→could.
+> 📊 Was 0/3 — parked 2026-07-20 (Session 34) to make room for the reopened third-person -s entry; not seen since Session 21.
+
 > ❌ Wrong: *"It may take **more 2 weeks**"*
 > ✅ Right: *"It may take **another 2 weeks**"* (or *"2 more weeks"*)
 > 💡 Why: For one more period of time, use **another** + time: *another 2 weeks, another hour*. Don't say "more 2" — if you use *more*, the number comes first: *2 more weeks*.
