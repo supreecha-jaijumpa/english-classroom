@@ -5,6 +5,21 @@ Claude does NOT read this file automatically — it is for your personal referen
 
 ---
 
+## Week of 2026-07-14 — B2 grammar polish + storytelling (Sessions 25–34, moved 2026-07-21)
+
+- Session 25 (07-14, Mon): Comparatives & Superlatives. 6/7; only slip "best" → "the biggest". 135 words.
+- Session 26 (07-14, Tue): Third-person -s weakest-area drill + while/during + arrive at/in. 14 correct -s uses in a row. 2nd session today.
+- Session 27 (07-15, Wed): Present Perfect (has/have + V3). 5/5 gap-fills incl. irregulars & questions; **third-person -s reached 3/3 → mastered & archived**. 140 words.
+- Session 28 (07-15, Wed): Free conversation — morning routine & ROAT project. Dropped small words (am/for/at/a); modal slip kept at 2/3. 2nd session. 142 words.
+- Session 29 (07-16, Thu): `used to` — past habits. All forms first try incl. question form. Slips: leaved→left, not came→didn't come. 146 words.
+- Session 30 (07-16, Thu): Free conversation — hobbies (drawing/games). Missing plural -s (thing→things, Character→characters). 2nd session. 148 words.
+- Session 31 (07-17, Fri): Quantifiers much/many/a lot of. 5/5 gap-fills; plural -s → 1/3. 151 words.
+- Session 32 (07-17, Fri): Free conversation — laziness & the mountain. Third-person -s dropped 3× but self-corrected → kept archived. 2nd session. 153 words.
+- Session 33 (07-20, Sun): Storytelling in the past. Best writing yet — every irregular past correct → irregular-past 1/3; plural -s → 2/3. Over-applying plural -s found. Streak restarted after 07-18/19 gap. 159 words.
+- Session 34 (07-20, Sun): Free conversation — the old house & Point the rescue cat. **Third-person -s reopened** (dropped 4×, over-applied 3× after modals); may have + V3. 2nd session. 166 words.
+
+---
+
 ## Week of 2026-07-06 — B2 core (Sessions 19–24, moved 2026-07-14)
 
 - Session 19 (07-06, Mon): Idioms & Common Expressions (B2). All 3 idioms used correctly and naturally first try (up in the air / little by little / hit the ground running); both fill-ins right. Recurring "to be" drop twice ("I looking" → "I'm looking"). Streak broke — July 3–5 gap; restarted at 1 day. 5/5 vocab target hit (115 words).

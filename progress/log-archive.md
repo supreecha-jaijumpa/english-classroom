@@ -5,6 +5,22 @@ Claude does NOT read this file automatically — it is for your personal referen
 
 ---
 
+### Session 26 — 2026-07-14
+**Topic:** Third-person -s (weakest-area drill) + while/during + arrive at/in (B2 practice)
+**Practiced:** Free practice aimed at the weakest active mistake — 6 gap-fills, 3 own he/she/it sentences, then a mixed while/during + arrive at/in round
+**Learned:** He/She/It → add **-s** (cat seem**s**, she play**s**); I/you/we/they stay plain; **while** + subject-verb vs **during** + noun; **arrive at** a place / **arrive in** a city
+**Notes:** Big win on the weakest area — 14 correct -s uses in a row across gap-fills AND free sentences ("my coworker **plays** a video game while I study", "girlfriend **sings**"). Polish only: "during I'm driving" → "**while** I'm driving", "arrives the office" → "arrives **at** the office", spelling (sleeps, girlfriend, always). Second session today. **2-day streak. 26 sessions.**
+
+---
+
+### Session 25 — 2026-07-14
+**Topic:** Comparatives & Superlatives (B2)
+**Practiced:** Warm-up (cat has settled into the new house and seems happier; played one match of Mobile Legends before studying), 5 gap-fills choosing -er/-est vs more/most, then wrote 2 own sentences — a comparative (new vs old house) and a superlative
+**Learned:** The **length** of the word decides the form — short words + **-er / the -est** (big→bigger→the biggest), 2-syllable **-y** words → **-ier** (happy→happier), long words → **more / the most** (more delicious); comparatives take **than**, superlatives take **the**; irregulars good→better→best, bad→worse→worst
+**Notes:** Strong — 6/7 correct across both rounds; "My new house is bigger than my old one" was flawless. Only slip: used *best* for the superlative of *big* (should be *the biggest*) — mixed it up with good→best. Polish: "cat seem more happy" → "**seems happier**" (third-person -s + comparative), "video game **name**" → "**named/called**", spelling "delicious". **2-day streak. 25 sessions.**
+
+---
+
 ### Session 24 — 2026-07-13
 **Topic:** Common Idioms (B2)
 **Practiced:** Warm-up (settled into the new house, cat still stressed from the move; special dinner — Yunnan Chinese food with his girlfriend), matched 3 idioms to sentences, then wrote 2 own sentences using *hit the sack* and *piece of cake*

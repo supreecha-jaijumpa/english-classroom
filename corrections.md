@@ -19,7 +19,7 @@ This file holds **Active Mistakes only, max ~10** — sessions read just this se
 > ❌ Wrong: *"my cat **stay** with me"* / *"the word **mean**"* / but also *"he may **misses**"*
 > ✅ Right: *"my cat **stays** with me"* / *"the word **means**"* / *"he may **miss**"*
 > 💡 Why: **Two halves of one rule.** (1) With **he / she / it** or a singular noun (*my cat, the word, that pattern*), the present-tense verb takes **-s**: *stay**s**, goe**s**, mean**s**, match**es***. (2) But after a **modal** (*may / will / can / should*) the verb goes back to **base form** — the modal already carries the grammar: *he may **miss***, *he will **call***. Habit → *"Every morning he **calls** me."* Modal → *"He will **call** me."*
-> 📊 Correct uses: 0/3 *(Reopened in Session 34 — mastered in Session 27, but slipped in Sessions 32 and 34. Session 34: dropped 4× (stay, go, mean, match), then over-applied 3× after modals in the next message. Session 32: dropped 3× but self-corrected immediately.)*
+> 📊 Correct uses: 1/3 *(Session 36: mixed in free chat — correct in "he **pushes** me away", "**doesn't** sleep/like", but dropped in "he **lay**"→lies and "he still **need**"→needs; kept at 1/3, no clean bump. Session 35: strong recovery — "doesn't" ✅ + 4/5 on the drill + both self-made sentences correct across both halves. Reopened in Session 34: dropped 4×, then over-applied after modals. Session 32: dropped 3× but self-corrected immediately.)*
 
 > ❌ Wrong: *"unused **stuffs**"* / *"his **childrens**"* / *"too **many** stuff"*
 > ✅ Right: *"unused **stuff**"* / *"his **children**"* / *"too **much** stuff"*

@@ -12,6 +12,22 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 36 — 2026-07-21
+**Topic:** Free conversation practice (B2) — Point the cat: sleeping spot & cuddles
+**Practiced:** Short casual chat (~5 exchanges) — Point now fully settled, why he sleeps *outside* the bedroom door instead of inside, his guess about it (wants undisturbed sleep but still close), and Point pushing him away when he tries to cuddle
+**Learned/reinforced:** **"It seems like"** (not *it's seem*); **lie vs lay** (*he lies outside the door*); **"let me guess"** (no 's); **"without anyone annoying him"** (*without* = one word, *anyone* not *who*); **"that's why"**; **"It's like he's saying '…'"** (putting words in someone's mouth)
+**Notes:** Short but very natural, idiomatic chat — clean present perfect (*"he hasn't brought me anything yet"*) and a lovely trailing ellipsis (*"I really don't need him to"*). Third-person **-s** was mixed: dropped in *he lay / he still need*, but correct in *he pushes me away* and *doesn't sleep / doesn't like*. Second session today. **2-day streak. 36 sessions.**
+
+---
+
+### Session 35 — 2026-07-21
+**Topic:** Third-person -s — locking in both halves (B2 drill)
+**Practiced:** Warm-up (Point settling into the new house & the freedom of his own place), a 5-item choose-the-verb drill, then 2 self-made sentences — one habit, one modal
+**Learned/reinforced:** **habit/fact → add -s** (Point wait**s**, the house feel**s**); **after a modal → base verb** (he may **bring**, he will **miss**); **yet → present perfect** (*"he hasn't brought anything yet"*, not *doesn't bring*); adjective goes **after** the action (*walk around **naked***); *wanna* = informal *want to*
+**Notes:** Strong recovery on his weakest area — got "doesn't" right in the warm-up, 4/5 on the drill, and **both self-made sentences perfect, each hitting one half of the rule unprompted** (*Point calls me* / *he might call me*). Only slip: *will misses* → *will miss* (the modal half). Third-person -s bumped 0/3 → 1/3. No new vocab (grammar-focus session). **2-day streak. 35 sessions.**
+
+---
+
 ### Session 34 — 2026-07-20
 **Topic:** Free conversation practice (B2) — the empty old house & Point the rescue cat
 **Practiced:** Casual chat (~10 exchanges) — the old house now empty, moving out of his parents' place, adopting a stray cat that was going to be culled, the name "Point" (a Thai word for his cat's pattern), the daily let-him-out / let-him-in routine, and the rat/lizard/snake "presents"
@@ -73,22 +89,6 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 **Practiced:** Warm-up (cat has settled in but is back to giving him headaches; a hard workday close to a deadline with a PM complaint), 5 gap-fills building has/have + V3, then own present-perfect sentences and a before/after + -ing round
 **Learned:** **has/have + past participle (V3)** for a past action **connected to now** (*"the cat **has settled** in"*); it/he/she → **has**, I/you/we/they → **have**; irregular participles (send→**sent**, see→**seen**, become→**become**, have→**had**); word order (*"has **already** sent"* / *"haven't finished **yet**"*); questions flip (*"**Have you seen**...?"*)
 **Notes:** Excellent — 5/5 perfect on gap-fills incl. irregulars and question form, and "I have just finished the work" was flawless present perfect. Mastered **before/after + -ing** ("After finishing work..."). Polish: "have headached" → "**have had a headache**" (headache = noun), "makes me headache" → "**gives** me a headache", "before study English" → "before **studying English**", tense match (finished today → *studied*). Third clean third-person -s ("cat that always **makes**") → that mistake is now **mastered & archived**! **3-day streak. 27 sessions.**
-
----
-
-### Session 26 — 2026-07-14
-**Topic:** Third-person -s (weakest-area drill) + while/during + arrive at/in (B2 practice)
-**Practiced:** Free practice aimed at the weakest active mistake — 6 gap-fills, 3 own he/she/it sentences, then a mixed while/during + arrive at/in round
-**Learned:** He/She/It → add **-s** (cat seem**s**, she play**s**); I/you/we/they stay plain; **while** + subject-verb vs **during** + noun; **arrive at** a place / **arrive in** a city
-**Notes:** Big win on the weakest area — 14 correct -s uses in a row across gap-fills AND free sentences ("my coworker **plays** a video game while I study", "girlfriend **sings**"). Polish only: "during I'm driving" → "**while** I'm driving", "arrives the office" → "arrives **at** the office", spelling (sleeps, girlfriend, always). Second session today. **2-day streak. 26 sessions.**
-
----
-
-### Session 25 — 2026-07-14
-**Topic:** Comparatives & Superlatives (B2)
-**Practiced:** Warm-up (cat has settled into the new house and seems happier; played one match of Mobile Legends before studying), 5 gap-fills choosing -er/-est vs more/most, then wrote 2 own sentences — a comparative (new vs old house) and a superlative
-**Learned:** The **length** of the word decides the form — short words + **-er / the -est** (big→bigger→the biggest), 2-syllable **-y** words → **-ier** (happy→happier), long words → **more / the most** (more delicious); comparatives take **than**, superlatives take **the**; irregulars good→better→best, bad→worse→worst
-**Notes:** Strong — 6/7 correct across both rounds; "My new house is bigger than my old one" was flawless. Only slip: used *best* for the superlative of *big* (should be *the biggest*) — mixed it up with good→best. Polish: "cat seem more happy" → "**seems happier**" (third-person -s + comparative), "video game **name**" → "**named/called**", spelling "delicious". **2-day streak. 25 sessions.**
 
 ---
 
