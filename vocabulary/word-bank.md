@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 166
+## Total Words Learned: 167
 
 *(This is the only place the word count lives.)*
 
@@ -18,6 +18,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 *(Newest at the top)*
 
+**couch potato** (idiom) — someone (or a pet) who just lies around doing nothing — "On rainy days Point becomes a **couch potato**."
 **adopt (a pet)** — to take an animal home and keep it as your own; **pet** as a *verb* means to stroke it — "We **adopted** a cat." *(NOT "we petted a cat" for this meaning)*
 **rescue / a rescue cat** — to save an animal from danger / an animal saved from the street or a shelter — "We **rescued** him from the street — he's a **rescue cat**."
 **stray (cat/dog)** — an animal with no home, living on the street — "He was a **stray cat** before we took him in."

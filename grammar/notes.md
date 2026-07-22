@@ -4,6 +4,24 @@ Simple grammar rules, explained in plain language. Newest lessons go at the **to
 
 ---
 
+## Lesson 35: Causative **make / let** + base verb (B1/B2)
+
+After **make** and **let**, the next verb goes back to its **base form** — no *to*, no *-s*, no *doesn't*.
+
+| Structure | Example |
+|-----------|---------|
+| **make** someone + base verb | The rain **made Point stay** inside. |
+| **let** someone + base verb | I **let Point go** outside. |
+
+### The three traps
+- ❌ *let me **to** go* → ✅ **let me go** (no *to* — the verb comes straight after the person)
+- ❌ *makes me **feels*** → ✅ **makes me feel** (the second verb stays base, even when *makes* has its own -s)
+- ❌ *made Point **doesn't feel*** → ✅ **made Point not feel** (for a negative, just add **not** before the base verb)
+
+💡 **Why:** *make/let* already carry the meaning, so the second verb relaxes: **make him laugh**, **let her stay**, **make me cry**, **let it rain**.
+
+---
+
 ## Lesson 34: The -s Rule vs. the Modal Rule (B2)
 
 Two rules that pull in opposite directions. Learn them as a **pair**.
@@ -115,41 +133,9 @@ Use **`used to + base verb`** for something that was **true in the past but is N
 
 ---
 
-## Lesson 30: Present Perfect — has/have + past participle (B2)
-
-Use the **present perfect** for a past action that is **connected to now** — the result is still true today.
-
-> *"The cat **has settled** in."* (→ and it's settled now) · *"I **have worked** hard this week."*
-
-### The formula
-> **has / have + past participle (V3)**
-
-| Subject | helper | example |
-|---------|--------|---------|
-| it / he / she | **has** | *it **has** settled* |
-| I / you / we / they | **have** | *I **have** finished* |
-
-### Present Perfect vs Past Simple
-| Past Simple — finished, a past time | Present Perfect — connected to now |
-|---|---|
-| The cat settled in **last week**. | The cat **has settled** in. |
-| I worked hard **yesterday**. | I **have worked** hard this week. |
-
-💡 If you name a finished time (*yesterday, last night*), use **past simple**: *"I **didn't sleep** well last night."*
-
-### Irregular past participles (just memorize)
-send → **sent** · see → **seen** · become → **become** · have → **had** · do → **done** · take → **taken**
-
-### Word order & questions
-- *already / just* go in the middle: *"has **already** sent"*, *"have **just** finished"*
-- *yet* goes at the end (negatives/questions): *"haven't finished **yet**"*
-- questions flip the helper: *"**Have you seen** the deadline?"*
-
----
-
 ## Archived Topics (full lessons in notes-archive.md)
 
-1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2) · 23 Giving & Defending Opinions — Debate Language (B2) · 24 Idioms & the "-ing after a preposition" rule (B2) · 25 Reported Speech (B2) · 26 Passive Voice (B2) · 27 Conditionals — the Two-Column Rule (B2 review) · 28 Idioms + the "-ing as subject" rule (B2) · 29 Comparatives & Superlatives (B2)
+1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2) · 23 Giving & Defending Opinions — Debate Language (B2) · 24 Idioms & the "-ing after a preposition" rule (B2) · 25 Reported Speech (B2) · 26 Passive Voice (B2) · 27 Conditionals — the Two-Column Rule (B2 review) · 28 Idioms + the "-ing as subject" rule (B2) · 29 Comparatives & Superlatives (B2) · 30 Present Perfect — has/have + past participle (B2)
 
 ---
 

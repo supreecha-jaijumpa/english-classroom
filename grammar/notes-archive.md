@@ -765,3 +765,35 @@ Tip: If the noun ends in **-s** (plural), use **"there are"**.
 - "There are many **tools**." → many tools
 
 ---
+
+## Lesson 30: Present Perfect — has/have + past participle (B2)
+
+Use the **present perfect** for a past action that is **connected to now** — the result is still true today.
+
+> *"The cat **has settled** in."* (→ and it's settled now) · *"I **have worked** hard this week."*
+
+### The formula
+> **has / have + past participle (V3)**
+
+| Subject | helper | example |
+|---------|--------|---------|
+| it / he / she | **has** | *it **has** settled* |
+| I / you / we / they | **have** | *I **have** finished* |
+
+### Present Perfect vs Past Simple
+| Past Simple — finished, a past time | Present Perfect — connected to now |
+|---|---|
+| The cat settled in **last week**. | The cat **has settled** in. |
+| I worked hard **yesterday**. | I **have worked** hard this week. |
+
+💡 If you name a finished time (*yesterday, last night*), use **past simple**: *"I **didn't sleep** well last night."*
+
+### Irregular past participles (just memorize)
+send → **sent** · see → **seen** · become → **become** · have → **had** · do → **done** · take → **taken**
+
+### Word order & questions
+- *already / just* go in the middle: *"has **already** sent"*, *"have **just** finished"*
+- *yet* goes at the end (negatives/questions): *"haven't finished **yet**"*
+- questions flip the helper: *"**Have you seen** the deadline?"*
+
+---

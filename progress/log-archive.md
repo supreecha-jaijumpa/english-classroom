@@ -5,6 +5,22 @@ Claude does NOT read this file automatically — it is for your personal referen
 
 ---
 
+### Session 28 — 2026-07-15
+**Topic:** Free conversation practice (B2) — morning routine & work / ROAT project
+**Practiced:** Casual chat (~10 exchanges) — a runaway cat & a headache, flexible work hours, the morning coffee-and-chill routine, studying English at work, being a Front-End developer, and the ROAT rubber-marketplace app + its automatic stock feature
+**Learned/reinforced:** after/before/finish + **-ing** (*having, getting*); **"gives me a headache"** (headache = noun); **wait for** someone; **arrive at** a place; present continuous needs **am/is/are** (*"I'm building"*); passive **"is built to connect"**; **"a lot"** (two words); *relax* / *take a break* (verb, not noun)
+**Notes:** Good flowing conversation — meaning was clear throughout. Main slips were dropped small words (*am, for, at, a*) and a missing **-ing** after *after/finish*. "will cutoffs and fills" repeated the modal + base-form error (kept at 2/3, not advanced). Second session today. **3-day streak. 28 sessions.**
+
+---
+
+### Session 27 — 2026-07-15
+**Topic:** Present Perfect — has/have + past participle (B2)
+**Practiced:** Warm-up (cat has settled in but is back to giving him headaches; a hard workday close to a deadline with a PM complaint), 5 gap-fills building has/have + V3, then own present-perfect sentences and a before/after + -ing round
+**Learned:** **has/have + past participle (V3)** for a past action **connected to now** (*"the cat **has settled** in"*); it/he/she → **has**, I/you/we/they → **have**; irregular participles (send→**sent**, see→**seen**, become→**become**, have→**had**); word order (*"has **already** sent"* / *"haven't finished **yet**"*); questions flip (*"**Have you seen**...?"*)
+**Notes:** Excellent — 5/5 perfect on gap-fills incl. irregulars and question form, and "I have just finished the work" was flawless present perfect. Mastered **before/after + -ing** ("After finishing work..."). Polish: "have headached" → "**have had a headache**" (headache = noun), "makes me headache" → "**gives** me a headache", "before study English" → "before **studying English**", tense match (finished today → *studied*). Third clean third-person -s ("cat that always **makes**") → that mistake is now **mastered & archived**! **3-day streak. 27 sessions.**
+
+---
+
 ### Session 26 — 2026-07-14
 **Topic:** Third-person -s (weakest-area drill) + while/during + arrive at/in (B2 practice)
 **Practiced:** Free practice aimed at the weakest active mistake — 6 gap-fills, 3 own he/she/it sentences, then a mixed while/during + arrive at/in round

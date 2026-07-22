@@ -12,6 +12,22 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 38 — 2026-07-22
+**Topic:** Free conversation practice (B2) — Point the cat on a rainy day & cat behavior
+**Practiced:** Short casual chat (~5 exchanges) — Point staying inside instead of going out because of the rain, both reasons combining to make him lazy, and how a cat loves you "on its own terms" (*"I love you, but keep away from me"*)
+**Learned/reinforced:** **a** before a singular countable noun (*a different thing*); **both reasons** (plural after *both*); spelling **together**; **couch potato** (idiom); **Point is always excited** (don't drop *is*); **I feel love** (no *the* for love in general)
+**Notes:** Warm, expressive chat — natural tag question (*"isn't it?"*) and a lovely idiomatic closing line. Third-person **-s** slipped once in *"he does whatever he want"* → **wants** (his challenge area, so no clean bump — kept at 2/3). Second session today. **3-day streak. 38 sessions.**
+
+---
+
+### Session 37 — 2026-07-22
+**Topic:** Causative **make / let + someone + base verb** (B1/B2)
+**Practiced:** Warm-up (Point staying in because of the rain; morning at the office), a 5-item fix-the-sentence drill, a 2-item re-try, and one self-made sentence
+**Learned:** **make/let + person + base verb** — no *to*, no *-s*, no *doesn't* (*let me go*, *made everyone stay*); **different** (adj) vs *difference* (noun); **tense agreement** across a sentence (*arrived → grabbed → started*); **he's still sleeping** needs *is* for a continuous action
+**Notes:** Strong session — **4/5 on the drill**, only slip was keeping *to* in *let me to go* (the single hardest part of this pattern). His self-made sentence *"I let Point go outside, but he really didn't want to"* was flawless, and *"Point makes me feel happy"* nailed the third-person -s **and** the base verb unprompted — his weakest area still improving. **3-day streak. 37 sessions.**
+
+---
+
 ### Session 36 — 2026-07-21
 **Topic:** Free conversation practice (B2) — Point the cat: sleeping spot & cuddles
 **Practiced:** Short casual chat (~5 exchanges) — Point now fully settled, why he sleeps *outside* the bedroom door instead of inside, his guess about it (wants undisturbed sleep but still close), and Point pushing him away when he tries to cuddle
@@ -73,22 +89,6 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 **Practiced:** Warm-up story (arrived an hour early, played MLBB; cat went out & was left outside), 3 gap-fills turning verbs into "past-but-not-now", then own `used to` sentences (spicy→bland food, cat used to be cute, gave up Julian)
 **Learned:** **used to + base verb** = true in the past, not now (*used to play/be*); negative **didn't use to**, question **Did you use to...?**; **every day** (2 words = daily) vs **everyday** (1 word = ordinary); **go for a walk** (not *have*); **bland** = opposite of spicy; **give it up** (object between)
 **Notes:** Great first-try grasp — all `used to` forms correct incl. the question form. Main slips were **irregular past** (*leaved*→**left**, *not came*→**didn't come**) and the recurring **a lot** spelled *alot*. Word order "an hour before" and plural "matches" also polished. **4-day streak. 29 sessions.**
-
----
-
-### Session 28 — 2026-07-15
-**Topic:** Free conversation practice (B2) — morning routine & work / ROAT project
-**Practiced:** Casual chat (~10 exchanges) — a runaway cat & a headache, flexible work hours, the morning coffee-and-chill routine, studying English at work, being a Front-End developer, and the ROAT rubber-marketplace app + its automatic stock feature
-**Learned/reinforced:** after/before/finish + **-ing** (*having, getting*); **"gives me a headache"** (headache = noun); **wait for** someone; **arrive at** a place; present continuous needs **am/is/are** (*"I'm building"*); passive **"is built to connect"**; **"a lot"** (two words); *relax* / *take a break* (verb, not noun)
-**Notes:** Good flowing conversation — meaning was clear throughout. Main slips were dropped small words (*am, for, at, a*) and a missing **-ing** after *after/finish*. "will cutoffs and fills" repeated the modal + base-form error (kept at 2/3, not advanced). Second session today. **3-day streak. 28 sessions.**
-
----
-
-### Session 27 — 2026-07-15
-**Topic:** Present Perfect — has/have + past participle (B2)
-**Practiced:** Warm-up (cat has settled in but is back to giving him headaches; a hard workday close to a deadline with a PM complaint), 5 gap-fills building has/have + V3, then own present-perfect sentences and a before/after + -ing round
-**Learned:** **has/have + past participle (V3)** for a past action **connected to now** (*"the cat **has settled** in"*); it/he/she → **has**, I/you/we/they → **have**; irregular participles (send→**sent**, see→**seen**, become→**become**, have→**had**); word order (*"has **already** sent"* / *"haven't finished **yet**"*); questions flip (*"**Have you seen**...?"*)
-**Notes:** Excellent — 5/5 perfect on gap-fills incl. irregulars and question form, and "I have just finished the work" was flawless present perfect. Mastered **before/after + -ing** ("After finishing work..."). Polish: "have headached" → "**have had a headache**" (headache = noun), "makes me headache" → "**gives** me a headache", "before study English" → "before **studying English**", tense match (finished today → *studied*). Third clean third-person -s ("cat that always **makes**") → that mistake is now **mastered & archived**! **3-day streak. 27 sessions.**
 
 ---
 
