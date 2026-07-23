@@ -5,6 +5,22 @@ Claude does NOT read this file automatically — it is for your personal referen
 
 ---
 
+### Session 30 — 2026-07-16
+**Topic:** Free conversation practice (B2) — hobbies: drawing & video games
+**Practiced:** Casual chat (~10 exchanges) — a chill day, ways to relax (games/drawing/sleep), doodling on real paper vs a screen, not drawing for work, MLBB with coworkers vs Expedition 33 solo at home
+**Learned/reinforced:** **doodle/doodling**; **sell yourself short**; base verb after *don't* (*don't **draw***) & *to* (*to keep going*); **I'd like** (would like) not *I'll like*; **doesn't** for singular "screen drawing"; present-tense habit (*I just **leave** them*); "used to" reused correctly again
+**Notes:** Nice flowing chat — meaning clear throughout, and a spontaneous, correct **"used to"** (last session's topic). Main recurring slip was **missing plural -s** (*thing→things* ×2, *Character→characters*) — added to corrections. Also *stated→started*, *Sometime→Sometimes*, *different vs difference*. Second session today. **4-day streak. 30 sessions.**
+
+---
+
+### Session 29 — 2026-07-16
+**Topic:** `used to` — past habits & states (B2)
+**Practiced:** Warm-up story (arrived an hour early, played MLBB; cat went out & was left outside), 3 gap-fills turning verbs into "past-but-not-now", then own `used to` sentences (spicy→bland food, cat used to be cute, gave up Julian)
+**Learned:** **used to + base verb** = true in the past, not now (*used to play/be*); negative **didn't use to**, question **Did you use to...?**; **every day** (2 words = daily) vs **everyday** (1 word = ordinary); **go for a walk** (not *have*); **bland** = opposite of spicy; **give it up** (object between)
+**Notes:** Great first-try grasp — all `used to` forms correct incl. the question form. Main slips were **irregular past** (*leaved*→**left**, *not came*→**didn't come**) and the recurring **a lot** spelled *alot*. Word order "an hour before" and plural "matches" also polished. **4-day streak. 29 sessions.**
+
+---
+
 ### Session 28 — 2026-07-15
 **Topic:** Free conversation practice (B2) — morning routine & work / ROAT project
 **Practiced:** Casual chat (~10 exchanges) — a runaway cat & a headache, flexible work hours, the morning coffee-and-chill routine, studying English at work, being a Front-End developer, and the ROAT rubber-marketplace app + its automatic stock feature

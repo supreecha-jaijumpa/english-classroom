@@ -19,7 +19,7 @@ This file holds **Active Mistakes only, max ~10** — sessions read just this se
 > ❌ Wrong: *"my cat **stay** with me"* / *"the word **mean**"* / but also *"he may **misses**"*
 > ✅ Right: *"my cat **stays** with me"* / *"the word **means**"* / *"he may **miss**"*
 > 💡 Why: **Two halves of one rule.** (1) With **he / she / it** or a singular noun (*my cat, the word, that pattern*), the present-tense verb takes **-s**: *stay**s**, goe**s**, mean**s**, match**es***. (2) But after a **modal** (*may / will / can / should*) the verb goes back to **base form** — the modal already carries the grammar: *he may **miss***, *he will **call***. Habit → *"Every morning he **calls** me."* Modal → *"He will **call** me."*
-> 📊 Correct uses: 2/3 *(Session 38: slipped in free chat — "he does whatever he **want**" → wants; no clean use this session, so held at 2/3. Session 37: clean bump — "Point **makes** me feel happy" nailed the -s AND the base verb unprompted, no -s slips all session. Session 36: mixed in free chat — correct in "he **pushes** me away", "**doesn't** sleep/like", but dropped in "he **lay**"→lies and "he still **need**"→needs; kept at 1/3, no clean bump. Session 35: strong recovery — "doesn't" ✅ + 4/5 on the drill + both self-made sentences correct across both halves. Reopened in Session 34: dropped 4×, then over-applied after modals.)*
+> 📊 Correct uses: 2/3 *(Session 39: slipped in the warm-up — "I'm not sure he **get** sick", "he always **closed** to me", "**called** me to pet him" → gets/comes/calls; held at 2/3. Session 38: slipped in free chat — "he does whatever he **want**" → wants; no clean use this session, so held at 2/3. Session 37: clean bump — "Point **makes** me feel happy" nailed the -s AND the base verb unprompted, no -s slips all session. Session 36: mixed in free chat — correct in "he **pushes** me away", "**doesn't** sleep/like", but dropped in "he **lay**"→lies and "he still **need**"→needs; kept at 1/3, no clean bump. Session 35: strong recovery — "doesn't" ✅ + 4/5 on the drill + both self-made sentences correct across both halves. Reopened in Session 34: dropped 4×, then over-applied after modals.)*
 
 > ❌ Wrong: *"unused **stuffs**"* / *"his **childrens**"* / *"too **many** stuff"*
 > ✅ Right: *"unused **stuff**"* / *"his **children**"* / *"too **much** stuff"*
@@ -39,17 +39,17 @@ This file holds **Active Mistakes only, max ~10** — sessions read just this se
 > ❌ Wrong: *"I eat spicy **alot**"*
 > ✅ Right: *"I eat spicy food **a lot**"*
 > 💡 Why: **a lot** is always **two words** — there is no word "alot". Use it to mean "much / often": *"I study **a lot**"*, *"Thanks **a lot**"*.
-> 📊 Correct uses: 0/3 *(Recurring across Sessions 28 and 29.)*
+> 📊 Correct uses: 0/3 *(Recurring across Sessions 28, 29, and 40 — Session 40: "a lot kind of vegetable" → **a lot of** different **kinds** of vegetables. **a lot** always needs **of** before a noun.)*
 
 > ❌ Wrong: *"after **have** coffee"* / *"I want to **finish move** the stuff"*
 > ✅ Right: *"after **having** coffee"* / *"I want to **finish moving** the stuff"*
 > 💡 Why: After **before / after / finish**, the next verb takes the **-ing** form: *after **having**, finish **moving**, before **studying***. You mastered it in Session 27 (*"After finishing work..."*) — it just slips in fast conversation.
-> 📊 Correct uses: 1/3 *(Practice July 7: "I finished **doing** the practice" ✅. Slipped in fast chat Session 28.)*
+> 📊 Correct uses: 1/3 *(Practice July 7: "I finished **doing** the practice" ✅. Slipped in fast chat Session 28. Session 40: "I'm not finishing new house cleaning yet" → **I haven't finished cleaning** the new house yet; held at 1/3.)*
 
 > ❌ Wrong: *"he will **helps** me carry the boxes"*
 > ✅ Right: *"he will **help** me carry the boxes"* (or *would help* in reported speech)
 > 💡 Why: After a modal (*will / would / can / could / may / should*), the verb is always the **base form** — never add -s, even for he/she/it. The modal carries the grammar: *he will **help***, *she can **swim***, *it may **take***. **Same rule after *help* and after *to*:** *"I **helped** the man **pack**"* (not *packed*), *"a box **to send** back"* (not *to sent*) — only the **first** verb shows tense.
-> 📊 Correct uses: 2/3 *(Session 22, July 9: "will relax/open/move", "would get/buy/have". Session 23, July 10: perfect again — "will help", "will make". Session 28: slipped. Session 33: "to sent"→to send and "helped me packed"→pack slipped, but he fixed "helped me carry" first try in the drill. **Session 34: slipped 3× in one message — "may misses", "may loves", "will calls" — right after being corrected for dropping the -s. Kept at 2/3; needs one clean session.**)*
+> 📊 Correct uses: 2/3 *(Session 22, July 9: "will relax/open/move", "would get/buy/have". Session 23, July 10: perfect again — "will help", "will make". Session 28: slipped. Session 33: "to sent"→to send and "helped me packed"→pack slipped, but he fixed "helped me carry" first try in the drill. Session 34: slipped 3× in one message — "may misses", "may loves", "will calls". **Session 40: "I wouldn't spent my free time" → **spend** — a past form after a modal this time; kept at 2/3, still needs one clean session.**)*
 
 > ❌ Wrong: *"**It's may take** another 2 weeks"*
 > ✅ Right: *"**It may take** another 2 weeks"*

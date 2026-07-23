@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 167
+## Total Words Learned: 175
 
 *(This is the only place the word count lives.)*
 
@@ -18,6 +18,15 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 *(Newest at the top)*
 
+**trim / cut back (a tree)** — to make a plant smaller, not remove it (*cut down* = remove the whole tree) — "I have to **trim the trees** before the weekend."
+**cut the grass / mow the lawn** — *grass* is **uncountable** — never *grasses* — "After I **cut the grass**, I'll start a garden."
+**vegetable garden / vegetable patch** — a small home place for growing food (*farm* sounds big and commercial) — "I'm planning to start a small **vegetable garden**." *(noun + noun → the first stays singular: a **vegetable** garden, a **shoe** shop)*
+**edible** — safe or possible to eat — there is no word *eatable* — "These leaves are **edible**." *(more natural: "you can eat them raw")*
+**stack (verb)** — to pile things on top of each other — "We **stacked** all our stuff in the living room."
+
+**runny** (adj) — liquid instead of solid (poop, nose, egg) — "Point's poop is **runny** today, so he might be sick."
+**based on** — using something as the reason or source — "I fixed the project **based on** the feedback I got."
+**hit a deadline** — to reach the day something must be finished — "My main task is going to **hit its deadline** this week."
 **couch potato** (idiom) — someone (or a pet) who just lies around doing nothing — "On rainy days Point becomes a **couch potato**."
 **adopt (a pet)** — to take an animal home and keep it as your own; **pet** as a *verb* means to stroke it — "We **adopted** a cat." *(NOT "we petted a cat" for this meaning)*
 **rescue / a rescue cat** — to save an animal from danger / an animal saved from the street or a shelter — "We **rescued** him from the street — he's a **rescue cat**."
@@ -71,15 +80,4 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 **the same (as)** — identical to something else — "I like **the same** games **as** my coworker." *(always needs "the")*
 **interrupt (interrupts)** — to stop someone in the middle of what they are doing — "My cat **interrupts** me while I'm sleeping." *(singular subject → interrupt**s**)*
 
-**first conditional** — a real/likely "if" situation — "If it **rains**, we **will stay** home." (If + present → will + base)
-**second conditional** — an imaginary "if" situation — "If I **had** more time, I **would learn** three languages." (If + past → would + base)
-**were (imaginary)** — *be* becomes *were* for all subjects in a 2nd conditional — "If I **were** single, I would have more savings."
-**fewer vs. less** — *fewer* for things you count, *less* for things you measure — "**fewer** tokens / boxes" but "**less** water / time"
-
-**passive voice** — a sentence style that focuses on what happened, not who did it — "The house **was cleaned**." (be + V3)
-**past participle (V3)** — the third form of a verb, used after *be/have* — "build → built → **built**", "take → took → **taken**"
-**by (+ doer)** — adds who did the action in a passive sentence, only when it matters — "The house was cleaned **by my cousin**."
-
-**reported speech** — retelling what someone said, with the tense stepped one step back — "She said (that) she was tired." (from "I am tired")
-**tell (someone) vs say** — *tell* needs a person after it, *say* does not — "She **told me** that..." / "She **said** that..."
 

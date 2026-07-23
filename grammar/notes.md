@@ -4,6 +4,25 @@ Simple grammar rules, explained in plain language. Newest lessons go at the **to
 
 ---
 
+## Lesson 36: **whether / if** — saying you don't know (B1/B2)
+
+When you don't know a yes/no answer, you can't just glue two sentences together. Use **whether** or **if** to join them.
+
+| ❌ Wrong | ✅ Right |
+|---|---|
+| I'm not sure *he is sick or not*. | I'm not sure **whether** he is sick **or not**. |
+| I don't know *she will come*. | I don't know **if** she will come. |
+| Can you check *is the shop open*? | Can you check **whether the shop is** open? |
+
+### Three rules
+1. **whether** and **if** both mean "yes or no, I don't know" — mostly interchangeable.
+2. **or not** pairs with **whether**, not *if*. ✅ *whether he's sick or not*
+3. ⭐ **Normal word order** — it is no longer a question: *I don't know whether he **is** sick* (not *~~whether is he sick~~*).
+
+💡 **Backshift:** after a past verb, the second verb usually goes past too — *He asked me if I **liked** the feedback.*
+
+---
+
 ## Lesson 35: Causative **make / let** + base verb (B1/B2)
 
 After **make** and **let**, the next verb goes back to its **base form** — no *to*, no *-s*, no *doesn't*.
@@ -107,35 +126,9 @@ How to say "a big amount." The word you choose depends on whether the noun is **
 
 ---
 
-## Lesson 31: `used to` — past habits & states (B2)
-
-Use **`used to + base verb`** for something that was **true in the past but is NOT true now**.
-
-> *"I **used to play** MLBB every day."* (→ but I stopped) · *"My cat **used to be** cute."* (→ now it's the opposite!)
-
-### The forms
-| | Structure | Example |
-|---|-----------|---------|
-| Positive | **used to** + base | *I **used to** live in Bangkok.* |
-| Negative | **didn't use to** + base *(drop the -d!)* | *I **didn't use to** like coffee.* |
-| Question | **Did you use to** + base? | ***Did you use to** play other games?* |
-
-💡 Always the **base verb** — never *used to played*.
-
-### Two meanings, two words that are NOT the same
-- **used to + base** = a past habit → *"I used to walk every evening."*
-- **be used to + -ing/noun** = be familiar with → *"I'm used to walking far."* (Different! We keep these separate for now.)
-
-### Bonus from this session
-- **every day** (2 words) = daily · **everyday** (1 word) = ordinary
-- **go for a walk / take a walk** (not *have a walk*)
-- **give it up** — put the object between: *gave **it** up*
-
----
-
 ## Archived Topics (full lessons in notes-archive.md)
 
-1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2) · 23 Giving & Defending Opinions — Debate Language (B2) · 24 Idioms & the "-ing after a preposition" rule (B2) · 25 Reported Speech (B2) · 26 Passive Voice (B2) · 27 Conditionals — the Two-Column Rule (B2 review) · 28 Idioms + the "-ing as subject" rule (B2) · 29 Comparatives & Superlatives (B2) · 30 Present Perfect — has/have + past participle (B2)
+1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2) · 23 Giving & Defending Opinions — Debate Language (B2) · 24 Idioms & the "-ing after a preposition" rule (B2) · 25 Reported Speech (B2) · 26 Passive Voice (B2) · 27 Conditionals — the Two-Column Rule (B2 review) · 28 Idioms + the "-ing as subject" rule (B2) · 29 Comparatives & Superlatives (B2) · 30 Present Perfect — has/have + past participle (B2) · 31 `used to` — past habits & states (B2)
 
 ---
 

@@ -5,6 +5,32 @@ Claude does NOT read this file automatically — it is for your personal referen
 
 ---
 
+## Lesson 31: `used to` — past habits & states (B2)
+
+Use **`used to + base verb`** for something that was **true in the past but is NOT true now**.
+
+> *"I **used to play** MLBB every day."* (→ but I stopped) · *"My cat **used to be** cute."* (→ now it's the opposite!)
+
+### The forms
+| | Structure | Example |
+|---|-----------|---------|
+| Positive | **used to** + base | *I **used to** live in Bangkok.* |
+| Negative | **didn't use to** + base *(drop the -d!)* | *I **didn't use to** like coffee.* |
+| Question | **Did you use to** + base? | ***Did you use to** play other games?* |
+
+💡 Always the **base verb** — never *used to played*.
+
+### Two meanings, two words that are NOT the same
+- **used to + base** = a past habit → *"I used to walk every evening."*
+- **be used to + -ing/noun** = be familiar with → *"I'm used to walking far."* (Different! We keep these separate for now.)
+
+### Bonus from this session
+- **every day** (2 words) = daily · **everyday** (1 word) = ordinary
+- **go for a walk / take a walk** (not *have a walk*)
+- **give it up** — put the object between: *gave **it** up*
+
+---
+
 ## Lesson 29: Comparatives & Superlatives (B2)
 
 Use a **comparative** to compare **two** things, a **superlative** for the **top of three or more**. Which form you use depends on the **length** of the word.

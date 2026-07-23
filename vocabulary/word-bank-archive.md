@@ -5,6 +5,22 @@ Claude does NOT read this file automatically — only `/quiz` samples a small sl
 
 ---
 
+**first conditional** — a real/likely "if" situation — "If it **rains**, we **will stay** home." (If + present → will + base)
+**second conditional** — an imaginary "if" situation — "If I **had** more time, I **would learn** three languages." (If + past → would + base)
+**were (imaginary)** — *be* becomes *were* for all subjects in a 2nd conditional — "If I **were** single, I would have more savings."
+**fewer vs. less** — *fewer* for things you count, *less* for things you measure — "**fewer** tokens / boxes" but "**less** water / time"
+
+---
+
+**passive voice** — a sentence style that focuses on what happened, not who did it — "The house **was cleaned**." (be + V3)
+**past participle (V3)** — the third form of a verb, used after *be/have* — "build → built → **built**", "take → took → **taken**"
+**by (+ doer)** — adds who did the action in a passive sentence, only when it matters — "The house was cleaned **by my cousin**."
+
+**reported speech** — retelling what someone said, with the tense stepped one step back — "She said (that) she was tired." (from "I am tired")
+**tell (someone) vs say** — *tell* needs a person after it, *say* does not — "She **told me** that..." / "She **said** that..."
+
+---
+
 **another (+ time period)** — one more period of time — "It may take **another** 2 weeks." *(NOT "more 2 weeks")*
 **up in the air** — not decided yet, uncertain (idiom) — "My moving date is still up in the air."
 **little by little** — slowly, in small steps (idiom) — "I'm packing little by little."

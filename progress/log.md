@@ -12,6 +12,22 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 40 — 2026-07-23
+**Topic:** Free conversation practice (B2) — the new house, cleaning it, and starting a vegetable garden
+**Practiced:** Casual chat (10 exchanges) — studying two sessions a day no matter the deadline, cleaning the stacked stuff in the living room, then trimming trees and cutting the grass, and planting green oak & red oak lettuce
+**Learned/reinforced:** **whether ... or not** (used unprompted!); **wouldn't + base verb**; **finish + -ing**; **that's why**; **the** living room/kitchen; **grass** is uncountable; **trim** vs *cut down* a tree; **vegetable garden** (noun + noun stays singular); **plan** vs **plant**; **a lot of**; **eat them as a side dish**; **edible** / *you can eat it raw*
+**Notes:** Lively, natural chat with real opinions ("I wouldn't spend my free time on work"). Best moment: reusing **whether** from Session 39 correctly and on his own. Repeat slips: modal + base verb (*wouldn't spent*), *finish* + -ing (*finishing cleaning* → *finish cleaning*), *a lot* without *of*, and missing **the** before rooms. Second session today. **4-day streak. 40 sessions.**
+
+---
+
+### Session 39 — 2026-07-23
+**Topic:** **whether / if** — joining an unknown thing to your sentence (B1/B2)
+**Practiced:** Warm-up (Point's runny poop & not knowing if he's sick; an extra task landing while the main deadline approaches), then a 5-item fix-the-sentence drill
+**Learned:** **whether / if** = "yes or no, I don't know"; **or not** pairs with **whether**; ⭐ **normal word order inside the sentence** (*I don't know whether he **is** sick*, not *whether is he*); **backshift** after a past verb (*He asked me if I **liked** it*); **runny** (poop/nose); **an extra task**; ***is* going to** hit the deadline
+**Notes:** **5/5 on the drill** — he got the hardest part, word order, right every time and never mis-paired *or not*. Small slips only: spelling *finishe* → **finish**, a mid-sentence capital *It*, and `?.` double punctuation. Third-person -s was mixed in the warm-up (*he get / he always closed / called*), so it stays at 2/3. **4-day streak. 39 sessions.**
+
+---
+
 ### Session 38 — 2026-07-22
 **Topic:** Free conversation practice (B2) — Point the cat on a rainy day & cat behavior
 **Practiced:** Short casual chat (~5 exchanges) — Point staying inside instead of going out because of the rain, both reasons combining to make him lazy, and how a cat loves you "on its own terms" (*"I love you, but keep away from me"*)
@@ -73,22 +89,6 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 **Practiced:** Warm-up (felt fresh after good sleep, played two matches), a 5-gap fill choosing much/many/a lot of, then 3 own sentences about work hours, coffee, and the ROAT timeline
 **Learned:** **many** + countable (*matches, characters*), **much** + uncountable (*time, work* — esp. in ❓/➖), **a lot of** works for both & is the safe choice; **relax** is a verb (*"I relaxed a lot"*, not *"do many relax"*); we work **on** a project (not *in*); *"What I'm worried about is that…"*; the timeline is **tight**
 **Notes:** Perfect 5/5 on the gap-fills and used all three quantifiers naturally in real conversation, even "too much" correctly. Wrote *characters* with -s and small "c" — applying an active correction. Main slips: repeated *"each day…per day"*, *"in the project"* → **on**, and a tangled *"what I worry is about"*. **5-day streak. 31 sessions.**
-
----
-
-### Session 30 — 2026-07-16
-**Topic:** Free conversation practice (B2) — hobbies: drawing & video games
-**Practiced:** Casual chat (~10 exchanges) — a chill day, ways to relax (games/drawing/sleep), doodling on real paper vs a screen, not drawing for work, MLBB with coworkers vs Expedition 33 solo at home
-**Learned/reinforced:** **doodle/doodling**; **sell yourself short**; base verb after *don't* (*don't **draw***) & *to* (*to keep going*); **I'd like** (would like) not *I'll like*; **doesn't** for singular "screen drawing"; present-tense habit (*I just **leave** them*); "used to" reused correctly again
-**Notes:** Nice flowing chat — meaning clear throughout, and a spontaneous, correct **"used to"** (last session's topic). Main recurring slip was **missing plural -s** (*thing→things* ×2, *Character→characters*) — added to corrections. Also *stated→started*, *Sometime→Sometimes*, *different vs difference*. Second session today. **4-day streak. 30 sessions.**
-
----
-
-### Session 29 — 2026-07-16
-**Topic:** `used to` — past habits & states (B2)
-**Practiced:** Warm-up story (arrived an hour early, played MLBB; cat went out & was left outside), 3 gap-fills turning verbs into "past-but-not-now", then own `used to` sentences (spicy→bland food, cat used to be cute, gave up Julian)
-**Learned:** **used to + base verb** = true in the past, not now (*used to play/be*); negative **didn't use to**, question **Did you use to...?**; **every day** (2 words = daily) vs **everyday** (1 word = ordinary); **go for a walk** (not *have*); **bland** = opposite of spicy; **give it up** (object between)
-**Notes:** Great first-try grasp — all `used to` forms correct incl. the question form. Main slips were **irregular past** (*leaved*→**left**, *not came*→**didn't come**) and the recurring **a lot** spelled *alot*. Word order "an hour before" and plural "matches" also polished. **4-day streak. 29 sessions.**
 
 ---
 
