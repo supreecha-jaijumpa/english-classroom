@@ -5,6 +5,28 @@ Claude does NOT read this file automatically — it is for your personal referen
 
 ---
 
+## Lesson 32: much / many / a lot of — Quantifiers (B2)
+
+How to say "a big amount." The word you choose depends on whether the noun is **countable** or **uncountable**.
+
+| Word | Use with | Best in |
+|------|----------|---------|
+| **many** | countable nouns (*matches, hours, characters*) | ➕ ❓ ➖ |
+| **much** | uncountable nouns (*time, work, coffee, sleep*) | mostly ❓ ➖ |
+| **a lot of** | **both** — the safe choice | ➕ ❓ ➖ |
+
+> ✅ *"I played **many matches**."* · ✅ *"I don't have **much time**."* · ✅ *"There's **a lot of work**."*
+
+### Two quick rules
+- In a **positive** sentence, we usually avoid *much* → use **a lot of**: *"I got **a lot of** sleep"* (not "much sleep").
+- **too much / too many** = more than you want: *"I don't drink **too much** coffee."*
+
+💡 When unsure, **a lot of** works with everything — countable or uncountable.
+
+⚠️ **relax** is a **verb**, not a countable thing → *"I **relaxed a lot**"* (never "do many relax").
+
+---
+
 ## Lesson 31: `used to` — past habits & states (B2)
 
 Use **`used to + base verb`** for something that was **true in the past but is NOT true now**.

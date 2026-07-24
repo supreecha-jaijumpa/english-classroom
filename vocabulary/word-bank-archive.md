@@ -5,6 +5,14 @@ Claude does NOT read this file automatically — only `/quiz` samples a small sl
 
 ---
 
+**interrupt (interrupts)** — to stop someone in the middle of what they are doing — "My cat **interrupts** me while I'm sleeping." *(singular subject → interrupt**s**)*
+**the same (as)** — identical to something else — "I like **the same** games **as** my coworker." *(always needs "the")*
+**cost an arm and a leg** — very expensive — "My new laptop **cost an arm and a leg**."
+**piece of cake** — very easy — "The test was **a piece of cake**."
+**hit the sack** — go to bed — "I'm tired, I'll **hit the sack**." *(not "hit the bed")*
+
+---
+
 **first conditional** — a real/likely "if" situation — "If it **rains**, we **will stay** home." (If + present → will + base)
 **second conditional** — an imaginary "if" situation — "If I **had** more time, I **would learn** three languages." (If + past → would + base)
 **were (imaginary)** — *be* becomes *were* for all subjects in a 2nd conditional — "If I **were** single, I would have more savings."

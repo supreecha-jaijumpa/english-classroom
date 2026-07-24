@@ -4,6 +4,19 @@ Simple grammar rules, explained in plain language. Newest lessons go at the **to
 
 ---
 
+## Lesson 37: **will** vs **going to** — future plans (B1)
+
+Two ways to talk about the future, chosen by *when you decided*.
+
+| Use | Meaning | Example |
+|---|---|---|
+| **going to** | a plan already decided before now | "I'm **going to** plant a vegetable garden this weekend." |
+| **will** | a decision made right now, a promise, or a prediction | "I'll help you!" · "It **will** rain soon." |
+
+💡 If you already had the idea before someone asked, use **going to**. If you're deciding as you speak (or promising, or guessing from evidence), use **will**.
+
+---
+
 ## Lesson 36: **whether / if** — saying you don't know (B1/B2)
 
 When you don't know a yes/no answer, you can't just glue two sentences together. Use **whether** or **if** to join them.
@@ -104,31 +117,11 @@ A good story has **three parts**.
 
 ---
 
-## Lesson 32: much / many / a lot of — Quantifiers (B2)
-
-How to say "a big amount." The word you choose depends on whether the noun is **countable** or **uncountable**.
-
-| Word | Use with | Best in |
-|------|----------|---------|
-| **many** | countable nouns (*matches, hours, characters*) | ➕ ❓ ➖ |
-| **much** | uncountable nouns (*time, work, coffee, sleep*) | mostly ❓ ➖ |
-| **a lot of** | **both** — the safe choice | ➕ ❓ ➖ |
-
-> ✅ *"I played **many matches**."* · ✅ *"I don't have **much time**."* · ✅ *"There's **a lot of work**."*
-
-### Two quick rules
-- In a **positive** sentence, we usually avoid *much* → use **a lot of**: *"I got **a lot of** sleep"* (not "much sleep").
-- **too much / too many** = more than you want: *"I don't drink **too much** coffee."*
-
-💡 When unsure, **a lot of** works with everything — countable or uncountable.
-
-⚠️ **relax** is a **verb**, not a countable thing → *"I **relaxed a lot**"* (never "do many relax").
-
 ---
 
 ## Archived Topics (full lessons in notes-archive.md)
 
-1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2) · 23 Giving & Defending Opinions — Debate Language (B2) · 24 Idioms & the "-ing after a preposition" rule (B2) · 25 Reported Speech (B2) · 26 Passive Voice (B2) · 27 Conditionals — the Two-Column Rule (B2 review) · 28 Idioms + the "-ing as subject" rule (B2) · 29 Comparatives & Superlatives (B2) · 30 Present Perfect — has/have + past participle (B2) · 31 `used to` — past habits & states (B2)
+1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2) · 23 Giving & Defending Opinions — Debate Language (B2) · 24 Idioms & the "-ing after a preposition" rule (B2) · 25 Reported Speech (B2) · 26 Passive Voice (B2) · 27 Conditionals — the Two-Column Rule (B2 review) · 28 Idioms + the "-ing as subject" rule (B2) · 29 Comparatives & Superlatives (B2) · 30 Present Perfect — has/have + past participle (B2) · 31 `used to` — past habits & states (B2) · 32 much / many / a lot of — Quantifiers (B2)
 
 ---
 

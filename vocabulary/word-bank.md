@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 175
+## Total Words Learned: 180
 
 *(This is the only place the word count lives.)*
 
@@ -17,6 +17,13 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 ## Words Learned
 
 *(Newest at the top)*
+
+**as much as (I) can** — to the greatest amount possible — "I'll clean the area **as much as** I can."
+**bored vs bothered — didn't bother to / couldn't be bothered** — didn't want to make the effort (not the same as *bored*) — "He **didn't bother to** pull me back to the work."
+**get to / reach (a place)** — arrive at, or manage to reach, somewhere — "The grass is so high, I can't **get to** the tree."
+
+> **going to** — a plan you already decided before now — "I'm going to plant a vegetable garden this weekend."
+> **haven't ... yet** — something not done up to now — "I haven't done anything in the garden yet."
 
 **trim / cut back (a tree)** — to make a plant smaller, not remove it (*cut down* = remove the whole tree) — "I have to **trim the trees** before the weekend."
 **cut the grass / mow the lawn** — *grass* is **uncountable** — never *grasses* — "After I **cut the grass**, I'll start a garden."
@@ -73,11 +80,6 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 **once in a blue moon** — very rarely — "I eat fast food **once in a blue moon**." *(idiom — fixed phrase)*
 **under the weather** — feeling sick / unwell — "I stayed home because I was **under the weather**."
-**hit the sack** — go to bed — "I'm tired, I'll **hit the sack**." *(not "hit the bed")*
-**piece of cake** — very easy — "The test was **a piece of cake**."
-**cost an arm and a leg** — very expensive — "My new laptop **cost an arm and a leg**."
 
-**the same (as)** — identical to something else — "I like **the same** games **as** my coworker." *(always needs "the")*
-**interrupt (interrupts)** — to stop someone in the middle of what they are doing — "My cat **interrupts** me while I'm sleeping." *(singular subject → interrupt**s**)*
 
 

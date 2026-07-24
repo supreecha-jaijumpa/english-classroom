@@ -12,6 +12,22 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 42 — 2026-07-24
+**Topic:** Free conversation practice (B2) — weekend garden plan & a childhood memory helping dad
+**Practiced:** Casual chat (~9 exchanges) — order of yard tasks (grass first, then the tree), why tall grass blocks the tree, and a childhood memory of "helping" his father by playing around
+**Learned/reinforced:** **as much as (I) can**; zero conditional — **"if X, I can't Y"** (not *couldn't*); **was** not *were* for I (*I was a child*); **bored** vs **bothered** (**didn't bother to** / **couldn't be bothered**); **get to / reach** (a place)
+**Notes:** Third-person -s slipped again (*cover→covers*, *not count→doesn't count*) — same recurring pattern from earlier today. Nice self-fix on "where I **got** the word" after being asked. Second session today. **5-day streak. 42 sessions.**
+
+---
+
+### Session 41 — 2026-07-24
+**Topic:** **will** vs **going to** — talking about future plans (B1)
+**Practiced:** Warm-up (weekend garden plan; a whether/if review sentence — perfect); 3-sentence drill covering a pre-decided plan (*going to*), a spontaneous offer (*will*), and a prediction (*will*)
+**Learned/reinforced:** **going to** = a plan already decided before now; **will** = a decision made in the moment, a promise, or a prediction; **"I'll help you!"** as a natural spontaneous offer (not a question)
+**Notes:** 2/3 clean on the drill — the one miss came from a confusing example on my side, not a real mistake. The whether/if sentence from Session 39 was flawless again. **5-day streak. 41 sessions.**
+
+---
+
 ### Session 40 — 2026-07-23
 **Topic:** Free conversation practice (B2) — the new house, cleaning it, and starting a vegetable garden
 **Practiced:** Casual chat (10 exchanges) — studying two sessions a day no matter the deadline, cleaning the stacked stuff in the living room, then trimming trees and cutting the grass, and planting green oak & red oak lettuce
@@ -73,24 +89,6 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 **Practiced:** Warm-up (went back to clean the old house, mountain green & sky clear), learned the 3-part story shape + order words, then wrote a 9-line story about giving his unused things away on social media in exchange for help moving the trash; 3 fix-the-sentence drills
 **Learned:** Story shape = **set the scene → order words → how you felt**; *First / Then / After that / While / Suddenly / Finally*; **stuff** is uncountable (*too **much** stuff*, never *stuffs*); irregular plurals **children / people / men**; **help + person + base verb** (*helped me carry*); keep the whole story past (*there **were***); **go back / give back** (not *"I backed"*); **on social media** (no *the*); **exchange contact details**; **in return**
 **Notes:** Best writing yet — a real story with a beginning, middle and end, and **every irregular past verb correct** (went, gave, came, said, left) → that correction bumped to 1/3. He over-applied the plural -s rule he learned last week (*stuffs, childrens*), which is a good sign; fixed both on the first try in the drill (2/3 on quick practice, only *many→much* missed). Returned after a 2-day gap, so the streak restarts. **1-day streak. 33 sessions.**
-
----
-
-### Session 32 — 2026-07-17
-**Topic:** Free conversation practice (B2) — laziness, staring into space & the mountain by the office
-**Practiced:** Casual chat (~9 exchanges) — a heavy but manageable workload, wasting time getting ready for work, staring at a huge forest mountain next to the office and how it changes with each season
-**Learned/reinforced:** **stare into space** (new & loved); **arty** sounds a bit negative → prefer **artistic / like a painting**; **without** (one word); **What's annoying is…** (needs 's = *what is*); uncountable **a lot of time** (no -s); **just watching** (drop *for*); passive **is covered with mist**
-**Notes:** Lovely, vivid description of the mountain through the seasons — meaning clear throughout. Third-person **-s** slipped three times in one sentence (*it depent, it look, it not*) but he **self-corrected it perfectly in the very next message** (*"it looks"*, *"is covered"*). Other polish was mainly spelling (experiance, rainny, gloden brow, buatiful) and a mid-sentence capital "It". Second session today. **5-day streak. 32 sessions.**
-
----
-
-### Session 31 — 2026-07-17
-**Topic:** Quantifiers — much / many / a lot of (countable vs uncountable)
-**Practiced:** Warm-up (felt fresh after good sleep, played two matches), a 5-gap fill choosing much/many/a lot of, then 3 own sentences about work hours, coffee, and the ROAT timeline
-**Learned:** **many** + countable (*matches, characters*), **much** + uncountable (*time, work* — esp. in ❓/➖), **a lot of** works for both & is the safe choice; **relax** is a verb (*"I relaxed a lot"*, not *"do many relax"*); we work **on** a project (not *in*); *"What I'm worried about is that…"*; the timeline is **tight**
-**Notes:** Perfect 5/5 on the gap-fills and used all three quantifiers naturally in real conversation, even "too much" correctly. Wrote *characters* with -s and small "c" — applying an active correction. Main slips: repeated *"each day…per day"*, *"in the project"* → **on**, and a tangled *"what I worry is about"*. **5-day streak. 31 sessions.**
-
----
 
 ---
 

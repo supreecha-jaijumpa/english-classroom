@@ -5,6 +5,22 @@ Claude does NOT read this file automatically — it is for your personal referen
 
 ---
 
+### Session 32 — 2026-07-17
+**Topic:** Free conversation practice (B2) — laziness, staring into space & the mountain by the office
+**Practiced:** Casual chat (~9 exchanges) — a heavy but manageable workload, wasting time getting ready for work, staring at a huge forest mountain next to the office and how it changes with each season
+**Learned/reinforced:** **stare into space** (new & loved); **arty** sounds a bit negative → prefer **artistic / like a painting**; **without** (one word); **What's annoying is…** (needs 's = *what is*); uncountable **a lot of time** (no -s); **just watching** (drop *for*); passive **is covered with mist**
+**Notes:** Lovely, vivid description of the mountain through the seasons — meaning clear throughout. Third-person **-s** slipped three times in one sentence (*it depent, it look, it not*) but he **self-corrected it perfectly in the very next message** (*"it looks"*, *"is covered"*). Other polish was mainly spelling (experiance, rainny, gloden brow, buatiful) and a mid-sentence capital "It". Second session today. **5-day streak. 32 sessions.**
+
+---
+
+### Session 31 — 2026-07-17
+**Topic:** Quantifiers — much / many / a lot of (countable vs uncountable)
+**Practiced:** Warm-up (felt fresh after good sleep, played two matches), a 5-gap fill choosing much/many/a lot of, then 3 own sentences about work hours, coffee, and the ROAT timeline
+**Learned:** **many** + countable (*matches, characters*), **much** + uncountable (*time, work* — esp. in ❓/➖), **a lot of** works for both & is the safe choice; **relax** is a verb (*"I relaxed a lot"*, not *"do many relax"*); we work **on** a project (not *in*); *"What I'm worried about is that…"*; the timeline is **tight**
+**Notes:** Perfect 5/5 on the gap-fills and used all three quantifiers naturally in real conversation, even "too much" correctly. Wrote *characters* with -s and small "c" — applying an active correction. Main slips: repeated *"each day…per day"*, *"in the project"* → **on**, and a tangled *"what I worry is about"*. **5-day streak. 31 sessions.**
+
+---
+
 ### Session 30 — 2026-07-16
 **Topic:** Free conversation practice (B2) — hobbies: drawing & video games
 **Practiced:** Casual chat (~10 exchanges) — a chill day, ways to relax (games/drawing/sleep), doodling on real paper vs a screen, not drawing for work, MLBB with coworkers vs Expedition 33 solo at home
