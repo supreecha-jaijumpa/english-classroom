@@ -5,6 +5,14 @@ Claude does NOT read this file automatically — it is for your personal referen
 
 ---
 
+### Session 33 — 2026-07-20
+**Topic:** Storytelling — telling a story in the past (B1/B2)
+**Practiced:** Warm-up (went back to clean the old house, mountain green & sky clear), learned the 3-part story shape + order words, then wrote a 9-line story about giving his unused things away on social media in exchange for help moving the trash; 3 fix-the-sentence drills
+**Learned:** Story shape = **set the scene → order words → how you felt**; *First / Then / After that / While / Suddenly / Finally*; **stuff** is uncountable (*too **much** stuff*, never *stuffs*); irregular plurals **children / people / men**; **help + person + base verb** (*helped me carry*); keep the whole story past (*there **were***); **go back / give back** (not *"I backed"*); **on social media** (no *the*); **exchange contact details**; **in return**
+**Notes:** Best writing yet — a real story with a beginning, middle and end, and **every irregular past verb correct** (went, gave, came, said, left) → that correction bumped to 1/3. He over-applied the plural -s rule he learned last week (*stuffs, childrens*), which is a good sign; fixed both on the first try in the drill (2/3 on quick practice, only *many→much* missed). Returned after a 2-day gap, so the streak restarts. **1-day streak. 33 sessions.**
+
+---
+
 ### Session 32 — 2026-07-17
 **Topic:** Free conversation practice (B2) — laziness, staring into space & the mountain by the office
 **Practiced:** Casual chat (~9 exchanges) — a heavy but manageable workload, wasting time getting ready for work, staring at a huge forest mountain next to the office and how it changes with each season

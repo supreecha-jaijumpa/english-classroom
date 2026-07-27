@@ -5,6 +5,35 @@ Claude does NOT read this file automatically — it is for your personal referen
 
 ---
 
+## Lesson 33: Telling a Story in the Past (B1/B2)
+
+A good story has **three parts**.
+
+**1. Set the scene** — when + where: *"**Last weekend**, I went back to my old house."*
+
+**2. Sequence the events** with order words:
+
+| Word | Use for |
+|------|---------|
+| **First,** | the beginning |
+| **Then,** / **After that,** | the next step |
+| **While** I was cleaning… | two things at the same time |
+| **Suddenly,** | a surprise |
+| **Finally,** / **In the end,** | the last step |
+
+**3. Say how you felt** — *"It **was** tiring, but I **felt** good."*
+
+### Three rules to keep it clean
+- **Stay in the past** the whole way through — *there is → there **were***, *I help → I **helped***.
+- **Only the first verb shows tense**: *"I **helped** the man **pack**"* (help + person + **base** verb).
+- **back** is not a verb — it follows one: **go back, give back, come back, bring back**. ❌ *"I backed"*
+
+### ⚠️ Plural traps
+- **Uncountable** nouns take no -s and use **much**: *too **much stuff*** (also *furniture, information, advice, trash*).
+- **Irregular plurals** change instead: child→**children**, person→**people**, man→**men**, foot→**feet**.
+
+---
+
 ## Lesson 32: much / many / a lot of — Quantifiers (B2)
 
 How to say "a big amount." The word you choose depends on whether the noun is **countable** or **uncountable**.

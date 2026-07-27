@@ -12,6 +12,14 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 
 ## Sessions
 
+### Session 43 — 2026-07-27
+**Topic:** Present perfect with **since / for / yet** (B1)
+**Practiced:** Warm-up (garden progress & Point's health), then a 3-sentence drill — one with *since*, one with *for*, one with *yet*
+**Learned/reinforced:** **have/has + past participle** connects past → now; **since** (starting point) vs **for** (length of time) vs **yet** (up to now, in negatives/questions); keep the pattern parallel ("I **haven't finished**", not "I'm not finish"); **has** for he/she/it
+**Notes:** Present-perfect structure correct in all 3 drill sentences — strong first go, and he used it unprompted in the warm-up. Slips were the irregular past *cut* (wrote "cuted") and the participle *studied* (wrote "have study"). Streak broke — no sessions July 25–26. **1-day streak (restarted). 43 sessions.**
+
+---
+
 ### Session 42 — 2026-07-24
 **Topic:** Free conversation practice (B2) — weekend garden plan & a childhood memory helping dad
 **Practiced:** Casual chat (~9 exchanges) — order of yard tasks (grass first, then the tree), why tall grass blocks the tree, and a childhood memory of "helping" his father by playing around
@@ -81,14 +89,6 @@ Counters (total sessions, streaks) live in `streaks.md`. The word count lives in
 **Practiced:** Casual chat (~10 exchanges) — the old house now empty, moving out of his parents' place, adopting a stray cat that was going to be culled, the name "Point" (a Thai word for his cat's pattern), the daily let-him-out / let-him-in routine, and the rat/lizard/snake "presents"
 **Learned/reinforced:** **adopt** a cat (≠ *pet*, which is the verb for stroking); **rescue / rescue cat**; **stray**; **name someone after something**; **let him out / let him in**; **act weird**; **may have + past participle** (past probability); passive *"they were going to be killed"*; *this evening* (not *today evening*); *moved out of my parents' house* (not *separated with*)
 **Notes:** Warm, story-rich chat — he reused **used to** correctly for the third session running. The session's real pattern was the **third-person -s**: dropped 4× in one message (*stay, go, mean, match*), then **over-applied** it after modals in the very next message (*may misses, may loves, will calls*) — the same over-correction shape as last session's *stuffs/childrens*, so the rule is clearly active, just not yet automatic. Second session today. **1-day streak. 34 sessions.**
-
----
-
-### Session 33 — 2026-07-20
-**Topic:** Storytelling — telling a story in the past (B1/B2)
-**Practiced:** Warm-up (went back to clean the old house, mountain green & sky clear), learned the 3-part story shape + order words, then wrote a 9-line story about giving his unused things away on social media in exchange for help moving the trash; 3 fix-the-sentence drills
-**Learned:** Story shape = **set the scene → order words → how you felt**; *First / Then / After that / While / Suddenly / Finally*; **stuff** is uncountable (*too **much** stuff*, never *stuffs*); irregular plurals **children / people / men**; **help + person + base verb** (*helped me carry*); keep the whole story past (*there **were***); **go back / give back** (not *"I backed"*); **on social media** (no *the*); **exchange contact details**; **in return**
-**Notes:** Best writing yet — a real story with a beginning, middle and end, and **every irregular past verb correct** (went, gave, came, said, left) → that correction bumped to 1/3. He over-applied the plural -s rule he learned last week (*stuffs, childrens*), which is a good sign; fixed both on the first try in the drill (2/3 on quick practice, only *many→much* missed). Returned after a 2-day gap, so the streak restarts. **1-day streak. 33 sessions.**
 
 ---
 

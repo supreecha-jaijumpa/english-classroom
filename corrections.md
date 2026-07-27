@@ -16,6 +16,11 @@ This file holds **Active Mistakes only, max ~10** — sessions read just this se
 
 ## Active Mistakes
 
+> ❌ Wrong: *"I have **study** English"* / *"I'm **not finish** the cleaning"*
+> ✅ Right: *"I have **studied** English"* / *"I **haven't finished** the cleaning"*
+> 💡 Why: The **present perfect** is **have/has + past participle (V3)** — never the base verb: *have **studied***, *has **eaten***, *have **finished***. And don't mix it with *am/is/are*: to say something is *not yet done*, use the same pattern in the negative — ***haven't** finished*, not *"I'm not finish"*. Keep both halves of a sentence in the same present-perfect shape.
+> 📊 Correct uses: 0/3 *(New in Session 43 — the structure was correct in all 3 drill sentences (have lived / have studied / haven't planted ⭐), but the participle form slipped: "have study"→studied, and the second clause switched to "I'm not finish"→I haven't finished.)*
+
 > ❌ Wrong: *"my cat **stay** with me"* / *"the word **mean**"* / but also *"he may **misses**"*
 > ✅ Right: *"my cat **stays** with me"* / *"the word **means**"* / *"he may **miss**"*
 > 💡 Why: **Two halves of one rule.** (1) With **he / she / it** or a singular noun (*my cat, the word, that pattern*), the present-tense verb takes **-s**: *stay**s**, goe**s**, mean**s**, match**es***. (2) But after a **modal** (*may / will / can / should*) the verb goes back to **base form** — the modal already carries the grammar: *he may **miss***, *he will **call***. Habit → *"Every morning he **calls** me."* Modal → *"He will **call** me."*
@@ -34,7 +39,7 @@ This file holds **Active Mistakes only, max ~10** — sessions read just this se
 > ❌ Wrong: *"I **leaved** it outside"* / *"my cat **not came** back"*
 > ✅ Right: *"I **left** it outside"* / *"my cat **didn't come** back"*
 > 💡 Why: Two past-tense rules. (1) Many common verbs are **irregular** — don't add -ed: *leave→**left**, come→**came**, eat→**ate**, go→**went**, give→**gave***. (2) For a **past negative**, use *didn't + **base** verb* (the *didn't* already shows past): *"didn't **come**"*, not *"not came"*.
-> 📊 Correct uses: 1/3 *(**Session 33: perfect — every irregular past correct in a 9-line story: went, gave, came, said, left** ✅ → bumped to 1/3. Recurring in Session 29: "leaved"→left, "not came"→didn't come; "eated"→ate in Session 24.)*
+> 📊 Correct uses: 1/3 *(Session 43: slipped in the warm-up — "I **cuted** the grass"→cut (*cut* is irregular: cut/cut/cut); also spelling "trimed"→trimmed; held at 1/3. **Session 33: perfect — every irregular past correct in a 9-line story: went, gave, came, said, left** ✅ → bumped to 1/3. Recurring in Session 29: "leaved"→left, "not came"→didn't come; "eated"→ate in Session 24.)*
 
 > ❌ Wrong: *"I eat spicy **alot**"*
 > ✅ Right: *"I eat spicy food **a lot**"*

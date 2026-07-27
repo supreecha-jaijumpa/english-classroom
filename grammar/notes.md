@@ -4,6 +4,24 @@ Simple grammar rules, explained in plain language. Newest lessons go at the **to
 
 ---
 
+## Lesson 38: Present Perfect with **since / for / yet** (B1)
+
+**have/has + past participle (V3)** connects a past action to **now** — it started in the past and is still true / relevant today.
+
+| Word | Meaning | Example |
+|---|---|---|
+| **since** | a *starting point* in time | "I've lived in Chiang Mai **since 2020**." |
+| **for** | a *length* of time | "I've studied English **for** one and a half months." |
+| **yet** | "up to now" (in ➖ and ❓) | "I haven't planted anything **yet**." |
+
+### Rules to remember
+- Use the **past participle**, never the base verb: study→**studied**, eat→**eaten**, finish→**finished**.
+- **has** for *he / she / it / Point*; **have** for *I / you / we / they*.
+- Don't mix with *am/is/are* — for "not done yet", say ***haven't finished***, not *"I'm not finish"*.
+- ❌ *"I live here since 2020"* → ✅ *"I **have lived** here since 2020"* (still true now).
+
+---
+
 ## Lesson 37: **will** vs **going to** — future plans (B1)
 
 Two ways to talk about the future, chosen by *when you decided*.
@@ -88,40 +106,9 @@ Same shape as *may/might* + **have** + V3 — and remember, after *have* the ver
 
 ---
 
-## Lesson 33: Telling a Story in the Past (B1/B2)
-
-A good story has **three parts**.
-
-**1. Set the scene** — when + where: *"**Last weekend**, I went back to my old house."*
-
-**2. Sequence the events** with order words:
-
-| Word | Use for |
-|------|---------|
-| **First,** | the beginning |
-| **Then,** / **After that,** | the next step |
-| **While** I was cleaning… | two things at the same time |
-| **Suddenly,** | a surprise |
-| **Finally,** / **In the end,** | the last step |
-
-**3. Say how you felt** — *"It **was** tiring, but I **felt** good."*
-
-### Three rules to keep it clean
-- **Stay in the past** the whole way through — *there is → there **were***, *I help → I **helped***.
-- **Only the first verb shows tense**: *"I **helped** the man **pack**"* (help + person + **base** verb).
-- **back** is not a verb — it follows one: **go back, give back, come back, bring back**. ❌ *"I backed"*
-
-### ⚠️ Plural traps
-- **Uncountable** nouns take no -s and use **much**: *too **much stuff*** (also *furniture, information, advice, trash*).
-- **Irregular plurals** change instead: child→**children**, person→**people**, man→**men**, foot→**feet**.
-
----
-
----
-
 ## Archived Topics (full lessons in notes-archive.md)
 
-1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2) · 23 Giving & Defending Opinions — Debate Language (B2) · 24 Idioms & the "-ing after a preposition" rule (B2) · 25 Reported Speech (B2) · 26 Passive Voice (B2) · 27 Conditionals — the Two-Column Rule (B2 review) · 28 Idioms + the "-ing as subject" rule (B2) · 29 Comparatives & Superlatives (B2) · 30 Present Perfect — has/have + past participle (B2) · 31 `used to` — past habits & states (B2) · 32 much / many / a lot of — Quantifiers (B2)
+1 "There is" and "There are" · 2 No Article with Meal Names · 3 Prepositions of Time — AT / ON / IN · 4 "A" vs "An" — Articles Before Nouns · 5 Always Capitalize "I" · 6 "To Be" Verb Is Always Required · 7 Indirect Questions — Word Order · 8 "Too" vs "To" — Different Words, Different Meanings · 9 Fixed Phrases with "At" · 10 "Many" + Plural Noun · 11 Simple Past Tense · 12 -ing vs -ed Adjectives (Bored vs Boring) · 13 Past Continuous Tense (was/were + verb-ing) · 14 Future Tense — "will" vs "going to" · 15 Present Perfect Tense (have/has + past participle) · 16 Expressing Opinions (B1) · 17 Future Plans — Expressions for Goals and Wishes (B1) · 18 Storytelling — Structure & Connectors (B1) · 19 Phone Calls & "Its" vs "It's" (B1) · 20 Work Life — Talking About Your Job (B1) · 21 Conditionals — Zero, First & Second (B2) · 22 Relative Clauses (B2) · 23 Giving & Defending Opinions — Debate Language (B2) · 24 Idioms & the "-ing after a preposition" rule (B2) · 25 Reported Speech (B2) · 26 Passive Voice (B2) · 27 Conditionals — the Two-Column Rule (B2 review) · 28 Idioms + the "-ing as subject" rule (B2) · 29 Comparatives & Superlatives (B2) · 30 Present Perfect — has/have + past participle (B2) · 31 `used to` — past habits & states (B2) · 32 much / many / a lot of — Quantifiers (B2) · 33 Telling a Story in the Past (B1/B2)
 
 ---
 

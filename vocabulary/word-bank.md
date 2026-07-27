@@ -8,7 +8,7 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 ---
 
-## Total Words Learned: 180
+## Total Words Learned: 182
 
 *(This is the only place the word count lives.)*
 
@@ -18,6 +18,8 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 
 *(Newest at the top)*
 
+**since then** — from that point in time until now (pairs with present perfect) — "I haven't seen Point's poop **since then**."
+**one and a half** — 1½; the noun after it stays plural — "I've studied English for **one and a half months**."
 **as much as (I) can** — to the greatest amount possible — "I'll clean the area **as much as** I can."
 **bored vs bothered — didn't bother to / couldn't be bothered** — didn't want to make the effort (not the same as *bored*) — "He **didn't bother to** pull me back to the work."
 **get to / reach (a place)** — arrive at, or manage to reach, somewhere — "The grass is so high, I can't **get to** the tree."
@@ -78,8 +80,6 @@ To keep sessions fast, commands like `/vocabulary` and `/quiz` read only the mos
 **superlative** — the form for the top of **three or more** — "the **biggest**, the **happiest**, the **most delicious**." *(always needs *the*)*
 **worse / the worst** — the irregular comparative & superlative of *bad* — "Today is **worse** than yesterday, but Monday was **the worst**."
 
-**once in a blue moon** — very rarely — "I eat fast food **once in a blue moon**." *(idiom — fixed phrase)*
-**under the weather** — feeling sick / unwell — "I stayed home because I was **under the weather**."
 
 
 

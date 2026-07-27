@@ -5,6 +5,11 @@ Claude does NOT read this file automatically — only `/quiz` samples a small sl
 
 ---
 
+**once in a blue moon** — very rarely — "I eat fast food **once in a blue moon**." *(idiom — fixed phrase)*
+**under the weather** — feeling sick / unwell — "I stayed home because I was **under the weather**."
+
+---
+
 **interrupt (interrupts)** — to stop someone in the middle of what they are doing — "My cat **interrupts** me while I'm sleeping." *(singular subject → interrupt**s**)*
 **the same (as)** — identical to something else — "I like **the same** games **as** my coworker." *(always needs "the")*
 **cost an arm and a leg** — very expensive — "My new laptop **cost an arm and a leg**."
